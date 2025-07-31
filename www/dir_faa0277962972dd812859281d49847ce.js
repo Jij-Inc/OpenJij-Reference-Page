@@ -6,6 +6,8 @@ var dir_faa0277962972dd812859281d49847ce =
     [ "classical_ising.hpp", "classical__ising_8hpp.html", "classical__ising_8hpp" ],
     [ "classical_ising_polynomial.hpp", "classical__ising__polynomial_8hpp.html", "classical__ising__polynomial_8hpp" ],
     [ "continuous_time_ising.hpp", "continuous__time__ising_8hpp.html", "continuous__time__ising_8hpp" ],
+    [ "integer_polynomial_sa_system.hpp", "integer__polynomial__sa__system_8hpp.html", "integer__polynomial__sa__system_8hpp" ],
+    [ "integer_quadratic_sa_system.hpp", "integer__quadratic__sa__system_8hpp.html", "integer__quadratic__sa__system_8hpp" ],
     [ "ising_polynomial_sa_system.hpp", "ising__polynomial__sa__system_8hpp.html", "ising__polynomial__sa__system_8hpp" ],
     [ "k_local_polynomial.hpp", "k__local__polynomial_8hpp.html", "k__local__polynomial_8hpp" ],
     [ "sa_system.hpp", "sa__system_8hpp.html", null ],

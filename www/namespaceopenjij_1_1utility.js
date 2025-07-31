@@ -8,6 +8,7 @@ var namespaceopenjij_1_1utility =
     [ "IndexHash", "structopenjij_1_1utility_1_1IndexHash.html", "structopenjij_1_1utility_1_1IndexHash" ],
     [ "IndexPairHash", "structopenjij_1_1utility_1_1IndexPairHash.html", "structopenjij_1_1utility_1_1IndexPairHash" ],
     [ "IndexVectorHash", "structopenjij_1_1utility_1_1IndexVectorHash.html", "structopenjij_1_1utility_1_1IndexVectorHash" ],
+    [ "IntegerVariable", "structopenjij_1_1utility_1_1IntegerVariable.html", "structopenjij_1_1utility_1_1IntegerVariable" ],
     [ "is_same_template", "structopenjij_1_1utility_1_1is__same__template.html", null ],
     [ "is_same_template< T, T >", "structopenjij_1_1utility_1_1is__same__template_3_01T_00_01T_01_4.html", null ],
     [ "PairHash", "structopenjij_1_1utility_1_1PairHash.html", "structopenjij_1_1utility_1_1PairHash" ],

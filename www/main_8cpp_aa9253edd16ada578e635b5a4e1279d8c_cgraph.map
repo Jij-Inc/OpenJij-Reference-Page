@@ -1,59 +1,71 @@
 <map id="PYBIND11_MODULE" name="PYBIND11_MODULE">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,579,156,604"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,755,156,780"/>
 <area shape="rect" id="Node000002" href="$namespaceopenjij.html#a4666aedd08c4bfc4e9796e7d73415cbc" title=" " alt="" coords="216,5,437,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,578,90,474,113,311,129,226,149,148,174,83,187,59,202,40,206,37,209,41,206,44,192,62,178,86,155,149,135,227,118,312,96,474,86,579"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,754,85,621,102,405,118,291,139,185,166,99,183,65,202,40,205,37,209,41,206,44,188,68,171,101,144,187,123,292,107,406,90,621,85,755"/>
 <area shape="rect" id="Node000003" href="$namespaceopenjij.html#aa9f55dd713a196b5b966c06b31431eca" title=" " alt="" coords="225,55,428,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,578,92,482,116,335,133,258,153,188,176,130,202,91,212,83,215,87,206,94,180,132,158,189,138,259,122,336,98,483,86,579"/>
-<area shape="rect" id="Node000004" href="$namespaceopenjij.html#a0e6500f25dbfcfae1084282e8a0da567" title=" " alt="" coords="223,571,431,611"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,589,209,589,209,594,156,594"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,754,86,629,105,429,121,323,142,225,169,145,184,114,202,91,211,83,215,87,206,94,189,117,174,147,147,227,126,324,111,429,92,629,85,755"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij.html#a0e6500f25dbfcfae1084282e8a0da567" title=" " alt="" coords="223,129,431,169"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="80,754,90,644,112,471,128,380,148,296,173,226,187,199,202,179,209,172,213,176,206,182,191,202,178,228,153,297,133,381,117,472,95,645,86,755"/>
 <area shape="rect" id="Node000006" href="$namespaceopenjij.html#a0e65968a00113912a7b8d8130eccc63e" title=" " alt="" coords="233,193,420,233"/>
-<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="80,578,85,518,103,427,118,378,139,329,167,283,202,243,219,230,222,235,206,247,171,286,144,331,123,380,108,429,91,518,85,579"/>
-<area shape="rect" id="Node000007" href="$namespaceopenjij.html#a9d2f1670307c9dc900aeb72ffdd7cd45" title=" " alt="" coords="233,129,420,169"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="79,578,81,509,86,458,95,401,110,342,132,282,162,227,202,179,219,166,222,170,206,183,167,230,137,285,115,343,100,402,91,459,86,509,84,578"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="81,754,92,655,116,501,132,420,152,346,175,284,202,243,219,229,223,234,206,246,180,287,157,347,137,421,121,502,97,656,86,755"/>
+<area shape="rect" id="Node000007" href="$namespaceopenjij.html#a9d2f1670307c9dc900aeb72ffdd7cd45" title=" " alt="" coords="233,281,420,321"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="79,754,79,681,84,628,92,567,107,504,129,441,160,382,202,331,219,318,222,322,206,335,165,385,134,443,112,506,98,568,89,628,85,681,84,754"/>
 <area shape="rect" id="Node000008" href="$namespaceopenjij.html#a5a57502db0bc86471cc676c43d8bc74e" title=" " alt="" coords="225,345,428,385"/>
-<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="84,578,98,541,122,492,157,439,178,415,202,395,211,389,214,393,206,399,182,419,161,443,127,494,103,543,89,580"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="79,754,84,691,100,594,115,540,137,487,165,438,202,395,212,387,215,391,206,399,170,441,141,490,120,542,105,595,89,691,85,755"/>
 <area shape="rect" id="Node000009" href="$namespaceopenjij.html#a01fed2ff595b4d69d004145352375eba" title=" " alt="" coords="253,409,401,435"/>
-<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="87,577,129,513,163,476,203,445,238,430,241,435,205,450,166,480,133,516,91,580"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="80,754,87,697,105,614,121,568,141,523,168,481,202,445,219,434,239,426,241,431,222,439,206,449,173,484,146,525,125,570,110,615,92,698,85,755"/>
 <area shape="rect" id="Node000010" href="$namespaceopenjij.html#a9426be96d5a84f7b1ec4fa5269d306ab" title=" " alt="" coords="251,483,402,523"/>
-<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="106,576,150,555,203,533,237,522,239,527,205,538,153,559,108,581"/>
-<area shape="rect" id="Node000011" href="$namespaceopenjij.html#ab32b60ed03b9d5607fe0cdfe1641e5e6" title=" " alt="" coords="243,863,411,888"/>
-<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="87,603,97,650,118,717,133,753,153,788,177,820,206,848,231,862,228,867,202,852,173,824,149,791,129,755,113,719,91,652,81,605"/>
-<area shape="rect" id="Node000016" href="$namespaceopenjij.html#a1ca8ea315efc86f59f6bb4a8e54c280c" title=" " alt="" coords="204,636,449,661"/>
-<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="129,601,205,621,249,631,248,636,203,626,128,607"/>
-<area shape="rect" id="Node000017" href="$namespaceopenjij.html#a89e3aba06016a07aae97a3ca10e7869a" title=" " alt="" coords="209,710,444,750"/>
-<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="101,602,147,634,205,670,267,702,265,707,203,675,144,639,98,606"/>
-<area shape="rect" id="Node000018" href="$namespaceopenjij.html#a46002e67f239d2b6af79b622e73607a6" title=" " alt="" coords="221,798,432,838"/>
-<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="91,603,133,676,166,720,206,760,229,776,255,790,252,795,226,781,202,764,162,724,128,679,86,606"/>
-<area shape="rect" id="Node000019" href="$namespaceopenjij.html#a1b054be06a99e5475d248dfa02c5a7b7" title=" " alt="" coords="227,281,426,321"/>
-<area shape="poly" id="edge27_Node000001_Node000019" title=" " alt="" coords="82,578,92,531,114,464,130,428,150,392,174,359,202,331,213,323,216,327,206,335,178,363,154,395,135,430,119,466,97,532,87,579"/>
-<area shape="rect" id="Node000020" href="$namespaceopenjij.html#ab4fd5d8e567c3ee2c835c2d8ac10b4a6" title=" " alt="" coords="214,936,439,961"/>
-<area shape="poly" id="edge30_Node000001_Node000020" title=" " alt="" coords="86,604,95,658,115,736,131,779,151,822,176,863,206,899,228,916,254,929,252,934,226,921,202,903,171,866,146,825,126,781,110,738,90,659,81,605"/>
-<area shape="rect" id="Node000021" href="$namespaceopenjij_1_1utility.html#aed53c62a9024fd673cf554c62da423f7" title="helper function for making classical constraint schedule list with geometric series of inverse temper..." alt="" coords="248,985,405,1040"/>
-<area shape="poly" id="edge32_Node000001_Node000021" title=" " alt="" coords="85,604,89,669,105,768,120,822,141,877,170,927,206,972,237,993,234,997,202,976,165,930,137,879,115,824,100,769,84,670,79,605"/>
-<area shape="rect" id="Node000022" href="$namespaceopenjij_1_1utility.html#a39b02ffdcd5820740b292fccbad9d0b5" title="helper function for making classical schedule list with geometric series of inverse temperatures." alt="" coords="238,1065,415,1105"/>
-<area shape="poly" id="edge33_Node000001_Node000022" title=" " alt="" coords="86,604,99,693,125,828,142,899,161,963,182,1016,206,1051,227,1066,224,1070,202,1055,178,1018,156,965,136,900,120,829,94,694,81,605"/>
-<area shape="rect" id="Node000023" href="$namespaceopenjij_1_1utility.html#ab3e756b89bb7af83f051410eb1ee74f9" title="helper function for making transverse field system schedule list with arithmetic sequence of annealin..." alt="" coords="214,1129,439,1169"/>
-<area shape="poly" id="edge34_Node000001_Node000023" title=" " alt="" coords="86,604,97,704,121,858,137,939,157,1013,180,1074,193,1098,206,1115,210,1118,206,1122,202,1118,188,1100,175,1077,152,1015,132,940,116,859,92,704,81,604"/>
-<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="281,572,278,562,286,552,302,547,327,545,355,548,371,555,368,560,354,553,327,550,303,552,289,557,283,563,286,570"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="82,754,94,711,117,652,153,588,176,559,202,533,237,515,239,519,206,537,180,562,157,591,122,654,99,713,87,755"/>
+<area shape="rect" id="Node000011" href="$namespaceopenjij.html#ab32b60ed03b9d5607fe0cdfe1641e5e6" title=" " alt="" coords="243,1215,411,1240"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="86,780,100,864,126,992,142,1058,162,1119,183,1168,206,1200,231,1216,228,1220,202,1204,178,1170,157,1120,137,1060,120,993,95,865,81,780"/>
+<area shape="rect" id="Node000016" href="$namespaceopenjij.html#af64bb4f63864f5f1db047a3edcd971b0" title=" " alt="" coords="239,659,414,699"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="106,752,150,731,203,709,227,701,229,706,205,714,153,735,108,757"/>
+<area shape="rect" id="Node000017" href="$namespaceopenjij.html#ab036a1aa51a6ff3bd7b5138422feaf0e" title=" " alt="" coords="239,747,414,787"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="156,765,226,765,226,770,156,770"/>
+<area shape="rect" id="Node000018" href="$namespaceopenjij.html#a38701cdae0b184efc7a72e91a666fbfe" title=" " alt="" coords="239,835,414,875"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="118,778,258,828,256,833,116,783"/>
+<area shape="rect" id="Node000019" href="$namespaceopenjij.html#a1ca8ea315efc86f59f6bb4a8e54c280c" title=" " alt="" coords="204,900,449,925"/>
+<area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="93,779,137,831,169,861,205,885,223,893,221,898,203,890,166,865,133,835,89,782"/>
+<area shape="rect" id="Node000020" href="$namespaceopenjij.html#a89e3aba06016a07aae97a3ca10e7869a" title=" " alt="" coords="209,974,444,1014"/>
+<area shape="poly" id="edge29_Node000001_Node000020" title=" " alt="" coords="91,779,133,851,166,895,206,935,230,952,257,966,254,971,227,956,202,939,162,898,129,854,86,781"/>
+<area shape="rect" id="Node000021" href="$namespaceopenjij.html#abbb1d1d614e3500ca4ec5f03a694059a" title=" " alt="" coords="229,1062,424,1102"/>
+<area shape="poly" id="edge31_Node000001_Node000021" title=" " alt="" coords="87,780,99,825,122,890,157,961,180,994,206,1024,226,1041,249,1054,247,1059,223,1045,202,1028,176,997,153,963,117,892,94,827,82,781"/>
+<area shape="rect" id="Node000022" href="$namespaceopenjij.html#a46002e67f239d2b6af79b622e73607a6" title=" " alt="" coords="221,1150,432,1190"/>
+<area shape="poly" id="edge33_Node000001_Node000022" title=" " alt="" coords="86,780,93,838,112,926,128,975,148,1024,174,1070,206,1112,225,1129,247,1142,244,1146,222,1133,202,1116,170,1073,144,1026,123,977,107,927,88,839,80,780"/>
+<area shape="rect" id="Node000023" href="$namespaceopenjij.html#a1b054be06a99e5475d248dfa02c5a7b7" title=" " alt="" coords="227,571,426,611"/>
+<area shape="poly" id="edge35_Node000001_Node000023" title=" " alt="" coords="87,753,130,690,163,653,203,621,214,615,216,620,205,626,167,656,134,693,91,756"/>
+<area shape="rect" id="Node000024" href="$namespaceopenjij.html#ab4fd5d8e567c3ee2c835c2d8ac10b4a6" title=" " alt="" coords="214,1288,439,1313"/>
+<area shape="poly" id="edge38_Node000001_Node000024" title=" " alt="" coords="86,780,100,873,125,1014,142,1088,161,1156,183,1213,206,1251,226,1268,250,1281,248,1285,223,1273,202,1254,178,1215,156,1158,137,1089,120,1015,94,873,81,781"/>
+<area shape="rect" id="Node000025" href="$namespaceopenjij_1_1utility.html#aed53c62a9024fd673cf554c62da423f7" title="helper function for making classical constraint schedule list with geometric series of inverse temper..." alt="" coords="248,1337,405,1392"/>
+<area shape="poly" id="edge40_Node000001_Node000025" title=" " alt="" coords="86,780,97,885,120,1049,136,1136,156,1215,179,1280,192,1305,206,1324,220,1336,237,1346,234,1350,217,1341,202,1328,188,1308,175,1282,151,1216,131,1137,115,1050,91,886,80,781"/>
+<area shape="rect" id="Node000026" href="$namespaceopenjij_1_1utility.html#a39b02ffdcd5820740b292fccbad9d0b5" title="helper function for making classical schedule list with geometric series of inverse temperatures." alt="" coords="238,1417,415,1457"/>
+<area shape="poly" id="edge41_Node000001_Node000026" title=" " alt="" coords="85,780,94,898,114,1087,130,1186,151,1277,176,1353,190,1381,206,1403,227,1419,224,1423,202,1407,186,1384,171,1355,145,1279,125,1187,109,1087,88,899,80,780"/>
+<area shape="rect" id="Node000027" href="$namespaceopenjij_1_1utility.html#ab3e756b89bb7af83f051410eb1ee74f9" title="helper function for making transverse field system schedule list with arithmetic sequence of annealin..." alt="" coords="214,1481,439,1521"/>
+<area shape="poly" id="edge42_Node000001_Node000027" title=" " alt="" coords="85,780,92,909,110,1117,126,1226,147,1328,173,1411,189,1443,206,1467,209,1470,205,1474,202,1470,184,1446,168,1413,142,1329,121,1227,105,1117,86,909,80,780"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="281,129,278,119,286,110,302,104,327,102,355,105,371,112,368,117,354,110,327,107,303,109,289,114,283,120,286,128"/>
 <area shape="rect" id="Node000005" href="$namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9" title=" " alt="" coords="509,288,645,313"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="390,569,420,554,448,533,491,482,524,425,549,370,565,326,570,327,554,372,529,427,495,485,451,537,423,558,393,574"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="424,166,451,178,484,200,514,226,559,276,555,279,510,230,480,205,448,183,422,171"/>
 <area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="544,289,537,280,540,270,554,264,577,261,605,265,616,274,612,278,602,270,577,267,555,269,544,273,542,279,548,286"/>
-<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="421,165,451,178,484,200,514,226,559,276,555,279,510,230,480,205,448,183,419,170"/>
-<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="281,129,278,119,286,110,302,104,327,102,355,105,371,112,368,117,354,110,327,107,303,109,289,114,283,120,286,128"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="420,298,495,298,495,303,420,303"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="281,281,278,271,286,262,302,256,327,254,355,257,371,264,368,269,354,262,327,259,303,261,289,266,283,272,286,280"/>
 <area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="281,484,278,474,286,464,302,459,327,457,355,460,371,467,368,472,354,465,327,462,303,464,289,469,283,475,286,482"/>
-<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Graph.html#ab3824a31545d17f2abb88ce72a7f4660" title="generate spins randomly." alt="" coords="497,855,656,895"/>
-<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="411,873,484,873,484,878,411,878"/>
-<area shape="rect" id="Node000014" href="$classopenjij_1_1graph_1_1Graph.html#a3ec29138adf2044f5c5945630f4f8aaf" title="generate spins randomly." alt="" coords="497,919,656,959"/>
-<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="395,885,450,898,502,913,501,918,449,903,394,891"/>
-<area shape="rect" id="Node000015" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="497,791,656,831"/>
-<area shape="poly" id="edge21_Node000011_Node000015" title=" " alt="" coords="394,860,449,847,501,833,502,838,450,853,395,865"/>
-<area shape="rect" id="Node000013" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="704,887,851,927"/>
-<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="657,885,690,891,690,896,656,891"/>
-<area shape="poly" id="edge18_Node000013_Node000013" title=" " alt="" coords="740,888,737,878,743,869,757,863,777,861,801,864,814,871,811,876,799,869,777,866,758,868,747,873,743,879,745,886"/>
-<area shape="poly" id="edge20_Node000014_Node000013" title=" " alt="" coords="656,924,690,919,690,924,657,929"/>
-<area shape="poly" id="edge24_Node000017_Node000017" title=" " alt="" coords="281,710,278,700,286,691,302,685,327,683,355,686,371,693,368,698,354,691,327,689,303,691,289,695,283,701,286,709"/>
-<area shape="poly" id="edge26_Node000018_Node000018" title=" " alt="" coords="281,798,278,788,286,779,302,773,327,771,355,774,371,781,368,786,354,779,327,777,303,779,289,783,283,789,286,797"/>
-<area shape="poly" id="edge29_Node000019_Node000005" title=" " alt="" coords="426,298,495,298,495,303,426,303"/>
-<area shape="poly" id="edge28_Node000019_Node000019" title=" " alt="" coords="281,281,278,271,286,262,302,256,327,254,355,257,371,264,368,269,354,262,327,259,303,261,289,266,283,272,286,280"/>
-<area shape="poly" id="edge31_Node000020_Node000020" title=" " alt="" coords="287,938,278,928,283,918,299,912,327,909,361,913,371,918,375,924,370,927,368,922,360,918,327,915,300,917,286,922,284,927,291,934"/>
+<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Graph.html#ab3824a31545d17f2abb88ce72a7f4660" title="generate spins randomly." alt="" coords="497,1207,656,1247"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="411,1225,484,1225,484,1230,411,1230"/>
+<area shape="rect" id="Node000014" href="$classopenjij_1_1graph_1_1Graph.html#a3ec29138adf2044f5c5945630f4f8aaf" title="generate spins randomly." alt="" coords="497,1271,656,1311"/>
+<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="395,1237,450,1250,502,1265,501,1270,449,1255,394,1243"/>
+<area shape="rect" id="Node000015" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="497,1143,656,1183"/>
+<area shape="poly" id="edge21_Node000011_Node000015" title=" " alt="" coords="394,1212,449,1199,501,1185,502,1190,450,1205,395,1217"/>
+<area shape="rect" id="Node000013" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="704,1239,851,1279"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="657,1237,690,1243,690,1248,656,1243"/>
+<area shape="poly" id="edge18_Node000013_Node000013" title=" " alt="" coords="740,1240,737,1230,743,1221,757,1215,777,1213,801,1216,814,1223,811,1228,799,1221,777,1218,758,1220,747,1225,743,1231,745,1238"/>
+<area shape="poly" id="edge20_Node000014_Node000013" title=" " alt="" coords="656,1276,690,1271,690,1276,657,1281"/>
+<area shape="poly" id="edge23_Node000016_Node000016" title=" " alt="" coords="281,660,278,650,286,640,302,635,327,633,355,636,371,643,368,648,354,641,327,638,303,640,289,645,283,651,286,658"/>
+<area shape="poly" id="edge25_Node000017_Node000017" title=" " alt="" coords="281,748,278,738,286,728,302,723,327,721,355,724,371,731,368,736,354,729,327,726,303,728,289,733,283,739,286,746"/>
+<area shape="poly" id="edge27_Node000018_Node000018" title=" " alt="" coords="281,836,278,826,286,816,302,811,327,809,355,812,371,819,368,824,354,817,327,814,303,816,289,821,283,827,286,834"/>
+<area shape="poly" id="edge30_Node000020_Node000020" title=" " alt="" coords="281,974,278,964,286,955,302,949,327,947,355,950,371,957,368,962,354,955,327,953,303,955,289,959,283,965,286,973"/>
+<area shape="poly" id="edge32_Node000021_Node000021" title=" " alt="" coords="281,1062,278,1052,286,1043,302,1037,327,1035,355,1038,371,1045,368,1050,354,1043,327,1041,303,1043,289,1047,283,1053,286,1061"/>
+<area shape="poly" id="edge34_Node000022_Node000022" title=" " alt="" coords="281,1150,278,1140,286,1131,302,1125,327,1123,355,1126,371,1133,368,1138,354,1131,327,1129,303,1131,289,1135,283,1141,286,1149"/>
+<area shape="poly" id="edge37_Node000023_Node000005" title=" " alt="" coords="390,569,420,554,448,533,491,482,524,425,549,370,565,326,570,327,554,372,529,427,495,485,451,537,423,558,393,574"/>
+<area shape="poly" id="edge36_Node000023_Node000023" title=" " alt="" coords="281,572,278,562,286,552,302,547,327,545,355,548,371,555,368,560,354,553,327,550,303,552,289,557,283,563,286,570"/>
+<area shape="poly" id="edge39_Node000024_Node000024" title=" " alt="" coords="287,1290,278,1280,283,1270,299,1264,327,1261,361,1265,371,1270,375,1276,370,1279,368,1274,360,1270,327,1267,300,1269,286,1274,284,1279,291,1286"/>
 </map>

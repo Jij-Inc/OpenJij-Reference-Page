@@ -1,0 +1,13 @@
+<map id="openjij::system::IntegerSASystem&lt; graph::IntegerQuadraticModel, RandType &gt;::IntegerSASystem" name="openjij::system::IntegerSASystem&lt; graph::IntegerQuadraticModel, RandType &gt;::IntegerSASystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,126,275,181"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a9fb1bd11a2e5f9ede509984de305c941" title=" " alt="" coords="323,5,551,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,124,249,89,322,55,343,47,344,52,324,60,251,93,188,128"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a07cc77b74189bdf65985d33c596fad5b" title=" " alt="" coords="323,69,551,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,123,330,110,331,115,268,129"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a0ed93b59bffdbb15340532f364e4582f" title=" " alt="" coords="323,133,551,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,151,309,151,309,156,275,156"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a667f2ac1d9e44db34494d9f30edc736f" title=" " alt="" coords="323,197,551,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="268,178,331,192,330,197,267,183"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a48e2b6de677446eb56644112dcb2064a" title=" " alt="" coords="323,261,551,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,178,251,213,324,247,344,255,343,260,322,252,249,218,185,183"/>
+</map>

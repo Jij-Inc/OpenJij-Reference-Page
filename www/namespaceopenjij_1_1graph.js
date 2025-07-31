@@ -5,6 +5,8 @@ var namespaceopenjij_1_1graph =
     [ "CSRSparse", "classopenjij_1_1graph_1_1CSRSparse.html", "classopenjij_1_1graph_1_1CSRSparse" ],
     [ "Dense", "classopenjij_1_1graph_1_1Dense.html", "classopenjij_1_1graph_1_1Dense" ],
     [ "Graph", "classopenjij_1_1graph_1_1Graph.html", "classopenjij_1_1graph_1_1Graph" ],
+    [ "IntegerPolynomialModel", "classopenjij_1_1graph_1_1IntegerPolynomialModel.html", "classopenjij_1_1graph_1_1IntegerPolynomialModel" ],
+    [ "IntegerQuadraticModel", "classopenjij_1_1graph_1_1IntegerQuadraticModel.html", "classopenjij_1_1graph_1_1IntegerQuadraticModel" ],
     [ "IsingPolynomialModel", "classopenjij_1_1graph_1_1IsingPolynomialModel.html", "classopenjij_1_1graph_1_1IsingPolynomialModel" ],
     [ "Polynomial", "classopenjij_1_1graph_1_1Polynomial.html", "classopenjij_1_1graph_1_1Polynomial" ],
     [ "Sparse", "classopenjij_1_1graph_1_1Sparse.html", "classopenjij_1_1graph_1_1Sparse" ],

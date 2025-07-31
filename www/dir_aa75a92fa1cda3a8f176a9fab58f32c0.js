@@ -13,5 +13,6 @@ var dir_aa75a92fa1cda3a8f176a9fab58f32c0 =
     [ "schedule_list.hpp", "schedule__list_8hpp.html", "schedule__list_8hpp" ],
     [ "thres_hold.hpp", "thres__hold_8hpp.html", "thres__hold_8hpp" ],
     [ "type_traits.hpp", "type__traits_8hpp.html", "type__traits_8hpp" ],
-    [ "union_find.hpp", "union__find_8hpp.html", "union__find_8hpp" ]
+    [ "union_find.hpp", "union__find_8hpp.html", "union__find_8hpp" ],
+    [ "variable.hpp", "variable_8hpp.html", "variable_8hpp" ]
 ];

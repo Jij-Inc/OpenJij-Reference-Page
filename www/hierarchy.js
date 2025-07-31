@@ -42,9 +42,17 @@ var hierarchy =
         [ "openjij::graph::Square< FloatType >", "classopenjij_1_1graph_1_1Square.html", null ]
       ] ]
     ] ],
+    [ "openjij::updater::HeatBathUpdater", "structopenjij_1_1updater_1_1HeatBathUpdater.html", null ],
     [ "openjij::utility::IndexHash", "structopenjij_1_1utility_1_1IndexHash.html", null ],
     [ "openjij::utility::IndexPairHash", "structopenjij_1_1utility_1_1IndexPairHash.html", null ],
     [ "openjij::utility::IndexVectorHash", "structopenjij_1_1utility_1_1IndexVectorHash.html", null ],
+    [ "openjij::graph::IntegerPolynomialModel", "classopenjij_1_1graph_1_1IntegerPolynomialModel.html", null ],
+    [ "openjij::graph::IntegerQuadraticModel", "classopenjij_1_1graph_1_1IntegerQuadraticModel.html", null ],
+    [ "openjij::sampler::IntegerSAResult", "structopenjij_1_1sampler_1_1IntegerSAResult.html", null ],
+    [ "openjij::system::IntegerSASystem< ModelType, RandType >", "classopenjij_1_1system_1_1IntegerSASystem.html", null ],
+    [ "openjij::system::IntegerSASystem< graph::IntegerPolynomialModel, RandType >", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html", null ],
+    [ "openjij::system::IntegerSASystem< graph::IntegerQuadraticModel, RandType >", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html", null ],
+    [ "openjij::utility::IntegerVariable", "structopenjij_1_1utility_1_1IntegerVariable.html", null ],
     [ "openjij::graph::IsingPolynomialModel< FloatType >", "classopenjij_1_1graph_1_1IsingPolynomialModel.html", null ],
     [ "openjij::updater::KLocal< System >", "structopenjij_1_1updater_1_1KLocal.html", null ],
     [ "openjij::updater::KLocal< system::KLocalPolynomial< GraphType > >", "structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4.html", null ],
@@ -61,6 +69,8 @@ var hierarchy =
         [ "openjij::system::transverse_field_system", "structopenjij_1_1system_1_1transverse__field__system.html", null ]
       ] ]
     ] ],
+    [ "openjij::updater::MetropolisUpdater", "structopenjij_1_1updater_1_1MetropolisUpdater.html", null ],
+    [ "openjij::updater::OptMetropolisUpdater", "structopenjij_1_1updater_1_1OptMetropolisUpdater.html", null ],
     [ "openjij::utility::PairHash", "structopenjij_1_1utility_1_1PairHash.html", null ],
     [ "fmath::PowGenerator", "classfmath_1_1PowGenerator.html", null ],
     [ "openjij::system::realtime_dynamics_system", "structopenjij_1_1system_1_1realtime__dynamics__system.html", null ],
@@ -85,6 +95,7 @@ var hierarchy =
     [ "openjij::updater::SingleSpinFlip< system::ClassicalIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html", null ],
     [ "openjij::updater::SingleSpinFlip< system::ClassicalIsingPolynomial< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html", null ],
     [ "openjij::updater::SingleSpinFlip< system::TransverseIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html", null ],
+    [ "openjij::updater::SuwaTodoUpdater", "structopenjij_1_1updater_1_1SuwaTodoUpdater.html", null ],
     [ "openjij::updater::SwendsenWang< System >", "structopenjij_1_1updater_1_1SwendsenWang.html", null ],
     [ "openjij::updater::SwendsenWang< system::ClassicalIsing< graph::CSRSparse< FloatType > > >", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html", null ],
     [ "openjij::updater::SwendsenWang< system::ClassicalIsing< graph::Sparse< FloatType > > >", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4.html", null ],

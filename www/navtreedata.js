@@ -44,7 +44,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerator", "functions_eval.html", null ]
       ] ]
@@ -63,14 +63,15 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "____init_____8py.html",
-"classopenjij_1_1graph_1_1Graph.html",
-"classopenjij_1_1sampler_1_1SASampler.html#aad7765d2d3d1c1d90fc3a0955b098cb1",
-"classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a7b257423afcbc4cd8b8e03c25da0c2f1",
-"fmath_8hpp.html#a6477db3793426f1a9416439a69381384",
-"namespaceopenjij.html#a1b054be06a99e5475d248dfa02c5a7b7",
-"sa__sampler_8hpp_source.html",
-"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a7dd519ee454e3b83ce9a81c60e2aa074",
-"structopenjij_1_1utility_1_1PairHash.html#a46849f7c23f58e25f0601682ed0a60b4"
+"classopenjij_1_1graph_1_1Dense.html#af0ef5ba424979b16d2b5476f1beb0955",
+"classopenjij_1_1graph_1_1Square.html#aa77842091b3cc86d56f3d8e141561770",
+"classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#aa6049ee7077e6245d72e1655d44ff08d",
+"classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#aa917f15d140167f274a12e7d1e21ec93",
+"functions_vars_d.html",
+"namespaceopenjij.html#ae6980a95f2f481b126c61d37ca8e6269",
+"schedule__list_8hpp.html#a7bf37a88f5e2cb23caf6b6bb03d80561",
+"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#ab7a50278f3be286c184f47c1284deb95",
+"structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

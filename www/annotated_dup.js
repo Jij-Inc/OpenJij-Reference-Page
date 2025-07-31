@@ -21,6 +21,8 @@ var annotated_dup =
         [ "CSRSparse", "classopenjij_1_1graph_1_1CSRSparse.html", "classopenjij_1_1graph_1_1CSRSparse" ],
         [ "Dense", "classopenjij_1_1graph_1_1Dense.html", "classopenjij_1_1graph_1_1Dense" ],
         [ "Graph", "classopenjij_1_1graph_1_1Graph.html", "classopenjij_1_1graph_1_1Graph" ],
+        [ "IntegerPolynomialModel", "classopenjij_1_1graph_1_1IntegerPolynomialModel.html", "classopenjij_1_1graph_1_1IntegerPolynomialModel" ],
+        [ "IntegerQuadraticModel", "classopenjij_1_1graph_1_1IntegerQuadraticModel.html", "classopenjij_1_1graph_1_1IntegerQuadraticModel" ],
         [ "IsingPolynomialModel", "classopenjij_1_1graph_1_1IsingPolynomialModel.html", "classopenjij_1_1graph_1_1IsingPolynomialModel" ],
         [ "Polynomial", "classopenjij_1_1graph_1_1Polynomial.html", "classopenjij_1_1graph_1_1Polynomial" ],
         [ "Sparse", "classopenjij_1_1graph_1_1Sparse.html", "classopenjij_1_1graph_1_1Sparse" ],
@@ -42,6 +44,7 @@ var annotated_dup =
         [ "sqa_sampler", "namespaceopenjij_1_1sampler_1_1sqa__sampler.html", [
           [ "SQASampler", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler" ]
         ] ],
+        [ "IntegerSAResult", "structopenjij_1_1sampler_1_1IntegerSAResult.html", "structopenjij_1_1sampler_1_1IntegerSAResult" ],
         [ "SASampler", "classopenjij_1_1sampler_1_1SASampler.html", "classopenjij_1_1sampler_1_1SASampler" ]
       ] ],
       [ "system", "namespaceopenjij_1_1system.html", [
@@ -60,6 +63,9 @@ var annotated_dup =
         [ "get_classical_or_quantum_system_type", "structopenjij_1_1system_1_1get__classical__or__quantum__system__type.html", "structopenjij_1_1system_1_1get__classical__or__quantum__system__type" ],
         [ "get_system_type", "structopenjij_1_1system_1_1get__system__type.html", "structopenjij_1_1system_1_1get__system__type" ],
         [ "inhomogeneous_transverse_field_system", "structopenjij_1_1system_1_1inhomogeneous__transverse__field__system.html", null ],
+        [ "IntegerSASystem", "classopenjij_1_1system_1_1IntegerSASystem.html", null ],
+        [ "IntegerSASystem< graph::IntegerPolynomialModel, RandType >", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4" ],
+        [ "IntegerSASystem< graph::IntegerQuadraticModel, RandType >", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4" ],
         [ "KLocalPolynomial", "classopenjij_1_1system_1_1KLocalPolynomial.html", null ],
         [ "KLocalPolynomial< graph::Polynomial< FloatType > >", "classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html", "classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4" ],
         [ "mc_system", "structopenjij_1_1system_1_1mc__system.html", null ],
@@ -80,12 +86,16 @@ var annotated_dup =
         [ "ContinuousTimeSwendsenWang", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang.html", null ],
         [ "ContinuousTimeSwendsenWang< system::ContinuousTimeIsing< graph::CSRSparse< FloatType > > >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1" ],
         [ "ContinuousTimeSwendsenWang< system::ContinuousTimeIsing< graph::Sparse< FloatType > > >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra8e0a36304a7a08edfd6f7bc1c47e64ba.html", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra8e0a36304a7a08edfd6f7bc1c47e64ba" ],
+        [ "HeatBathUpdater", "structopenjij_1_1updater_1_1HeatBathUpdater.html", "structopenjij_1_1updater_1_1HeatBathUpdater" ],
         [ "KLocal", "structopenjij_1_1updater_1_1KLocal.html", null ],
         [ "KLocal< system::KLocalPolynomial< GraphType > >", "structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4" ],
+        [ "MetropolisUpdater", "structopenjij_1_1updater_1_1MetropolisUpdater.html", "structopenjij_1_1updater_1_1MetropolisUpdater" ],
+        [ "OptMetropolisUpdater", "structopenjij_1_1updater_1_1OptMetropolisUpdater.html", "structopenjij_1_1updater_1_1OptMetropolisUpdater" ],
         [ "SingleSpinFlip", "structopenjij_1_1updater_1_1SingleSpinFlip.html", null ],
         [ "SingleSpinFlip< system::ClassicalIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4" ],
         [ "SingleSpinFlip< system::ClassicalIsingPolynomial< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4" ],
         [ "SingleSpinFlip< system::TransverseIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4" ],
+        [ "SuwaTodoUpdater", "structopenjij_1_1updater_1_1SuwaTodoUpdater.html", "structopenjij_1_1updater_1_1SuwaTodoUpdater" ],
         [ "SwendsenWang", "structopenjij_1_1updater_1_1SwendsenWang.html", null ],
         [ "SwendsenWang< system::ClassicalIsing< graph::CSRSparse< FloatType > > >", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4" ],
         [ "SwendsenWang< system::ClassicalIsing< graph::Sparse< FloatType > > >", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4.html", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4" ]
@@ -99,6 +109,7 @@ var annotated_dup =
         [ "IndexHash", "structopenjij_1_1utility_1_1IndexHash.html", "structopenjij_1_1utility_1_1IndexHash" ],
         [ "IndexPairHash", "structopenjij_1_1utility_1_1IndexPairHash.html", "structopenjij_1_1utility_1_1IndexPairHash" ],
         [ "IndexVectorHash", "structopenjij_1_1utility_1_1IndexVectorHash.html", "structopenjij_1_1utility_1_1IndexVectorHash" ],
+        [ "IntegerVariable", "structopenjij_1_1utility_1_1IntegerVariable.html", "structopenjij_1_1utility_1_1IntegerVariable" ],
         [ "is_same_template", "structopenjij_1_1utility_1_1is__same__template.html", null ],
         [ "is_same_template< T, T >", "structopenjij_1_1utility_1_1is__same__template_3_01T_00_01T_01_4.html", null ],
         [ "PairHash", "structopenjij_1_1utility_1_1PairHash.html", "structopenjij_1_1utility_1_1PairHash" ],

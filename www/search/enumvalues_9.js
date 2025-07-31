@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['s_0',['s',['../structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634a120aaee66c4645deef86705ea2f65688',1,'fmath::local::ExpVar::s'],['../structfmath_1_1local_1_1ExpdVar.html#a715757528a9fbd8ac26b234f7bf84795a7de0ba50d33a4b29f58d5afb1a4cd78e',1,'fmath::local::ExpdVar::s']]],
-  ['sbit_1',['sbit',['../structfmath_1_1local_1_1ExpdVar.html#a715757528a9fbd8ac26b234f7bf84795a0ebeab25d9d6c0228765e0f4534e3946',1,'fmath::local::ExpdVar']]]
+  ['plus_5fc_0',['plus_c',['../namespaceopenjij_1_1graph.html#ab44b344be095f9f484ff5a8f5cb5dddfa7edb13af3224eb9767548789212d4204',1,'openjij::graph::PLUS_C'],['../namespaceopenjij_1_1graph.html#adfb6c50d54400635b2768417ac912907a7edb13af3224eb9767548789212d4204',1,'openjij::graph::PLUS_C']]],
+  ['plus_5fr_1',['plus_r',['../namespaceopenjij_1_1graph.html#ab44b344be095f9f484ff5a8f5cb5dddfac97d27cd9c17d9a2960177cdcb2eca63',1,'openjij::graph::PLUS_R'],['../namespaceopenjij_1_1graph.html#adfb6c50d54400635b2768417ac912907ac97d27cd9c17d9a2960177cdcb2eca63',1,'openjij::graph::PLUS_R']]]
 ];
