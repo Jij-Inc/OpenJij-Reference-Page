@@ -1,7 +1,7 @@
 var searchData=
 [
   ['a_0',['a',['../structfmath_1_1local_1_1ExpVar.html#a74cce5817a87e04c5c24bcd526bce60c',1,'fmath::local::ExpVar::a'],['../structfmath_1_1local_1_1ExpdVar.html#a5c957b7406b04fbee3d52cdf5bd0da57',1,'fmath::local::ExpdVar::a']]],
-  ['about_20us_1',['About us',['../index.html#autotoc_md21',1,'']]],
+  ['about_20us_1',['About us',['../index.html#autotoc_md20',1,'']]],
   ['active_5fbinaries_5f_2',['active_binaries_',['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a36c2e9a9e3f339f961e2b9d69e4fad48',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;']]],
   ['active_5fvariables_5f_3',['active_variables_',['../classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#aa6049ee7077e6245d72e1655d44ff08d',1,'openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;']]],
   ['adj_4',['adj',['../structfmath_1_1local_1_1ExpdVar.html#a715757528a9fbd8ac26b234f7bf84795abb787a63dca67e9272f37f41adbe1d18',1,'fmath::local::ExpdVar']]],

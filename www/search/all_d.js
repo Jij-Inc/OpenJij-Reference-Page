@@ -2,7 +2,7 @@ var searchData=
 [
   ['lambda_0',['lambda',['../structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__constraint__system_01_4.html#abaa48dba7b59ff42b49e8d24d6411a74',1,'openjij::utility::UpdaterParameter&lt; system::classical_constraint_system &gt;']]],
   ['len_1',['LEN',['../structfmath_1_1local_1_1LogVar.html#a5ad9a228a44e9c301552f791d22c1448a9cd92b10a14da1491d2ee11b1b990ba5',1,'fmath::local::LogVar']]],
-  ['licences_2',['Licences',['../index.html#autotoc_md22',1,'']]],
+  ['licences_2',['Licences',['../index.html#autotoc_md21',1,'']]],
   ['linear_3',['linear',['../namespaceopenjij_1_1model_1_1king__graph.html#a925cb7da34291ed9feffce2a12079f59',1,'openjij.model.king_graph.linear'],['../namespaceopenjij_1_1model_1_1chimera__model.html#a9dfe63556bc285a72a67517d81e7f175',1,'openjij.model.chimera_model.linear'],['../namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046',1,'openjij::utility::LINEAR']]],
   ['linear_5f_4',['linear_',['../classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a4e4e272787f21db73b05ab2d4fe70cb2',1,'openjij::graph::IntegerQuadraticModel']]],
   ['linear_5fcoeff_5f_5',['linear_coeff_',['../classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a7aefb92652148a0b7caa9bc5d30fed0a',1,'openjij::system::IntegerSASystem&lt; graph::IntegerQuadraticModel, RandType &gt;']]],

@@ -4,5 +4,5 @@ var searchData=
   ['handle_5ferror_2ehpp_1',['handle_error.hpp',['../handle__error_8hpp.html',1,'']]],
   ['heat_5fbath_2',['HEAT_BATH',['../namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146',1,'openjij::algorithm']]],
   ['heatbathupdater_3',['HeatBathUpdater',['../structopenjij_1_1updater_1_1HeatBathUpdater.html',1,'openjij::updater']]],
-  ['how_20to_20use_4',['How to use',['../index.html#autotoc_md18',1,'']]]
+  ['how_20to_20use_4',['How to use',['../index.html#autotoc_md17',1,'']]]
 ];

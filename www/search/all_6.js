@@ -7,7 +7,7 @@ var searchData=
   ['energy_5fhistory_4',['energy_history',['../structopenjij_1_1sampler_1_1IntegerSAResult.html#ae78d21e26005aa83a0fc991c00f72d71',1,'openjij::sampler::IntegerSAResult']]],
   ['estimated_5fmax_5fenergy_5fdifference_5f_5',['estimated_max_energy_difference_',['../classopenjij_1_1graph_1_1BinaryPolynomialModel.html#a94383b75a91e9eecf324691c34fc41dd',1,'openjij::graph::BinaryPolynomialModel::estimated_max_energy_difference_'],['../classopenjij_1_1graph_1_1IsingPolynomialModel.html#a356799e99e5322a9376a1983dbfbf781',1,'openjij::graph::IsingPolynomialModel::estimated_max_energy_difference_']]],
   ['estimated_5fmin_5fenergy_5fdifference_5f_6',['estimated_min_energy_difference_',['../classopenjij_1_1graph_1_1BinaryPolynomialModel.html#ad3f0cca2121e072847fc2c2a5dbe2dca',1,'openjij::graph::BinaryPolynomialModel::estimated_min_energy_difference_'],['../classopenjij_1_1graph_1_1IsingPolynomialModel.html#aa3e775f02b2079b83b28b7986392482e',1,'openjij::graph::IsingPolynomialModel::estimated_min_energy_difference_']]],
-  ['example_7',['Python example',['../index.html#autotoc_md19',1,'']]],
+  ['example_7',['Python example',['../index.html#autotoc_md18',1,'']]],
   ['exp_8',['exp',['../namespacefmath.html#affa4ce71de9b2037b529ee4465f34d5f',1,'fmath']]],
   ['exp2_9',['exp2',['../namespacefmath.html#a9d0d842f984501fb4a1739bd62b3aeba',1,'fmath']]],
   ['exp_5fpd_10',['exp_pd',['../namespacefmath.html#aafa779b8749cfc17d0adf38d7da65225',1,'fmath']]],
@@ -20,6 +20,6 @@ var searchData=
   ['expdvar_3c_20expd_5ftable_5fsize_20_3e_17',['ExpdVar&lt; EXPD_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1ExpdVar.html',1,'fmath::local']]],
   ['expvar_18',['expvar',['../structfmath_1_1local_1_1C.html#a17bdb2a3e7483e73cb3e342f882e5e43',1,'fmath::local::C::expVar'],['../structfmath_1_1local_1_1ExpVar.html#a0aa33b1704c2a8638b30670fc8fc4202',1,'fmath::local::ExpVar::ExpVar()'],['../structfmath_1_1local_1_1ExpVar.html',1,'fmath::local::ExpVar&lt; N &gt;']]],
   ['expvar_3c_20exp_5ftable_5fsize_20_3e_19',['ExpVar&lt; EXP_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1ExpVar.html',1,'fmath::local']]],
-  ['extension_20integration_20',['C++ Extension Integration',['../index.html#autotoc_md12',1,'']]],
+  ['extension_20integration_20',['C++ Extension Integration',['../index.html#autotoc_md11',1,'']]],
   ['extractsample_21',['extractsample',['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a4208ef79b81c25d3a6e23f74cd26fc2c',1,'openjij::system::SASystem&lt; graph::IsingPolynomialModel&lt; FloatType &gt;, RandType &gt;::ExtractSample()'],['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#af7bd535195584fb2218a2d3bf5e85a64',1,'openjij::system::SASystem&lt; graph::BinaryPolynomialModel&lt; FloatType &gt;, RandType &gt;::ExtractSample()']]]
 ];

@@ -5,8 +5,8 @@ var searchData=
   ['parameters_2',['parameters',['../classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3e447ee54bbe13a966d44e1ebcaa4fcd',1,'openjij::sampler.sampler.BaseSampler.parameters'],['../classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae3fff51dd91ecdf75a7629249aa7341d',1,'openjij::sampler.sa_sampler.SASampler.parameters()'],['../classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a4bd4185ae615010d04e4a5341b4bd27d',1,'openjij::sampler.sqa_sampler.SQASampler.parameters()']]],
   ['parent_3',['Parent',['../structopenjij_1_1utility_1_1UnionFind.html#aefabf50ff4239e11d772980d6de5ee23',1,'openjij::utility::UnionFind']]],
   ['parse_2ehpp_4',['parse.hpp',['../parse_8hpp.html',1,'']]],
-  ['pip_5',['install via pip',['../index.html#autotoc_md5',1,'']]],
-  ['pip_20from_20source_20codes_6',['install via pip from source codes',['../index.html#autotoc_md6',1,'']]],
+  ['pip_5',['install via pip',['../index.html#autotoc_md4',1,'']]],
+  ['pip_20from_20source_20codes_6',['install via pip from source codes',['../index.html#autotoc_md5',1,'']]],
   ['plus_5fc_7',['plus_c',['../namespaceopenjij_1_1graph.html#ab44b344be095f9f484ff5a8f5cb5dddfa7edb13af3224eb9767548789212d4204',1,'openjij::graph::PLUS_C'],['../namespaceopenjij_1_1graph.html#adfb6c50d54400635b2768417ac912907a7edb13af3224eb9767548789212d4204',1,'openjij::graph::PLUS_C']]],
   ['plus_5fr_8',['plus_r',['../namespaceopenjij_1_1graph.html#adfb6c50d54400635b2768417ac912907ac97d27cd9c17d9a2960177cdcb2eca63',1,'openjij::graph::PLUS_R'],['../namespaceopenjij_1_1graph.html#ab44b344be095f9f484ff5a8f5cb5dddfac97d27cd9c17d9a2960177cdcb2eca63',1,'openjij::graph::PLUS_R']]],
   ['poly_5fkey_5finv_5f_9',['poly_key_inv_',['../classopenjij_1_1graph_1_1Polynomial.html#a926dc81c3f69aee9ed0a062b1fdf0511',1,'openjij::graph::Polynomial']]],
@@ -20,6 +20,6 @@ var searchData=
   ['prange_17',['prange',['../namespaceopenjij_1_1model_1_1king__graph.html#a7ec4966da0c4c58e81bcf2bee9ec0391',1,'openjij::model::king_graph']]],
   ['properties_18',['properties',['../classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a28196d08cf1c2ba9c139c0b7dd8a6d76',1,'openjij::sampler::sampler::BaseSampler']]],
   ['pybind11_5fmodule_19',['PYBIND11_MODULE',['../main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c',1,'main.cpp']]],
-  ['python_20example_20',['Python example',['../index.html#autotoc_md19',1,'']]],
-  ['python_20tests_21',['Python Tests',['../index.html#autotoc_md14',1,'']]]
+  ['python_20example_20',['Python example',['../index.html#autotoc_md18',1,'']]],
+  ['python_20tests_21',['Python Tests',['../index.html#autotoc_md13',1,'']]]
 ];

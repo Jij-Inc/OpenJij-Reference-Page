@@ -92,7 +92,7 @@ var searchData=
   ['getupdatemethod_89',['GetUpdateMethod',['../classopenjij_1_1sampler_1_1SASampler.html#a3e25927bcefaa0e1ebdc739bd34cd850',1,'openjij::sampler::SASampler']]],
   ['getvaluefromstate_90',['GetValueFromState',['../structopenjij_1_1utility_1_1IntegerVariable.html#a1768a0cdc5199bf5b698614c39c2a5cc',1,'openjij::utility::IntegerVariable']]],
   ['getzerocount_91',['GetZeroCount',['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a4752aba691854fa7b6875f50d6c0d707',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;']]],
-  ['github_20repository_92',['install from github repository',['../index.html#autotoc_md9',1,'']]],
+  ['github_20repository_92',['install from github repository',['../index.html#autotoc_md8',1,'']]],
   ['gpu_2ehpp_93',['gpu.hpp',['../gpu_8hpp.html',1,'']]],
   ['gpu_2fmemory_2ehpp_94',['memory.hpp',['../gpu_2memory_8hpp.html',1,'']]],
   ['graph_95',['graph',['../classopenjij_1_1graph_1_1Graph.html#a1c08b369a388fad86df1915762b82597',1,'openjij::graph::Graph::Graph()'],['../classopenjij_1_1graph_1_1Graph.html',1,'openjij::graph::Graph']]],
@@ -100,5 +100,5 @@ var searchData=
   ['graph_2fall_2ehpp_97',['all.hpp',['../graph_2all_8hpp.html',1,'']]],
   ['graph_5futils_2epy_98',['graph_utils.py',['../graph__utils_8py.html',1,'']]],
   ['graphtype_99',['graphtype',['../structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aa904a90190bf10f515c5bfc0998d1122',1,'openjij::updater::ContinuousTimeSwendsenWang&lt; system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt; &gt;::GraphType'],['../structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra8e0a36304a7a08edfd6f7bc1c47e64ba.html#a790717eb0026a43a059013f5afe337d2',1,'openjij::updater::ContinuousTimeSwendsenWang&lt; system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt; &gt;::GraphType'],['../structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a95a017ff57592e2776ce82ace8ac6c5b',1,'openjij::system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::GraphType'],['../structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a7ef058f5b2312452151e060e4e1215e3',1,'openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::GraphType']]],
-  ['groups_100',['Dependency Groups',['../index.html#autotoc_md11',1,'']]]
+  ['groups_100',['Dependency Groups',['../index.html#autotoc_md10',1,'']]]
 ];

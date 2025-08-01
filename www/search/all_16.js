@@ -27,8 +27,8 @@ var searchData=
   ['updaterparameter_3c_20system_3a_3aclassical_5fsystem_20_3e_24',['UpdaterParameter&lt; system::classical_system &gt;',['../structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__system_01_4.html',1,'openjij::utility']]],
   ['updaterparameter_3c_20system_3a_3atransverse_5ffield_5fsystem_20_3e_25',['UpdaterParameter&lt; system::transverse_field_system &gt;',['../structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1transverse__field__system_01_4.html',1,'openjij::utility']]],
   ['upper_5fbound_26',['upper_bound',['../structopenjij_1_1utility_1_1IntegerVariable.html#a92ee5c7df6950b780917280d79867227',1,'openjij::utility::IntegerVariable']]],
-  ['us_27',['About us',['../index.html#autotoc_md21',1,'']]],
-  ['use_28',['How to use',['../index.html#autotoc_md18',1,'']]],
+  ['us_27',['About us',['../index.html#autotoc_md20',1,'']]],
+  ['use_28',['How to use',['../index.html#autotoc_md17',1,'']]],
   ['use_5feigen_29',['USE_EIGEN',['../namespaceopenjij_1_1system.html#a21a4fc51bcce8f3b865d41ad860e0438',1,'openjij::system']]],
   ['utils_2f_5f_5finit_5f_5f_2epy_30',['__init__.py',['../utils_2____init_____8py.html',1,'']]]
 ];

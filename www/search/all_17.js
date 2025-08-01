@@ -12,7 +12,7 @@ var searchData=
   ['vectorxx_9',['vectorxx',['../structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a8606bf881ba4cf2d9d691b40cd05b087',1,'openjij::system::ClassicalIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::VectorXx'],['../structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#ae3be78432b0e9175ee6044cd5bb608d2',1,'openjij::system::ClassicalIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::VectorXx'],['../structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#aae0e0a53d19f2203dfd4b11943b3177a',1,'openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::VectorXx']]],
   ['version_10',['version',['../namespaceopenjij_1_1__version.html#a3d04f92e7b58ee92629ed6b0449f5348',1,'openjij::_version']]],
   ['version_5ftuple_11',['version_tuple',['../namespaceopenjij_1_1__version.html#a459b12ad6437a67625dd2e0b93cabed2',1,'openjij._version.version_tuple'],['../namespaceopenjij_1_1__version.html#a4885a753420be77886cd9ba0ce20ee0b',1,'openjij._version.VERSION_TUPLE']]],
-  ['via_20pip_12',['install via pip',['../index.html#autotoc_md5',1,'']]],
-  ['via_20pip_20from_20source_20codes_13',['install via pip from source codes',['../index.html#autotoc_md6',1,'']]],
+  ['via_20pip_12',['install via pip',['../index.html#autotoc_md4',1,'']]],
+  ['via_20pip_20from_20source_20codes_13',['install via pip from source codes',['../index.html#autotoc_md5',1,'']]],
   ['virtual_5fupdate_5fsystem_5fsingle_14',['virtual_update_system_single',['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a14f001d5f7dccfaf7266e933a35b12a9',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;']]]
 ];

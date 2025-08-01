@@ -5,7 +5,7 @@ var searchData=
   ['only_5fbilinear_5findex_5fset_5f_2',['only_bilinear_index_set_',['../classopenjij_1_1graph_1_1IntegerQuadraticModel.html#aae2c3466ed878b5099c86bc728a77777',1,'openjij::graph::IntegerQuadraticModel']]],
   ['only_5fmultilinear_5findex_5fset_5f_3',['only_multilinear_index_set_',['../classopenjij_1_1graph_1_1IntegerPolynomialModel.html#af180c0c715a2e0f6c642289017c96db7',1,'openjij::graph::IntegerPolynomialModel']]],
   ['onlymultilinearcoeff_4',['onlymultilinearcoeff',['../classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#ad4bd9c4809c556102b5a2462334f4aad',1,'openjij::system::IntegerSASystem&lt; graph::IntegerQuadraticModel, RandType &gt;::OnlyMultiLinearCoeff()'],['../classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#abd03a576f8c41b63246da84a2378b515',1,'openjij::system::IntegerSASystem&lt; graph::IntegerPolynomialModel, RandType &gt;::OnlyMultiLinearCoeff()']]],
-  ['openjij_5',['openjij',['../index.html#autotoc_md8',1,'install OpenJij'],['../namespaceopenjij.html',1,'openjij']]],
+  ['openjij_5',['openjij',['../index.html#autotoc_md7',1,'install OpenJij'],['../namespaceopenjij.html',1,'openjij']]],
   ['openjij_20_3a_20framework_20for_20the_20ising_20model_20and_20qubo_6',['OpenJij : Framework for the Ising model and QUBO.',['../index.html',1,'']]],
   ['openjij_3a_3a_5fversion_7',['_version',['../namespaceopenjij_1_1__version.html',1,'openjij']]],
   ['openjij_3a_3aalgorithm_8',['algorithm',['../namespaceopenjij_1_1algorithm.html',1,'openjij']]],
