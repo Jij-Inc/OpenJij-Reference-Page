@@ -1,0 +1,11 @@
+<map id="openjij::utility::FindMinimumIntegerQuadratic" name="openjij::utility::FindMinimumIntegerQuadratic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,85,1088,125"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1utility.html#ae87190b989184fcb7c95448e56b217bc" title=" " alt="" coords="624,56,832,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="866,95,832,91,832,85,867,89"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a86bffdd384aebfe71ed9720c4b83d44f" title=" " alt="" coords="5,55,320,110"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="866,110,832,111,624,111,320,96,321,91,624,105,832,105,866,105"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1utility.html#a503db36eb6c41f44215b456a1a165689" title=" " alt="" coords="368,5,576,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="613,56,573,48,574,43,614,51"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="610,80,320,83,320,78,610,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,50,311,58,310,53,354,44"/>
+</map>

@@ -8,6 +8,7 @@ var dir_aa75a92fa1cda3a8f176a9fab58f32c0 =
     [ "index_type.hpp", "index__type_8hpp.html", "index__type_8hpp" ],
     [ "insert_or_assign.hpp", "insert__or__assign_8hpp.html", "insert__or__assign_8hpp" ],
     [ "memory.hpp", "memory_8hpp.html", "memory_8hpp" ],
+    [ "min_polynomial.hpp", "min__polynomial_8hpp.html", "min__polynomial_8hpp" ],
     [ "pairhash.hpp", "pairhash_8hpp.html", "pairhash_8hpp" ],
     [ "random.hpp", "random_8hpp.html", "random_8hpp" ],
     [ "schedule_list.hpp", "schedule__list_8hpp.html", "schedule__list_8hpp" ],

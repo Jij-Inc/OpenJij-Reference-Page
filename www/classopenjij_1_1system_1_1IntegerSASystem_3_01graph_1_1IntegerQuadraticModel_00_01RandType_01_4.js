@@ -2,6 +2,7 @@ var classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel
 [
     [ "IntegerSASystem", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a936a429bebb2a4c4060ba3330019b601", null ],
     [ "CalculateEnergy", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a57539ece2ad9e4dbf124798411b1f1b4", null ],
+    [ "CanOptMove", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a6f99c5024f8c84cd092a0f03f77046ef", null ],
     [ "GenerateCandidateValue", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a14f2eed03a5553b97a95d8f2793a5e0e", null ],
     [ "GetEnergy", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a434248758ae84fceb997c878806722e6", null ],
     [ "GetEnergyDifference", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a11117a81f6633094a276236de1a626d8", null ],
@@ -10,9 +11,8 @@ var classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel
     [ "GetMinEnergyDifference", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a9d5b107739ef8f9569cc058d3b348eb7", null ],
     [ "GetQuadCoeff", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a987c553061d90642c40973a0f94ccbe8", null ],
     [ "GetState", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a1ed67e816044118d961a3cb043fa0010", null ],
-    [ "OnlyMultiLinearCoeff", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#ad4bd9c4809c556102b5a2462334f4aad", null ],
+    [ "IsLinearCoeff", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a856bbb5cb49074deabdba4ac55547a61", null ],
     [ "SetValue", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a790d97bb933d57cb8d0306872dbfd55a", null ],
-    [ "UnderQuadraticCoeff", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#aaf5025c864204b07677fd3189af498ad", null ],
     [ "energy_", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a33a7c712f01cf028d7b307bf88a12a05", null ],
     [ "linear_coeff_", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a7aefb92652148a0b7caa9bc5d30fed0a", null ],
     [ "model", "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a89e34cc4537709131b80b8081a1682dd", null ],

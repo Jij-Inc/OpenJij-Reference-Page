@@ -140,10 +140,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a987c553061d90642c40973a0f94ccbe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a434248758ae84fceb997c878806722e6" id="r_a434248758ae84fceb997c878806722e6"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a434248758ae84fceb997c878806722e6">GetEnergy</a> () const</td></tr>
 <tr class="separator:a434248758ae84fceb997c878806722e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4bd9c4809c556102b5a2462334f4aad" id="r_ad4bd9c4809c556102b5a2462334f4aad"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#ad4bd9c4809c556102b5a2462334f4aad">OnlyMultiLinearCoeff</a> (std::int64_t index) const</td></tr>
-<tr class="separator:ad4bd9c4809c556102b5a2462334f4aad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf5025c864204b07677fd3189af498ad" id="r_aaf5025c864204b07677fd3189af498ad"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#aaf5025c864204b07677fd3189af498ad">UnderQuadraticCoeff</a> (std::int64_t index) const</td></tr>
-<tr class="separator:aaf5025c864204b07677fd3189af498ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a856bbb5cb49074deabdba4ac55547a61" id="r_a856bbb5cb49074deabdba4ac55547a61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a856bbb5cb49074deabdba4ac55547a61">IsLinearCoeff</a> (std::int64_t index) const</td></tr>
+<tr class="separator:a856bbb5cb49074deabdba4ac55547a61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f99c5024f8c84cd092a0f03f77046ef" id="r_a6f99c5024f8c84cd092a0f03f77046ef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a6f99c5024f8c84cd092a0f03f77046ef">CanOptMove</a> (std::int64_t index) const</td></tr>
+<tr class="separator:a6f99c5024f8c84cd092a0f03f77046ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9554a928d1b4265e935f4d0530378adb" id="r_a9554a928d1b4265e935f4d0530378adb"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a9554a928d1b4265e935f4d0530378adb">GetLinearCoeff</a> (std::int64_t index) const</td></tr>
 <tr class="separator:a9554a928d1b4265e935f4d0530378adb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -243,6 +243,34 @@ template&lt;typename RandType &gt; </div>
           <td>(</td>
           <td class="paramtype">const std::vector&lt; <a class="el" href="structopenjij_1_1utility_1_1IntegerVariable.html">utility::IntegerVariable</a> &gt; &amp;&#160;</td>
           <td class="paramname"><em>state</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6f99c5024f8c84cd092a0f03f77046ef" name="a6f99c5024f8c84cd092a0f03f77046ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f99c5024f8c84cd092a0f03f77046ef">&#9670;&#160;</a></span>CanOptMove()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename RandType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="classopenjij_1_1system_1_1IntegerSASystem.html">openjij::system::IntegerSASystem</a>&lt; <a class="el" href="classopenjij_1_1graph_1_1IntegerQuadraticModel.html">graph::IntegerQuadraticModel</a>, RandType &gt;::CanOptMove </td>
+          <td>(</td>
+          <td class="paramtype">std::int64_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -485,8 +513,8 @@ template&lt;typename RandType &gt; </div>
 
 </div>
 </div>
-<a id="ad4bd9c4809c556102b5a2462334f4aad" name="ad4bd9c4809c556102b5a2462334f4aad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4bd9c4809c556102b5a2462334f4aad">&#9670;&#160;</a></span>OnlyMultiLinearCoeff()</h2>
+<a id="a856bbb5cb49074deabdba4ac55547a61" name="a856bbb5cb49074deabdba4ac55547a61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a856bbb5cb49074deabdba4ac55547a61">&#9670;&#160;</a></span>IsLinearCoeff()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -497,7 +525,7 @@ template&lt;typename RandType &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool <a class="el" href="classopenjij_1_1system_1_1IntegerSASystem.html">openjij::system::IntegerSASystem</a>&lt; <a class="el" href="classopenjij_1_1graph_1_1IntegerQuadraticModel.html">graph::IntegerQuadraticModel</a>, RandType &gt;::OnlyMultiLinearCoeff </td>
+          <td class="memname">bool <a class="el" href="classopenjij_1_1system_1_1IntegerSASystem.html">openjij::system::IntegerSASystem</a>&lt; <a class="el" href="classopenjij_1_1graph_1_1IntegerQuadraticModel.html">graph::IntegerQuadraticModel</a>, RandType &gt;::IsLinearCoeff </td>
           <td>(</td>
           <td class="paramtype">std::int64_t&#160;</td>
           <td class="paramname"><em>index</em></td><td>)</td>
@@ -540,34 +568,6 @@ template&lt;typename RandType &gt; </div>
           <td></td>
           <td>)</td>
           <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aaf5025c864204b07677fd3189af498ad" name="aaf5025c864204b07677fd3189af498ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf5025c864204b07677fd3189af498ad">&#9670;&#160;</a></span>UnderQuadraticCoeff()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename RandType &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="classopenjij_1_1system_1_1IntegerSASystem.html">openjij::system::IntegerSASystem</a>&lt; <a class="el" href="classopenjij_1_1graph_1_1IntegerQuadraticModel.html">graph::IntegerQuadraticModel</a>, RandType &gt;::UnderQuadraticCoeff </td>
-          <td>(</td>
-          <td class="paramtype">std::int64_t&#160;</td>
-          <td class="paramname"><em>index</em></td><td>)</td>
-          <td> const</td>
         </tr>
       </table>
   </td>

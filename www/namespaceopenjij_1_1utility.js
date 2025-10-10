@@ -33,6 +33,9 @@ var namespaceopenjij_1_1utility =
       [ "LINEAR", "namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046", null ],
       [ "GEOMETRIC", "namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576a5202c67f624b4ec6ddd60f69394c80b5", null ]
     ] ],
+    [ "FindMinimumIntegerCubic", "namespaceopenjij_1_1utility.html#ae87190b989184fcb7c95448e56b217bc", null ],
+    [ "FindMinimumIntegerQuadratic", "namespaceopenjij_1_1utility.html#ab3cedce4db95a3eb2ef830070a3da07d", null ],
+    [ "FindMinimumIntegerQuartic", "namespaceopenjij_1_1utility.html#a503db36eb6c41f44215b456a1a165689", null ],
     [ "gen_matrix_from_graph", "namespaceopenjij_1_1utility.html#a083cc677520da6239e05939e40d2cb27", null ],
     [ "gen_matrix_from_graph", "namespaceopenjij_1_1utility.html#aa8289a451643f7d0b041bc7eeebc2aaa", null ],
     [ "gen_matrix_from_trotter_spins", "namespaceopenjij_1_1utility.html#add44181330cd7d73111db7e7408ff097", null ],
@@ -47,5 +50,6 @@ var namespaceopenjij_1_1utility =
     [ "make_schedule_list", "namespaceopenjij_1_1utility.html#a6cde69f8838d370eb8dff29afe6c22ec", null ],
     [ "make_transverse_field_schedule_list", "namespaceopenjij_1_1utility.html#ab3e756b89bb7af83f051410eb1ee74f9", null ],
     [ "make_unique", "namespaceopenjij_1_1utility.html#a99a752285d2c44391af6dfc34ed06505", null ],
-    [ "THRESHOLD", "namespaceopenjij_1_1utility.html#a784190db3844e3438127d2d1ce726e53", null ]
+    [ "THRESHOLD", "namespaceopenjij_1_1utility.html#a784190db3844e3438127d2d1ce726e53", null ],
+    [ "ZERO_TOL", "namespaceopenjij_1_1utility.html#a3a4a235c94118e23cfc2630391362148", null ]
 ];
