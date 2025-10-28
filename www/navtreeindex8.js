@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a1c7a1d1273f37029d600afe9512f2c1f":[3,0,1,3,10,3],
 "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a1c7a1d1273f37029d600afe9512f2c1f":[2,0,1,6,10,3],
 "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a2ebb390b9af0d70bdd0b5ea2a2ede3d4":[3,0,1,3,10,10],
 "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a2ebb390b9af0d70bdd0b5ea2a2ede3d4":[2,0,1,6,10,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a30f0ecbc1a347468b2bc7650710029e6":[3,0,1,4,11,1],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a30f0ecbc1a347468b2bc7650710029e6":[2,0,1,7,11,1],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a35d400477f54de0e27ec9be4c6ef05d5":[3,0,1,4,11,2],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a35d400477f54de0e27ec9be4c6ef05d5":[2,0,1,7,11,2],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a8c4e94b51349eb24f280b2f36a984c8e":[3,0,1,4,11,4]
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a35d400477f54de0e27ec9be4c6ef05d5":[2,0,1,7,11,2]
 };

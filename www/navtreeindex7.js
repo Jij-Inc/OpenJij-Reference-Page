@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"sa__sampler_8hpp_source.html":[4,0,0,0,3,1],
 "sa__sampler_8py.html":[4,0,1,1,4],
 "sa__sampler_8py.html#a11348d1f4d3183f9e3a4de66273640c2":[4,0,1,1,4,2],
 "sa__sampler_8py.html#af2e223dcde57eb9d6cb87e8edd839759":[4,0,1,1,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a14e4f8a9b0146c546976abf84c22974a":[3,0,1,3,10,17],
 "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a14e4f8a9b0146c546976abf84c22974a":[2,0,1,6,10,17],
 "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a150346436f50857eda7c28385dd60296":[2,0,1,6,10,12],
-"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a150346436f50857eda7c28385dd60296":[3,0,1,3,10,12],
-"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a1c7a1d1273f37029d600afe9512f2c1f":[3,0,1,3,10,3]
+"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a150346436f50857eda7c28385dd60296":[3,0,1,3,10,12]
 };

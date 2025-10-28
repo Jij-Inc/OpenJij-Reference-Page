@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"namespaceopenjij.html#a9d2f1670307c9dc900aeb72ffdd7cd45":[2,0,1,20],
 "namespaceopenjij.html#aa9f55dd713a196b5b966c06b31431eca":[2,0,1,16],
 "namespaceopenjij.html#ab036a1aa51a6ff3bd7b5138422feaf0e":[2,0,1,28],
 "namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04":[2,0,1,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "result_2all_8hpp.html":[4,0,0,0,2,0],
 "result_2all_8hpp_source.html":[4,0,0,0,2,0],
 "sa__sampler_8hpp.html":[4,0,0,0,3,1],
-"sa__sampler_8hpp.html#abe72fd80495f1587c5005d37b6db7f75":[4,0,0,0,3,1,1],
-"sa__sampler_8hpp_source.html":[4,0,0,0,3,1]
+"sa__sampler_8hpp.html#abe72fd80495f1587c5005d37b6db7f75":[4,0,0,0,3,1,1]
 };

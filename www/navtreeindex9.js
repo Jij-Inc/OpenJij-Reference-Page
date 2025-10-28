@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a8c4e94b51349eb24f280b2f36a984c8e":[3,0,1,4,11,4],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a8c4e94b51349eb24f280b2f36a984c8e":[2,0,1,7,11,4],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a955cd25152876ccb02df92095c1fe03a":[3,0,1,4,11,3],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a955cd25152876ccb02df92095c1fe03a":[2,0,1,7,11,3],
