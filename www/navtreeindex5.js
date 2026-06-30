@@ -1,8 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"functions_u.html":[3,3,0,21],
-"functions_v.html":[3,3,0,22],
-"functions_vars.html":[3,3,2,0],
 "functions_vars.html":[3,3,2],
 "functions_vars_a.html":[3,3,2,1],
 "functions_vars_b.html":[3,3,2,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX5 =
 "namespaceopenjij.html#a89e3aba06016a07aae97a3ca10e7869a":[2,0,1,33],
 "namespaceopenjij.html#a8ac9bc51d91afe05f6f80bb23fe5e0d3":[2,0,1,14],
 "namespaceopenjij.html#a9426be96d5a84f7b1ec4fa5269d306ab":[2,0,1,25],
-"namespaceopenjij.html#a9b84c8344541d98d61d0a932634d4267":[2,0,1,12]
+"namespaceopenjij.html#a9b84c8344541d98d61d0a932634d4267":[2,0,1,12],
+"namespaceopenjij.html#a9d2f1670307c9dc900aeb72ffdd7cd45":[2,0,1,20],
+"namespaceopenjij.html#aa9f55dd713a196b5b966c06b31431eca":[2,0,1,16],
+"namespaceopenjij.html#ab036a1aa51a6ff3bd7b5138422feaf0e":[2,0,1,28]
 };
