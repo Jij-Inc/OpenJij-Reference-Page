@@ -1,7 +1,7 @@
 var namespaceopenjij_1_1algorithm =
 [
     [ "Algorithm", "structopenjij_1_1algorithm_1_1Algorithm.html", "structopenjij_1_1algorithm_1_1Algorithm" ],
-    [ "MCMC", "namespaceopenjij_1_1algorithm.html#a92d447fd09fbe02915144cf03d1691e0", null ],
+    [ "MCMC", "namespaceopenjij_1_1algorithm.html#ab49075556a2cd5e0cbb5cf7cdd15dc43", null ],
     [ "RandomNumberEngine", "namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604", [
       [ "XORSHIFT", "namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a92174a14545bae50d8a83c5e4eac89d3", null ],
       [ "MT", "namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a08ad08f6491037714d09263a79bebfba", null ],

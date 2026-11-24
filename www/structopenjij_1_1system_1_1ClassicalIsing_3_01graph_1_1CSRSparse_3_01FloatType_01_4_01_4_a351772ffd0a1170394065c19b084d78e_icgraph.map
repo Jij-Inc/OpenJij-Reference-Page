@@ -1,0 +1,7 @@
+<map id="openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::reset_dE" name="openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::reset_dE">
+<area shape="rect" id="Node000001" title="reset dE" alt="" coords="280,48,473,110"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a8221429e71b06fa273fd734198ddb75a" title="Constructor to initialize spin and interaction." alt="" coords="5,5,232,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,61,232,58,232,52,267,60"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a9149f715479f3999a3c29ca2f6b7a1be" title="reset spins" alt="" coords="13,91,224,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,98,225,107,224,101,267,97"/>
+</map>

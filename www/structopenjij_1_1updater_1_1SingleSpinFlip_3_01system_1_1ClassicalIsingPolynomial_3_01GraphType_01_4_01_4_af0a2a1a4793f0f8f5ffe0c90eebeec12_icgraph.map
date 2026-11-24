@@ -1,0 +1,5 @@
+<map id="openjij::updater::SingleSpinFlip&lt; system::ClassicalIsingPolynomial&lt; GraphType &gt; &gt;::update_spin" name="openjij::updater::SingleSpinFlip&lt; system::ClassicalIsingPolynomial&lt; GraphType &gt; &gt;::update_spin">
+<area shape="rect" id="Node000001" title="Operate single spin flip when the system is composed of spin variables." alt="" coords="315,5,610,67"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html#ae02e2bc614507f1970b5f1d98f443cbd" title="Operate single spin flip for Ising models with polynomial interactions and polynomial unconstrained b..." alt="" coords="5,5,267,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,36,267,39,267,34,302,36"/>
+</map>

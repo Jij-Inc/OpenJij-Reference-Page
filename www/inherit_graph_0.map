@@ -1,11 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,45,127,70"/>
-<area shape="rect" id="Node000001" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html" title=" " alt="" coords="175,37,357,77"/>
-<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="141,55,175,55,175,60,141,60"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html" title=" " alt="" coords="410,5,567,45"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="371,40,409,34,410,39,371,45"/>
-<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html" title=" " alt="" coords="405,69,572,109"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="371,70,406,75,405,80,370,75"/>
-<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html" title=" " alt="" coords="620,69,795,109"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="586,87,620,87,620,92,586,92"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,48,126,76"/>
+<area shape="rect" id="Node000001" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html" title=" " alt="" coords="174,40,355,85"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="141,60,176,62,170,63,142,65"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html" title=" " alt="" coords="408,5,564,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="370,43,410,39,405,40,371,48"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html" title=" " alt="" coords="403,75,568,119"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="370,76,405,84,400,84,370,82"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html" title=" " alt="" coords="616,75,791,119"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="584,94,618,97,613,97,584,100"/>
 </map>

@@ -1,4 +1,6 @@
 <map id="openjij::declare_BinaryPolynomialModel" name="openjij::declare_BinaryPolynomialModel">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,249,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="169,18,154,11,127,8,104,10,90,15,85,21,87,28,82,30,79,20,87,10,103,5,127,3,156,6,171,13"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,447,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="364,14,350,10,325,8,302,10,288,15,282,21,284,30,279,27,277,19,285,10,301,5,325,3,352,5,369,14"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="186,52,156,54,156,49,191,51"/>
 </map>

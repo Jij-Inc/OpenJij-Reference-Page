@@ -6,7 +6,7 @@ var namespaceopenjij_1_1model =
       [ "make_ChimeraModel_from_JSON", "namespaceopenjij_1_1model_1_1chimera__model.html#a53324fc87e54f2ecba214a14ff193c35", null ],
       [ "_chimera_index", "namespaceopenjij_1_1model_1_1chimera__model.html#a1e0b0cf019f5f5019e275ccbe56a99dd", null ],
       [ "_to_index", "namespaceopenjij_1_1model_1_1chimera__model.html#afbbce60269ca7c641550a8798e202505", null ],
-      [ "coordinate", "namespaceopenjij_1_1model_1_1chimera__model.html#a1a5649e583d02358f05e1b58b170053f", null ],
+      [ "coordinate", "namespaceopenjij_1_1model_1_1chimera__model.html#a250c2c2e82943800fce82802f1421519", null ],
       [ "from_ising", "namespaceopenjij_1_1model_1_1chimera__model.html#a9d8e4c06e2c6186be7e19ccdb587c039", null ],
       [ "from_qubo", "namespaceopenjij_1_1model_1_1chimera__model.html#a014bb2c9e38c8c4dddd34e1ee6fad4e8", null ],
       [ "from_serializable", "namespaceopenjij_1_1model_1_1chimera__model.html#a941535637f75ca564283414485879920", null ],
@@ -20,18 +20,18 @@ var namespaceopenjij_1_1model =
       [ "KingGraph", "namespaceopenjij_1_1model_1_1king__graph.html#a4d2465e449796f4fe9283c7f2c1a66f9", null ],
       [ "make_KingGraph", "namespaceopenjij_1_1model_1_1king__graph.html#a441c1710b09bc83167181e663dae18ad", null ],
       [ "make_KingGraph_from_JSON", "namespaceopenjij_1_1model_1_1king__graph.html#a776c820f9f25a1d86a030a85edc31ada", null ],
-      [ "_ising_king_graph", "namespaceopenjij_1_1model_1_1king__graph.html#a3e4dca78d3ce923be9571527316c928d", null ],
+      [ "_ising_king_graph", "namespaceopenjij_1_1model_1_1king__graph.html#a6e303473b0990e4967b9b9cb5c2fb6b9", null ],
       [ "from_ising", "namespaceopenjij_1_1model_1_1king__graph.html#a457815e53c1e542c6229cfaac83fc891", null ],
       [ "from_qubo", "namespaceopenjij_1_1model_1_1king__graph.html#a69c27be1d1447d8d5d3f1fa3891b967b", null ],
       [ "from_serializable", "namespaceopenjij_1_1model_1_1king__graph.html#a4c983c36cc02f8febda17eb250fa1334", null ],
       [ "linear", "namespaceopenjij_1_1model_1_1king__graph.html#a925cb7da34291ed9feffce2a12079f59", null ],
-      [ "machine_type", "namespaceopenjij_1_1model_1_1king__graph.html#aa42395882ccf8679f445015b48a4779c", null ],
+      [ "machine_type", "namespaceopenjij_1_1model_1_1king__graph.html#a15efe67085d47ff8e29ddaaa57218753", null ],
       [ "offset", "namespaceopenjij_1_1model_1_1king__graph.html#ae6b25cc6bc4a2a32def24e4e8131d847", null ],
-      [ "prange", "namespaceopenjij_1_1model_1_1king__graph.html#a7ec4966da0c4c58e81bcf2bee9ec0391", null ],
+      [ "prange", "namespaceopenjij_1_1model_1_1king__graph.html#acb6d48ff207b013d5b4553be18288411", null ],
       [ "Q", "namespaceopenjij_1_1model_1_1king__graph.html#ad5240216d18009382b95a8ba4f7fe244", null ],
       [ "quadratic", "namespaceopenjij_1_1model_1_1king__graph.html#af47222b06f11b8ec14507f7bfff535cd", null ],
-      [ "xrange", "namespaceopenjij_1_1model_1_1king__graph.html#a50966a4141cc162761d300305651ff83", null ],
-      [ "yrange", "namespaceopenjij_1_1model_1_1king__graph.html#a434eb0eeb1c631f358adcd41329bb775", null ]
+      [ "xrange", "namespaceopenjij_1_1model_1_1king__graph.html#af2ec7e718ff3423cf7bd6c110d5dd57c", null ],
+      [ "yrange", "namespaceopenjij_1_1model_1_1king__graph.html#a0fef40012a158129d2a28e2cbacc0e5d", null ]
     ] ],
     [ "model", "namespaceopenjij_1_1model_1_1model.html", [
       [ "_BinaryPolynomialModel_from_dict", "namespaceopenjij_1_1model_1_1model.html#a344632bed7484fbf7fff7895d07779e2", null ],
@@ -58,7 +58,7 @@ var namespaceopenjij_1_1model =
       [ "from_numpy_matrix", "namespaceopenjij_1_1model_1_1model.html#a846746550d8412d65404ff3d0da02325", null ],
       [ "from_qubo", "namespaceopenjij_1_1model_1_1model.html#aca24bd078e0c8b33f0e49ab1c51e1928", null ],
       [ "from_serializable", "namespaceopenjij_1_1model_1_1model.html#a594676589ed3f6822a836f643dacd875", null ],
-      [ "model_type", "namespaceopenjij_1_1model_1_1model.html#a0dc5a1b9dd0a7def48110d8f63f84aeb", null ]
+      [ "model_type", "namespaceopenjij_1_1model_1_1model.html#afc5ceb70e5d00ca31f541c0fcfc2f0f9", null ]
     ] ],
     [ "__all__", "namespaceopenjij_1_1model.html#a6deecfff190e185fd422cde2c9fc3fec", null ],
     [ "__path__", "namespaceopenjij_1_1model.html#a23b6ae083dc135e162b43471bd8d1310", null ]

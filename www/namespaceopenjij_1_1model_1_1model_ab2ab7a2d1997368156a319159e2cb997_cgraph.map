@@ -1,11 +1,17 @@
 <map id="openjij.model.model.BinaryPolynomialModel" name="openjij.model.model.BinaryPolynomialModel">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,208,118"/>
-<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1model_1_1model.html#a344632bed7484fbf7fff7895d07779e2" title=" " alt="" coords="256,5,440,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,75,242,59,243,64,182,80"/>
-<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1model_1_1model.html#af69f8acb1f9fac4134ff80c6c9c7d0f4" title=" " alt="" coords="488,78,648,118"/>
-<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="208,95,474,95,474,101,208,101"/>
-<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1model_1_1model.html#a07e2c5616059db7c8c8edd7737e525fd" title=" " alt="" coords="256,136,440,191"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,116,243,132,242,137,181,121"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,57,488,71,486,77,439,63"/>
-<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="439,133,486,119,488,125,441,139"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,82,207,126"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1model_1_1model.html#a344632bed7484fbf7fff7895d07779e2" title=" " alt="" coords="255,5,438,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,79,242,65,237,68,188,84"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1model_1_1model.html#af69f8acb1f9fac4134ff80c6c9c7d0f4" title=" " alt="" coords="486,82,645,126"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="207,102,472,102,469,106,207,107"/>
+<area shape="rect" id="Node000006" href="$namespaceopenjij_1_1model_1_1model.html#a07e2c5616059db7c8c8edd7737e525fd" title=" " alt="" coords="255,141,438,203"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="187,124,242,142,237,142,187,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,62,479,77,474,77,438,67"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1model_1_1model.html#ab1c896ec6d56d96ac0ac57590c0b19eb" title=" " alt="" coords="937,82,1132,126"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="438,31,645,35,768,43,889,59,956,77,951,77,888,64,767,48,645,40,439,36"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1model_1_1model.html#a97201ca020fa1b7dfd1870fa71a4e5a3" title=" " alt="" coords="693,73,889,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="645,102,680,104,675,104,646,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="889,102,924,104,919,104,889,107"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="438,141,474,132,479,131,439,146"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="438,172,645,168,767,160,888,144,951,132,956,131,889,149,768,165,645,174,438,177"/>
 </map>

@@ -1,59 +1,70 @@
 <map id="openjij::graph::Sparse::set_adj_node" name="openjij::graph::Sparse::set_adj_node">
-<area shape="rect" id="Node000001" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="924,392,1087,432"/>
-<area shape="poly" id="edge33_Node000001_Node000001" title=" " alt="" coords="1042,380,1029,373,1005,371,984,373,972,377,967,383,969,391,964,392,962,382,968,373,983,367,1005,365,1031,368,1045,375"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#a192d369653ca6c86b378f3b15137023c" title="access h_{i} (local field)" alt="" coords="697,250,876,275"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="962,386,805,278,808,273,965,382"/>
-<area shape="rect" id="Node000018" href="$classopenjij_1_1graph_1_1Sparse.html#a92c61fd612fd9b1dd46ec886e3b266a5" title="access J_{ij}" alt="" coords="699,549,874,574"/>
-<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="965,442,808,551,805,546,962,438"/>
-<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Chimera.html#a27fb8ff6e7e62287f191a72cda452d59" title="Square constructor (from nlohmann::json)" alt="" coords="467,435,641,475"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="773,288,724,356,690,393,651,425,629,437,626,432,648,420,686,389,720,352,769,285"/>
-<area shape="rect" id="Node000004" href="$namespaceopenjij.html#adea101a331926559ea3600d501c6943a" title=" " alt="" coords="5,670,179,695"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="776,237,761,190,736,133,699,77,675,54,648,34,599,13,557,9,513,18,460,35,382,63,326,95,278,139,229,204,192,267,162,336,140,406,123,475,103,595,97,670,91,670,98,594,117,474,134,405,157,334,187,265,224,201,274,135,323,91,380,58,458,29,511,12,556,4,600,8,651,30,679,50,703,74,741,131,766,189,782,236"/>
-<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="473,599,635,639"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="784,290,772,350,748,430,731,473,709,515,683,554,651,589,634,601,631,596,648,585,678,551,704,512,726,471,743,429,767,349,779,289"/>
-<area shape="rect" id="Node000009" href="$namespaceopenjij_1_1utility.html#aa8289a451643f7d0b041bc7eeebc2aaa" title="generate Eigen Sparse Matrix from Sparse graph" alt="" coords="477,243,631,283"/>
-<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="684,265,631,265,631,260,684,260"/>
-<area shape="rect" id="Node000010" href="$classopenjij_1_1graph_1_1Square.html#a8bc329c94444b988db27e03a059d7f1f" title="access h(row, colum) (local field)" alt="" coords="464,193,644,218"/>
-<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="721,249,606,221,607,215,722,244"/>
-<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Square.html#a1454a0553577ffccbd925c2b2ddbb402" title="access h(row, colum) (local field)" alt="" coords="464,45,644,70"/>
-<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="771,239,752,203,724,161,689,119,648,84,626,72,628,68,651,79,693,115,729,158,756,201,776,236"/>
-<area shape="rect" id="Node000013" href="$classopenjij_1_1graph_1_1Chimera.html#a9bb19f2cf4bfc0af1301ceb35f1a6754" title="access h(row, colum, in&#45;chimera) (local field)" alt="" coords="459,143,649,169"/>
-<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="756,244,707,213,648,182,616,171,617,166,650,178,709,208,759,240"/>
-<area shape="rect" id="Node000015" href="$classopenjij_1_1graph_1_1Chimera.html#ad7d6298227b90874eb2985b30d35ef47" title="access h(row, colum, in&#45;chimera) (local field)" alt="" coords="459,94,649,119"/>
-<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="766,241,717,186,684,157,648,133,622,122,624,117,651,128,687,153,720,182,770,237"/>
-<area shape="rect" id="Node000016" href="$classopenjij_1_1graph_1_1Sparse.html#a421a5211edffe0fc81007913c5a1b5ae" title="Sparse constructor (from nlohmann::json)" alt="" coords="473,371,635,411"/>
-<area shape="poly" id="edge16_Node000002_Node000016" title=" " alt="" coords="761,286,712,324,651,361,623,373,621,368,648,356,709,319,758,282"/>
-<area shape="rect" id="Node000017" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)" alt="" coords="472,307,636,347"/>
-<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="727,282,628,309,627,304,726,276"/>
-<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Sparse.html#ab67641ad945dc99e877ee135f526598a" title=" " alt="" coords="237,599,400,639"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="459,621,400,621,400,616,459,616"/>
-<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Sparse.html#a191f530cee623682979e5408097e35ad" title="calculate total energy" alt="" coords="237,663,400,703"/>
-<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="467,645,393,665,392,660,466,640"/>
-<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Sparse.html#ad040bdaa0f54840c3ecaad5b3f6797e1" title=" " alt="" coords="237,535,400,575"/>
-<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="466,598,392,577,393,572,467,592"/>
-<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="224,685,179,685,179,680,224,680"/>
-<area shape="rect" id="Node000011" href="$namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04" title=" " alt="" coords="231,338,406,363"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="478,225,460,233,421,258,385,288,333,340,329,336,381,284,417,254,457,228,476,220"/>
-<area shape="rect" id="Node000014" href="$namespaceopenjij.html#a066af23b2c3cfd9fc71a1c9570e4767f" title=" " alt="" coords="227,215,411,241"/>
-<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="487,175,459,183,355,218,354,213,458,177,486,170"/>
-<area shape="poly" id="edge19_Node000018_Node000003" title=" " alt="" coords="751,544,648,490,616,477,618,472,650,486,754,539"/>
-<area shape="poly" id="edge21_Node000018_Node000004" title=" " alt="" coords="780,588,763,630,736,680,699,730,676,751,651,768,615,784,577,795,538,802,499,805,420,801,342,786,270,765,206,741,115,698,117,693,208,736,272,760,343,781,420,795,499,800,538,797,576,790,613,779,648,763,673,746,695,726,732,678,758,628,775,586"/>
-<area shape="poly" id="edge22_Node000018_Node000005" title=" " alt="" coords="722,580,636,601,635,596,721,575"/>
-<area shape="poly" id="edge23_Node000018_Node000009" title=" " alt="" coords="777,536,761,486,736,422,698,355,675,324,648,297,630,285,633,280,651,293,679,320,702,352,740,419,766,484,782,535"/>
-<area shape="poly" id="edge30_Node000018_Node000016" title=" " alt="" coords="766,539,716,482,684,451,648,425,625,413,628,408,651,420,687,447,720,478,770,536"/>
-<area shape="poly" id="edge31_Node000018_Node000017" title=" " alt="" coords="772,537,754,498,726,451,691,402,648,361,629,349,631,345,651,357,695,399,731,448,758,495,777,534"/>
-<area shape="rect" id="Node000019" href="$classopenjij_1_1graph_1_1Chimera.html#a1dee3534007ce7056a13741b59f911de" title="chimera lattice graph constructor" alt="" coords="467,828,641,868"/>
-<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="780,588,763,635,737,694,699,756,677,785,651,811,622,830,619,826,648,807,673,782,695,753,732,692,758,633,775,586"/>
-<area shape="rect" id="Node000020" href="$classopenjij_1_1graph_1_1Square.html#a9a280119b93706eb84e84f02544fb09a" title="access J(row, colum, direction)" alt="" coords="466,549,642,574"/>
-<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="685,564,642,564,642,559,685,559"/>
-<area shape="rect" id="Node000021" href="$classopenjij_1_1graph_1_1Square.html#a327fd8943e3ad83158107b58b2be92cc" title="access J(row, colum, direction)" alt="" coords="466,727,642,753"/>
-<area shape="poly" id="edge26_Node000018_Node000021" title=" " alt="" coords="772,588,724,652,690,687,651,717,623,730,621,725,648,712,686,683,720,649,768,584"/>
-<area shape="rect" id="Node000022" href="$classopenjij_1_1graph_1_1Chimera.html#abe692d7a39e04d6352a701ec677868c4" title="access J(row, colum, in&#45;chimera, direction)" alt="" coords="461,499,647,525"/>
-<area shape="poly" id="edge27_Node000018_Node000022" title=" " alt="" coords="712,548,614,527,615,522,713,543"/>
-<area shape="rect" id="Node000023" href="$classopenjij_1_1graph_1_1Chimera.html#ac2ffba4fdab216ed591af4dfa83bfd71" title="access J(row, colum, in&#45;chimera, direction)" alt="" coords="461,893,647,918"/>
-<area shape="poly" id="edge29_Node000018_Node000023" title=" " alt="" coords="784,589,773,649,749,728,731,770,709,811,683,849,651,882,630,895,628,890,648,878,679,846,705,808,726,768,744,726,767,648,779,588"/>
-<area shape="rect" id="Node000024" href="$classopenjij_1_1graph_1_1Square.html#aaf7ca71bd8b53cca759b3f831017c27b" title="square lattice graph constructor" alt="" coords="472,663,636,703"/>
-<area shape="poly" id="edge32_Node000018_Node000024" title=" " alt="" coords="760,584,710,619,651,653,622,665,620,660,648,648,707,614,757,580"/>
-<area shape="poly" id="edge25_Node000020_Node000011" title=" " alt="" coords="467,546,457,540,432,520,409,497,370,447,341,400,323,365,328,362,346,397,374,444,413,494,435,516,460,535,470,541"/>
-<area shape="poly" id="edge28_Node000022_Node000014" title=" " alt="" coords="463,494,457,489,441,469,431,450,426,412,424,372,419,351,408,328,371,279,334,243,337,239,375,275,413,325,424,349,429,371,431,411,436,448,445,466,461,485,467,490"/>
+<area shape="rect" id="Node000001" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="1119,460,1281,504"/>
+<area shape="poly" id="edge40_Node000001_Node000001" title=" " alt="" coords="1234,444,1222,440,1200,438,1180,440,1167,445,1162,451,1163,460,1159,458,1157,449,1164,440,1179,435,1200,433,1224,435,1239,444"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#a192d369653ca6c86b378f3b15137023c" title="access h_{i} (local field)" alt="" coords="893,303,1071,330"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1154,450,1001,333,1002,328,1160,450"/>
+<area shape="rect" id="Node000018" href="$classopenjij_1_1graph_1_1Sparse.html#a92c61fd612fd9b1dd46ec886e3b266a5" title="access J_{ij}" alt="" coords="895,579,1069,606"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="1143,510,1013,580,1010,576,1139,513"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Chimera.html#a27fb8ff6e7e62287f191a72cda452d59" title="Square constructor (from nlohmann::json)." alt="" coords="429,605,602,650"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="932,338,845,374,816,381,789,385,742,387,721,389,700,394,679,405,657,424,642,444,634,464,633,506,632,549,625,572,609,594,595,606,592,602,605,591,620,570,627,549,628,506,629,463,637,441,653,420,676,401,698,389,720,384,742,381,789,379,815,376,844,369,936,335"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij.html#adea101a331926559ea3600d501c6943a" title=" " alt="" coords="204,411,376,438"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="943,295,898,272,844,254,751,238,630,228,568,227,511,231,462,239,425,253,406,271,398,292,392,316,378,342,343,381,311,412,307,408,340,378,374,339,387,314,393,290,402,268,423,249,461,234,510,225,568,222,630,223,752,233,845,249,900,268,948,294"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="669,264,831,308"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="875,304,832,299,831,294,880,302"/>
+<area shape="rect" id="Node000010" href="$classopenjij_1_1graph_1_1Chimera.html#a9bb19f2cf4bfc0af1301ceb35f1a6754" title="access h(row, colum, in&#45;chimera) (local field)" alt="" coords="655,332,845,360"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="875,331,846,336,844,331,880,329"/>
+<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Chimera.html#ad7d6298227b90874eb2985b30d35ef47" title="access h(row, colum, in&#45;chimera) (local field)" alt="" coords="655,57,845,85"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="968,288,951,247,924,196,888,144,867,120,843,100,823,88,822,83,846,96,870,117,892,141,928,193,955,245,973,289"/>
+<area shape="rect" id="Node000013" href="$classopenjij_1_1graph_1_1Square.html#a8bc329c94444b988db27e03a059d7f1f" title="access h(row, colum) (local field)" alt="" coords="660,5,840,33"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="972,287,957,236,931,171,894,105,870,74,843,48,825,36,824,31,846,44,874,71,898,102,936,169,962,235,977,288"/>
+<area shape="rect" id="Node000015" href="$classopenjij_1_1graph_1_1Square.html#a1454a0553577ffccbd925c2b2ddbb402" title="access h(row, colum) (local field)" alt="" coords="660,109,840,137"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="963,289,916,221,882,184,843,152,821,140,820,135,846,148,886,180,920,218,968,290"/>
+<area shape="rect" id="Node000016" href="$classopenjij_1_1graph_1_1Sparse.html#a421a5211edffe0fc81007913c5a1b5ae" title="Sparse constructor (from nlohmann::json)." alt="" coords="669,434,831,479"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="954,339,904,380,846,417,809,436,807,431,843,413,901,375,949,342"/>
+<area shape="rect" id="Node000017" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)." alt="" coords="434,697,597,742"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="975,343,961,398,935,465,897,534,874,566,846,595,803,622,738,650,596,699,594,694,736,645,800,617,843,590,869,562,893,531,930,462,956,397,972,348"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,411,156,438"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="186,426,158,427,155,422,190,423"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Sparse.html#ab67641ad945dc99e877ee135f526598a" title=" " alt="" coords="434,264,597,308"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="651,287,598,288,596,283,655,285"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Sparse.html#a191f530cee623682979e5408097e35ad" title="calculate total energy" alt="" coords="434,402,597,447"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="659,318,657,322,642,339,634,356,625,374,609,392,590,404,587,400,606,388,621,371,629,354,637,336,654,319,663,315"/>
+<area shape="rect" id="Node000009" href="$classopenjij_1_1graph_1_1Sparse.html#ad040bdaa0f54840c3ecaad5b3f6797e1" title=" " alt="" coords="434,333,597,378"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="656,315,595,334,592,330,660,312"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="417,426,378,427,375,422,422,423"/>
+<area shape="rect" id="Node000011" href="$namespaceopenjij.html#a066af23b2c3cfd9fc71a1c9570e4767f" title=" " alt="" coords="424,553,607,581"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="671,368,657,380,640,398,631,417,623,437,610,461,568,513,532,555,528,551,564,510,605,458,618,435,626,415,635,395,654,376,675,365"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="454,550,125,441,125,436,458,546"/>
+<area shape="rect" id="Node000014" href="$namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04" title=" " alt="" coords="429,161,602,189"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="667,41,657,48,617,75,581,107,530,162,526,159,578,103,614,71,654,44,671,37"/>
+<area shape="poly" id="edge16_Node000014_Node000005" title=" " alt="" coords="451,197,425,210,327,263,234,321,103,412,99,408,231,316,324,258,423,205,455,193"/>
+<area shape="poly" id="edge21_Node000018_Node000003" title=" " alt="" coords="877,601,603,623,602,618,882,599"/>
+<area shape="poly" id="edge26_Node000018_Node000004" title=" " alt="" coords="930,573,844,544,727,516,635,500,542,485,423,462,344,441,343,436,425,457,543,480,636,494,728,510,845,539,935,572"/>
+<area shape="poly" id="edge27_Node000018_Node000006" title=" " alt="" coords="971,563,956,513,930,448,893,381,869,350,843,323,828,311,828,306,846,318,873,347,897,378,935,446,961,511,976,565"/>
+<area shape="poly" id="edge34_Node000018_Node000016" title=" " alt="" coords="948,569,900,536,843,500,808,482,808,477,846,496,903,532,953,569"/>
+<area shape="poly" id="edge35_Node000018_Node000017" title=" " alt="" coords="957,616,907,657,877,675,846,690,782,708,717,719,654,724,599,725,597,720,654,719,716,713,781,703,844,685,875,670,904,652,952,618"/>
+<area shape="rect" id="Node000019" href="$classopenjij_1_1graph_1_1Chimera.html#a1dee3534007ce7056a13741b59f911de" title="chimera lattice graph constructor" alt="" coords="663,860,837,904"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="974,620,959,671,932,731,895,794,872,823,846,849,829,861,827,856,843,845,868,820,891,791,927,729,954,669,971,623"/>
+<area shape="rect" id="Node000022" href="$classopenjij_1_1graph_1_1Chimera.html#abe692d7a39e04d6352a701ec677868c4" title="access J(row, colum, in&#45;chimera, direction)" alt="" coords="657,553,843,581"/>
+<area shape="poly" id="edge28_Node000018_Node000022" title=" " alt="" coords="877,582,844,580,843,575,882,581"/>
+<area shape="rect" id="Node000023" href="$classopenjij_1_1graph_1_1Chimera.html#ac2ffba4fdab216ed591af4dfa83bfd71" title="access J(row, colum, in&#45;chimera, direction)" alt="" coords="657,756,843,784"/>
+<area shape="poly" id="edge30_Node000018_Node000023" title=" " alt="" coords="964,617,915,680,882,712,846,740,809,758,807,753,843,736,879,708,911,677,960,621"/>
+<area shape="rect" id="Node000024" href="$classopenjij_1_1graph_1_1Square.html#a9a280119b93706eb84e84f02544fb09a" title="access J(row, colum, direction)" alt="" coords="662,161,838,189"/>
+<area shape="poly" id="edge31_Node000018_Node000024" title=" " alt="" coords="969,563,911,401,875,313,843,253,809,218,775,192,775,187,812,214,847,250,880,311,916,399,974,565"/>
+<area shape="rect" id="Node000025" href="$classopenjij_1_1graph_1_1Square.html#a327fd8943e3ad83158107b58b2be92cc" title="access J(row, colum, direction)" alt="" coords="662,808,838,836"/>
+<area shape="poly" id="edge33_Node000018_Node000025" title=" " alt="" coords="971,619,953,661,926,709,890,756,846,797,823,810,821,805,843,793,886,753,921,706,948,659,967,622"/>
+<area shape="rect" id="Node000026" href="$classopenjij_1_1graph_1_1Square.html#aaf7ca71bd8b53cca759b3f831017c27b" title="square lattice graph constructor" alt="" coords="668,929,832,974"/>
+<area shape="poly" id="edge36_Node000018_Node000026" title=" " alt="" coords="978,620,966,683,942,762,924,804,903,845,877,884,846,918,830,931,828,926,843,915,873,881,898,843,919,802,937,760,961,682,974,624"/>
+<area shape="poly" id="edge25_Node000019_Node000003" title=" " alt="" coords="655,849,653,849,638,828,630,808,626,768,624,728,618,708,605,686,587,667,567,653,567,647,590,663,609,683,623,705,629,727,632,768,635,806,643,826,657,845,660,850"/>
+<area shape="rect" id="Node000020" href="$classopenjij_1_1graph_1_1Chimera.html#aa7107fa32116334c7d555861fdaee954" title="chimera lattice graph move constructor" alt="" coords="429,860,602,904"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="645,882,603,884,602,879,651,881"/>
+<area shape="rect" id="Node000021" href="$classopenjij_1_1graph_1_1Chimera.html#adf1048261b0a410bf0669fed526b8fbb" title="chimera lattice graph copy constructor" alt="" coords="429,790,602,835"/>
+<area shape="poly" id="edge24_Node000019_Node000021" title=" " alt="" coords="655,855,594,838,594,833,660,854"/>
+<area shape="poly" id="edge29_Node000022_Node000011" title=" " alt="" coords="639,568,609,570,607,565,644,566"/>
+<area shape="poly" id="edge32_Node000024_Node000014" title=" " alt="" coords="644,176,604,178,602,173,649,174"/>
+<area shape="poly" id="edge37_Node000026_Node000017" title=" " alt="" coords="655,918,653,918,640,901,632,883,627,849,623,815,617,798,605,779,586,760,565,745,565,739,589,756,609,776,621,795,628,814,632,849,637,882,644,898,657,915,660,920"/>
+<area shape="rect" id="Node000027" href="$classopenjij_1_1graph_1_1Square.html#acb0d4171904e0958f8d0980fa01d898d" title="square lattice graph copy constructor" alt="" coords="434,998,597,1043"/>
+<area shape="poly" id="edge38_Node000026_Node000027" title=" " alt="" coords="660,978,594,1000,593,995,655,979"/>
+<area shape="rect" id="Node000028" href="$classopenjij_1_1graph_1_1Square.html#a890998a38612ec2e1325f0f90155528d" title="square lattice graph move constructor" alt="" coords="434,929,597,974"/>
+<area shape="poly" id="edge39_Node000026_Node000028" title=" " alt="" coords="650,951,598,954,597,949,656,951"/>
 </map>

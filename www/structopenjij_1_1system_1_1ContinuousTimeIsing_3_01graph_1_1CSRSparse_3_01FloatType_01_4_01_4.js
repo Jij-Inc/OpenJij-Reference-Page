@@ -3,7 +3,7 @@ var structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01Fl
     [ "CutPoint", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a00664b5203624a3b766a1d77bc962fb9", null ],
     [ "GraphType", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a95a017ff57592e2776ce82ace8ac6c5b", null ],
     [ "SparseMatrixXx", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a1e3cc8f7659145b6bac1e84e3a252a7c", null ],
-    [ "SpinConfiguration", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#ab5aa8c229be148c754c7fb4f8a5050ce", null ],
+    [ "SpinConfiguration", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a7df3ecc57e26cc5cda9a53dbe7123b11", null ],
     [ "system_type", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a232f20a9eccecfc7fe05923d782e6864", null ],
     [ "TimeType", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a9673a455cf32a769fb805aeb84b00296", null ],
     [ "ContinuousTimeIsing", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#aeda49a59cc855aaef77077fe3d8b22da", null ],

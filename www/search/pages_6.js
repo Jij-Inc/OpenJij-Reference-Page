@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['model_20and_20qubo_0',['OpenJij : Framework for the Ising model and QUBO.',['../index.html',1,'']]]
+  ['github_20repository_0',['install from github repository',['../index.html#autotoc_md9',1,'']]],
+  ['groups_1',['Dependency Groups',['../index.html#autotoc_md11',1,'']]]
 ];

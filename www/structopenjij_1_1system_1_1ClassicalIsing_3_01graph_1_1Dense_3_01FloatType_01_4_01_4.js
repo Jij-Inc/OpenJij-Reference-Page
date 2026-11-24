@@ -1,6 +1,6 @@
 var structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4 =
 [
-    [ "MatrixXx", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a1e4508b5895573e343e22ab240af29dc", null ],
+    [ "MatrixXx", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9f3c93b0e2bd9bc2fbc4aea79cd313bc", null ],
     [ "system_type", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a8920ff88b75a34a96e02915ae4677c48", null ],
     [ "VectorXx", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a8606bf881ba4cf2d9d691b40cd05b087", null ],
     [ "ClassicalIsing", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9e422412f3b0af11f32966bf80bf64c5", null ],

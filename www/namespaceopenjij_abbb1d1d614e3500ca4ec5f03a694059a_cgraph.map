@@ -1,4 +1,12 @@
 <map id="openjij::declare_SampleByIntegerSA" name="openjij::declare_SampleByIntegerSA">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,200,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="66,30,64,20,70,11,83,5,103,3,126,6,138,13,135,17,124,11,103,8,84,10,73,15,69,21,71,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,200,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="57,28,56,19,64,10,79,5,103,3,128,5,145,14,140,14,127,10,102,8,80,10,67,15,61,21,62,29"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler.html#a679dfc4506fa75ff123fb32f7ed1da64" title=" " alt="" coords="248,29,431,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="200,49,234,51,229,52,200,54"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1sampler.html#a204111b6412dcffd54670e79e7200062" title=" " alt="" coords="479,29,666,74"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="431,49,466,52,461,52,431,54"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1sampler.html#a649c9aa2d841996bc10798d786902599" title=" " alt="" coords="714,29,902,74"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="667,49,701,52,696,52,667,54"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1sampler.html#a62b98f2591e950986a8f8d2f4c91123a" title=" " alt="" coords="950,38,1134,66"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="902,49,937,52,932,52,902,54"/>
 </map>

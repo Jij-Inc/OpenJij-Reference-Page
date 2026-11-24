@@ -1,0 +1,15 @@
+<map id="openjij::sampler::SASampler::Sample" name="openjij::sampler::SASampler::Sample">
+<area shape="rect" id="Node000001" title="Execute sampling." alt="" coords="5,109,212,154"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1SASampler.html#ac358830d31901130a80170df53a8dfd5" title=" " alt="" coords="260,109,466,154"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,129,247,131,242,132,213,134"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1utility.html#ace88eee43b1312d564dc02f628ad15e0" title="Generate temperature schedule from specific schedule." alt="" coords="528,40,706,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,106,516,90,521,89,448,111"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1sampler_1_1SASampler.html#acf7c871ef3b33d09a34cd6336370b521" title=" " alt="" coords="514,109,720,154"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="466,129,501,131,496,132,467,134"/>
+<area shape="rect" id="Node000007" href="$namespaceopenjij_1_1updater.html#ae498c1a5cd2b056d9637f8975aa0aace" title=" " alt="" coords="532,179,703,223"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="448,152,521,174,516,174,447,157"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1utility.html#a7bf37a88f5e2cb23caf6b6bb03d80561" title="Generate geometric temperature schedule." alt="" coords="768,5,947,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="706,47,755,42,750,43,707,52"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1utility.html#a4cc0b389133b9536588a640487599a8f" title="Generate linear temperature schedule." alt="" coords="768,75,947,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="707,73,756,82,750,82,707,78"/>
+</map>

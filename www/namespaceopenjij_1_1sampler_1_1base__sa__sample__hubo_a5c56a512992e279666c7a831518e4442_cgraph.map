@@ -1,5 +1,7 @@
 <map id="openjij.sampler.base_sa_sample_hubo.base_sample_hubo" name="openjij.sampler.base_sa_sample_hubo.base_sample_hubo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,179,60"/>
-<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a2ea2520c9d376c85bae26511e967a935" title=" " alt="" coords="227,5,401,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,30,213,30,213,35,179,35"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,178,97"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler.html#abe72fd80495f1587c5005d37b6db7f75" title=" " alt="" coords="227,5,398,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,49,214,44,209,46,179,54"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a2ea2520c9d376c85bae26511e967a935" title=" " alt="" coords="226,74,399,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,79,213,87,208,87,178,84"/>
 </map>

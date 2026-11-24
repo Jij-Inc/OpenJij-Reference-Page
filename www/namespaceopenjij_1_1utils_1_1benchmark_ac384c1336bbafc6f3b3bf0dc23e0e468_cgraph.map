@@ -1,0 +1,17 @@
+<map id="openjij.utils.benchmark.solver_benchmark" name="openjij.utils.benchmark.solver_benchmark">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,224,258"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1utils_1_1benchmark.html#aec5f11ad440e59171de47ba84b5206a9" title=" " alt="" coords="272,5,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,211,184,137,224,96,270,60,282,55,279,59,273,65,228,100,188,141,132,214"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1utils_1_1benchmark.html#a76cbe8716ee58b44d5746f68f4207070" title=" " alt="" coords="290,75,484,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,211,200,170,270,129,288,124,284,127,273,134,203,174,146,215"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1utils_1_1benchmark.html#aabfc0c08e3e7bbfaf43d75cd9f78187e" title=" " alt="" coords="290,144,484,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,210,284,191,280,195,206,215"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1utils_1_1benchmark.html#ab473d6f87ad28258e44c677ed0027657" title=" " alt="" coords="290,213,484,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="223,233,277,234,272,237,225,238"/>
+<area shape="rect" id="Node000006" href="$namespaceopenjij_1_1utils_1_1benchmark.html#a8fe9bc377ca78ae3f8dfdf2f7a117b44" title=" " alt="" coords="290,283,484,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,256,284,277,279,279,206,261"/>
+<area shape="rect" id="Node000007" href="$namespaceopenjij_1_1utils_1_1benchmark.html#afa07990d4d115d417de8b367abb574c3" title=" " alt="" coords="272,352,502,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="144,256,203,297,273,337,289,346,284,346,270,342,200,301,144,261"/>
+<area shape="rect" id="Node000008" href="$namespaceopenjij_1_1utils_1_1benchmark.html#ab8b0a904bf40a74dc4965bec227b0e20" title=" " alt="" coords="283,421,491,466"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,256,188,331,228,372,273,407,283,415,278,414,270,411,224,376,184,334,129,261"/>
+</map>

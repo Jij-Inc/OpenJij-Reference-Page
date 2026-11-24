@@ -1,0 +1,7 @@
+<map id="openjij::graph::CSRSparse::get_interactions" name="openjij::graph::CSRSparse::get_interactions">
+<area shape="rect" id="Node000001" title="get interactions (Eigen Matrix)" alt="" coords="450,5,638,50"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#a44239bd041309455c39118bb8564d156" title=" " alt="" coords="204,14,402,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,28,403,30,402,25,437,28"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,14,156,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,28,156,30,156,25,191,27"/>
+</map>

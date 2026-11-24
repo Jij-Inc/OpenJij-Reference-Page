@@ -1,5 +1,5 @@
 var compile__config_8hpp =
 [
-    [ "FloatType", "compile__config_8hpp.html#ad061cddacc7c745568a77e12b8fc4ff3", null ],
-    [ "RandomEngine", "compile__config_8hpp.html#a9b84c8344541d98d61d0a932634d4267", null ]
+    [ "openjij::FloatType", "namespaceopenjij.html#a77091ed493e407cadb835d3ea47ec0ec", null ],
+    [ "openjij::RandomEngine", "namespaceopenjij.html#a956b85fc8d21f3d70263c3d4797f4e87", null ]
 ];

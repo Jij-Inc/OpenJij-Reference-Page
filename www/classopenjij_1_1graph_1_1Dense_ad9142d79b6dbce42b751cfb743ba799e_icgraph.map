@@ -1,0 +1,9 @@
+<map id="openjij::graph::Dense::Dense" name="openjij::graph::Dense::Dense">
+<area shape="rect" id="Node000001" title="Dense constructor." alt="" coords="213,75,372,119"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Dense.html#adfa399ae6620266bfccc86c4b030e663" title="Dense copy constructor." alt="" coords="5,5,165,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,70,154,53,154,48,212,68"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Dense.html#a4b18054fda8c8feb8da7cd678afb0d52" title="Dense constructor (from nlohmann::json)." alt="" coords="5,75,165,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,98,166,100,164,94,200,96"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Dense.html#adc4f23bf556722e556a9b41619336e31" title="Dense move constructor." alt="" coords="5,144,165,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,124,155,146,153,141,207,126"/>
+</map>

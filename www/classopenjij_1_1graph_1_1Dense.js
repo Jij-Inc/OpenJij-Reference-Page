@@ -1,6 +1,6 @@
 var classopenjij_1_1graph_1_1Dense =
 [
-    [ "Interactions", "classopenjij_1_1graph_1_1Dense.html#aa0f487e2e61a9e434abede83092b170d", null ],
+    [ "Interactions", "classopenjij_1_1graph_1_1Dense.html#a35d595805b1cbdee04c7d1e457a7340f", null ],
     [ "value_type", "classopenjij_1_1graph_1_1Dense.html#a5aaf6a2c629d505bf6b492bf2c3e171e", null ],
     [ "Dense", "classopenjij_1_1graph_1_1Dense.html#ad9142d79b6dbce42b751cfb743ba799e", null ],
     [ "Dense", "classopenjij_1_1graph_1_1Dense.html#a4b18054fda8c8feb8da7cd678afb0d52", null ],

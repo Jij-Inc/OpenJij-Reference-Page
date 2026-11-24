@@ -1,7 +1,9 @@
 <map id="openjij::declare_Schedule" name="openjij::declare_Schedule">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,193,55"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="65,31,58,21,62,11,76,5,99,3,128,6,140,15,136,20,126,11,99,8,77,10,65,15,63,20,69,28"/>
-<area shape="rect" id="Node000002" href="$namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9" title=" " alt="" coords="241,29,377,55"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="193,39,227,39,227,45,193,45"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="275,31,268,21,272,11,286,5,309,3,338,6,350,15,346,20,336,11,309,8,287,10,275,15,273,20,279,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,193,84"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="61,56,55,48,60,38,75,32,99,30,125,32,140,41,135,42,123,37,99,35,76,37,64,42,61,47,66,56"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1utility.html#a6cde69f8838d370eb8dff29afe6c22ec" title="helper function for making schedulelist from list of tuples" alt="" coords="241,5,395,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="173,53,228,45,223,47,174,58"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9" title=" " alt="" coords="250,98,386,126"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="176,82,238,96,232,96,176,87"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="280,96,274,89,279,79,294,73,318,71,344,74,359,83,354,82,342,79,318,76,295,78,283,83,280,89,285,98"/>
 </map>

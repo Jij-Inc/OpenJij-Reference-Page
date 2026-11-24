@@ -1,5 +1,5 @@
 var index__type_8hpp =
 [
-    [ "AnyTupleType", "index__type_8hpp.html#ad3b42c197cec0cacdaac86821cecf7b1", null ],
-    [ "IndexType", "index__type_8hpp.html#a34609aa644bd84935a37aed752cb3bb3", null ]
+    [ "openjij::utility::AnyTupleType", "namespaceopenjij_1_1utility.html#a42c69c64173be509eb0fa21cf339e4dc", null ],
+    [ "openjij::utility::IndexType", "namespaceopenjij_1_1utility.html#abb6b1c761ab742a421fbc98505fefbac", null ]
 ];

@@ -1,7 +1,7 @@
 <map id="type_traits.hpp" name="type_traits.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="33,5,153,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,76,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,33,59,69,55,66,82,29"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="100,79,192,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,29,131,66,127,69,99,33"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,5,152,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,75,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,32,60,70,56,67,80,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,81,190,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,31,129,68,123,68,100,36"/>
 </map>

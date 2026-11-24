@@ -1,0 +1,7 @@
+<map id="openjij::system::TransverseIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::TransverseIsing" name="openjij::system::TransverseIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::TransverseIsing">
+<area shape="rect" id="Node000001" title="TransverseIsing Constuctor with initial classical spins." alt="" coords="5,36,244,97"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1utility.html#add44181330cd7d73111db7e7408ff097" title="generate Eigen Matrix from TrotterSpins" alt="" coords="292,5,490,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,46,279,44,274,45,245,52"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#aee1e876e5a1cdb9768fbd78e0d3bbbc5" title="reset dE" alt="" coords="292,74,491,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,81,279,88,274,89,244,86"/>
+</map>

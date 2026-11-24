@@ -1,5 +1,5 @@
 <map id="openjij::graph::CSRSparse&lt; FloatType &gt;" name="openjij::graph::CSRSparse&lt; FloatType &gt;">
-<area shape="rect" id="Node000001" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="5,79,195,119"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="21,5,179,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,44,103,79,97,79,97,44"/>
+<area shape="rect" id="Node000001" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="5,81,194,126"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="21,5,178,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,47,102,81,97,79,98,51"/>
 </map>

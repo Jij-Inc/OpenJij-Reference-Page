@@ -1,17 +1,7 @@
 var namespaceopenjij =
 [
-    [ "_version", "namespaceopenjij_1_1__version.html", [
-      [ "__all__", "namespaceopenjij_1_1__version.html#a2f02b43131c9dd1a21b8af16191c2af7", null ],
-      [ "__commit_id__", "namespaceopenjij_1_1__version.html#aac8a6ffa34715f42a3cf9ee2abf4dba9", null ],
-      [ "__version__", "namespaceopenjij_1_1__version.html#a9c62b3cf764d66dc466bc37839fe8607", null ],
-      [ "__version_tuple__", "namespaceopenjij_1_1__version.html#a0bb235be31cd73f72fe565d551335ec1", null ],
-      [ "commit_id", "namespaceopenjij_1_1__version.html#ab05db06c505b22e4494c2cc0c14872f4", null ],
-      [ "version", "namespaceopenjij_1_1__version.html#a3d04f92e7b58ee92629ed6b0449f5348", null ],
-      [ "version_tuple", "namespaceopenjij_1_1__version.html#af2a63abbdbc926093b8cc452026d966b", null ]
-    ] ],
     [ "algorithm", "namespaceopenjij_1_1algorithm.html", "namespaceopenjij_1_1algorithm" ],
     [ "graph", "namespaceopenjij_1_1graph.html", "namespaceopenjij_1_1graph" ],
-    [ "model", "namespaceopenjij_1_1model.html", "namespaceopenjij_1_1model" ],
     [ "result", "namespaceopenjij_1_1result.html", [
       [ "get_solution", "namespaceopenjij_1_1result.html#a31c0f99d40526c635a4451fa78558a84", null ],
       [ "get_solution", "namespaceopenjij_1_1result.html#aa46b8e6885995ed2303d13a2e5694770", null ],
@@ -23,6 +13,15 @@ var namespaceopenjij =
     [ "system", "namespaceopenjij_1_1system.html", "namespaceopenjij_1_1system" ],
     [ "updater", "namespaceopenjij_1_1updater.html", "namespaceopenjij_1_1updater" ],
     [ "utility", "namespaceopenjij_1_1utility.html", "namespaceopenjij_1_1utility" ],
+    [ "_version", "namespaceopenjij_1_1__version.html", [
+      [ "__all__", "namespaceopenjij_1_1__version.html#a2f02b43131c9dd1a21b8af16191c2af7", null ],
+      [ "__commit_id__", "namespaceopenjij_1_1__version.html#aac8a6ffa34715f42a3cf9ee2abf4dba9", null ],
+      [ "__version__", "namespaceopenjij_1_1__version.html#a7e94cb4621ad5ce2f7ff5c665429a7c8", null ],
+      [ "__version_tuple__", "namespaceopenjij_1_1__version.html#a0bb235be31cd73f72fe565d551335ec1", null ],
+      [ "commit_id", "namespaceopenjij_1_1__version.html#ab05db06c505b22e4494c2cc0c14872f4", null ],
+      [ "version_tuple", "namespaceopenjij_1_1__version.html#af2a63abbdbc926093b8cc452026d966b", null ]
+    ] ],
+    [ "model", "namespaceopenjij_1_1model.html", "namespaceopenjij_1_1model" ],
     [ "utils", "namespaceopenjij_1_1utils.html", "namespaceopenjij_1_1utils" ],
     [ "variable_type", "namespaceopenjij_1_1variable__type.html", [
       [ "cast_vartype", "namespaceopenjij_1_1variable__type.html#ab7dec6a52c6fc9e7aa0525a7ebc7d9a9", null ],
@@ -30,8 +29,8 @@ var namespaceopenjij =
       [ "SPIN", "namespaceopenjij_1_1variable__type.html#a2bcb33ad34dc62ad4120323085d6c966", null ],
       [ "Vartype", "namespaceopenjij_1_1variable__type.html#a5e58469bb414a5792a074d3e211a1a24", null ]
     ] ],
-    [ "FloatType", "namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3", null ],
-    [ "RandomEngine", "namespaceopenjij.html#a9b84c8344541d98d61d0a932634d4267", null ],
+    [ "FloatType", "namespaceopenjij.html#a77091ed493e407cadb835d3ea47ec0ec", null ],
+    [ "RandomEngine", "namespaceopenjij.html#a956b85fc8d21f3d70263c3d4797f4e87", null ],
     [ "declare_Algorithm_run", "namespaceopenjij.html#a4666aedd08c4bfc4e9796e7d73415cbc", null ],
     [ "declare_BinaryPolynomialModel", "namespaceopenjij.html#a8ac9bc51d91afe05f6f80bb23fe5e0d3", null ],
     [ "declare_Chimera", "namespaceopenjij.html#a066af23b2c3cfd9fc71a1c9570e4767f", null ],

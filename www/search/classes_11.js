@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sasampler_0',['sasampler',['../classopenjij_1_1sampler_1_1SASampler.html',1,'openjij::sampler::SASampler&lt; ModelType &gt;'],['../classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html',1,'openjij.sampler.sa_sampler.SASampler']]],
+  ['sasampler_0',['SASampler',['../classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html',1,'openjij.sampler.sa_sampler.SASampler'],['../classopenjij_1_1sampler_1_1SASampler.html',1,'openjij::sampler::SASampler&lt; ModelType &gt;']]],
   ['sasystem_1',['SASystem',['../classopenjij_1_1system_1_1SASystem.html',1,'openjij::system']]],
   ['sasystem_3c_20graph_3a_3abinarypolynomialmodel_3c_20floattype_20_3e_2c_20randtype_20_3e_2',['SASystem&lt; graph::BinaryPolynomialModel&lt; FloatType &gt;, RandType &gt;',['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html',1,'openjij::system']]],
   ['sasystem_3c_20graph_3a_3aisingpolynomialmodel_3c_20floattype_20_3e_2c_20randtype_20_3e_3',['SASystem&lt; graph::IsingPolynomialModel&lt; FloatType &gt;, RandType &gt;',['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html',1,'openjij::system']]],

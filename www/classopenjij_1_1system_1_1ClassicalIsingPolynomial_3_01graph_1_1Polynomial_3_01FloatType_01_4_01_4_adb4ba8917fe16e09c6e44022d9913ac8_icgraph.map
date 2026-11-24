@@ -1,0 +1,5 @@
+<map id="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::update_binary_system" name="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::update_binary_system">
+<area shape="rect" id="Node000001" title="Flip specified binary by single spin flip. Note that this function is used when the model&#39;s type is B..." alt="" coords="241,5,448,84"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#aa955e20853fc7e6aa15f903c55462e8a" title="Reset ClassicalIsingPolynomial system with new spin/binary configurations." alt="" coords="5,5,193,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,45,193,47,193,42,228,44"/>
+</map>

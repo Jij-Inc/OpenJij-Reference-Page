@@ -10,7 +10,7 @@ var indexSectionsWithContent =
   7: "cdrtu",
   8: "afghilmnopsx",
   9: "_m",
-  10: ":adfilmoqt"
+  10: ":acdefghiklmopqrstuv"
 };
 
 var indexSectionNames =

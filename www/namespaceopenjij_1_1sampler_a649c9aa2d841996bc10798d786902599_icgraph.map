@@ -1,0 +1,12 @@
+<map id="openjij::sampler::SolveByIntegerSAImpl" name="openjij::sampler::SolveByIntegerSAImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="913,29,1100,74"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler.html#a204111b6412dcffd54670e79e7200062" title=" " alt="" coords="677,29,865,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="894,52,865,54,865,49,899,52"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1sampler.html#a679dfc4506fa75ff123fb32f7ed1da64" title=" " alt="" coords="446,29,629,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="659,52,630,54,630,49,665,52"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij.html#abbb1d1d614e3500ca4ec5f03a694059a" title=" " alt="" coords="204,29,398,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,52,398,54,398,49,433,52"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="335,14,323,10,301,8,280,10,268,15,262,21,263,30,259,27,257,19,265,10,279,5,301,3,325,5,340,14"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="186,52,156,54,156,49,191,51"/>
+</map>

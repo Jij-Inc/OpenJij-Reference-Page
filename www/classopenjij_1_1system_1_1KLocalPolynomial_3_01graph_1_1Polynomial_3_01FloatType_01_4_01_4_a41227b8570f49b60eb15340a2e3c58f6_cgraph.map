@@ -1,7 +1,19 @@
 <map id="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::KLocalPolynomial" name="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::KLocalPolynomial">
-<area shape="rect" id="Node000001" title="Constructor of KLocalPolynomial system class." alt="" coords="5,30,252,85"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#a2d388878c1804ebe9aa58c780358f039" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="300,5,492,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,40,286,36,287,41,253,45"/>
-<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Polynomial.html#a789e9c1015defdd950dd46d7975c62d9" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="300,69,492,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,69,287,74,286,79,252,75"/>
+<area shape="rect" id="Node000001" title="Constructor of KLocalPolynomial system class." alt="" coords="5,276,251,338"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#af9e10425f4aff5b8dc03492849dc74c4" title="Return the key and value of the absolute maximum interaction." alt="" coords="299,5,544,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,274,167,231,202,178,245,124,297,77,305,73,302,77,300,81,249,127,206,181,171,233,147,277"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a92d6a9aeab1498c6c4417806c53765e9" title="Return the key and value of the absolute minimum interaction." alt="" coords="299,91,544,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,274,219,218,257,188,297,162,310,157,306,161,300,166,260,192,222,222,161,277"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Polynomial.html#a2d388878c1804ebe9aa58c780358f039" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="326,176,517,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,273,298,231,323,225,318,228,300,236,198,278"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Polynomial.html#a789e9c1015defdd950dd46d7975c62d9" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="326,246,517,290"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="250,288,313,281,309,284,252,293"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a59ce081738cfbe18b30a401272f582df" title="Reset energy differences (dE), which is used to determine whether to flip the binary or not." alt="" coords="299,315,544,376"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="250,320,286,326,281,328,252,326"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a32fe1452e19ba4abc0fa02ecb3529081" title="Set zero_count_ and zero_count_v_." alt="" coords="299,400,544,462"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="191,336,300,386,316,394,311,395,298,391,191,341"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a865c787f5c5fb9bf783c0b47dd7b020e" title="Set adjacency list. Note that the list is sorted in accordance with the value of the interactions." alt="" coords="299,485,544,547"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="154,335,217,404,257,440,300,471,309,478,304,478,297,476,253,444,213,408,153,341"/>
+<area shape="rect" id="Node000009" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a484f11bcec20684cd02f59438ac8a8d4" title="Sort interactions in accordance with its value and the degree of interactions (ascending order)." alt="" coords="299,571,544,632"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="143,336,168,385,202,444,247,505,272,532,300,557,305,562,300,561,297,561,269,536,243,508,198,447,163,388,142,341"/>
 </map>

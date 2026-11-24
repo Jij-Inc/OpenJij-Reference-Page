@@ -1,4 +1,6 @@
 <map id="openjij::declare_SASampler" name="openjij::declare_SASampler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,207,55"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="142,20,132,11,106,8,85,10,74,15,71,20,77,28,73,31,66,21,70,11,83,5,106,3,134,6,145,16"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,404,57"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="340,14,329,10,304,8,281,10,268,15,265,20,270,30,265,28,259,20,264,11,279,5,304,3,330,5,346,14"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,29,156,57"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="185,43,156,46,156,41,191,43"/>
 </map>

@@ -1,7 +1,10 @@
 <map id="openjij.model.model.make_BinaryPolynomialModel_from_hising" name="openjij.model.model.make_BinaryPolynomialModel_from_hising">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,201,100"/>
-<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1model_1_1model.html#a5331d3e634003f93efaf7ba6c9e45ca0" title=" " alt="" coords="249,5,476,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,55,235,50,236,55,202,60"/>
-<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1model_1_1model.html#a70c997480e26fd37acd945542da5a37b" title=" " alt="" coords="249,84,476,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,85,236,90,235,95,201,90"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,201,110"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1model_1_1model.html#a5331d3e634003f93efaf7ba6c9e45ca0" title=" " alt="" coords="249,5,475,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,60,235,57,230,58,202,65"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1model_1_1model.html#a70c997480e26fd37acd945542da5a37b" title=" " alt="" coords="249,91,475,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,92,236,100,230,101,201,98"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1model_1_1model.html#ab1c896ec6d56d96ac0ac57590c0b19eb" title=" " alt="" coords="523,56,718,101"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,52,510,60,505,60,476,58"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="475,100,505,98,510,97,476,105"/>
 </map>

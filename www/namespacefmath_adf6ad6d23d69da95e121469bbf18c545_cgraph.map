@@ -1,15 +1,17 @@
 <map id="fmath::pow_pd" name="fmath::pow_pd">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,124,107"/>
-<area shape="rect" id="Node000002" href="$namespacefmath.html#aafa779b8749cfc17d0adf38d7da65225" title=" " alt="" coords="172,56,288,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,82,158,77,159,82,125,88"/>
-<area shape="rect" id="Node000005" href="$namespacefmath.html#a6477db3793426f1a9416439a69381384" title=" " alt="" coords="174,105,286,131"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="125,100,161,105,160,111,124,105"/>
-<area shape="rect" id="Node000003" href="$namespacefmath.html#a7219b7939e337daebb32955ad7a31c36" title=" " alt="" coords="336,5,437,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,53,333,33,334,38,271,58"/>
-<area shape="rect" id="Node000004" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="485,56,629,81"/>
-<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="288,66,471,66,471,71,288,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,28,501,49,500,55,430,33"/>
-<area shape="rect" id="Node000006" href="$namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3" title=" " alt="" coords="342,107,431,132"/>
-<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="286,116,328,116,328,122,286,121"/>
-<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="430,104,500,83,501,88,431,109"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,124,137"/>
+<area shape="rect" id="Node000002" href="$namespacefmath.html#aafa779b8749cfc17d0adf38d7da65225" title=" " alt="" coords="172,71,287,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,107,159,100,154,103,125,112"/>
+<area shape="rect" id="Node000006" href="$namespacefmath.html#a6477db3793426f1a9416439a69381384" title=" " alt="" coords="174,135,285,162"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="124,130,161,137,156,138,124,135"/>
+<area shape="rect" id="Node000003" href="$namespacefmath_1_1local.html#acda14aaff8c1d16ef13d310550e05563" title=" " alt="" coords="335,5,489,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,68,334,43,358,38,353,39,336,48,270,73"/>
+<area shape="rect" id="Node000004" href="$namespacefmath.html#a7219b7939e337daebb32955ad7a31c36" title=" " alt="" coords="362,57,462,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="287,78,349,75,344,77,288,83"/>
+<area shape="rect" id="Node000005" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="537,108,681,136"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="287,89,335,94,525,114,519,115,335,99,288,94"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,81,540,104,535,104,463,87"/>
+<area shape="rect" id="Node000007" href="$namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3" title=" " alt="" coords="368,159,456,186"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="285,153,355,165,350,165,285,158"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="456,159,535,141,540,140,457,164"/>
 </map>

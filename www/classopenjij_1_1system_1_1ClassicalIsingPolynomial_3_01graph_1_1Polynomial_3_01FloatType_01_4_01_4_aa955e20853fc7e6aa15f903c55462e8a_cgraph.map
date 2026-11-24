@@ -1,0 +1,7 @@
+<map id="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::reset_variables" name="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::reset_variables">
+<area shape="rect" id="Node000001" title="Reset ClassicalIsingPolynomial system with new spin/binary configurations." alt="" coords="5,57,193,136"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#adb4ba8917fe16e09c6e44022d9913ac8" title="Flip specified binary by single spin flip. Note that this function is used when the model&#39;s type is B..." alt="" coords="241,5,448,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,74,228,69,223,71,194,79"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a24b3dac7a3522c82b8d01e1380f287b5" title="Flip specified spin by single spin flip. Note that this function is used when the model&#39;s type is SPI..." alt="" coords="248,108,441,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,113,235,124,230,125,193,119"/>
+</map>

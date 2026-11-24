@@ -1,5 +1,8 @@
 <map id="openjij::result::get_solution" name="openjij::result::get_solution">
-<area shape="rect" id="node1" title="get solution of classical ising system" alt="" coords="403,5,543,47"/>
-<area shape="rect" id="node2" href="$namespaceopenjij.html#a9426be96d5a84f7b1ec4fa5269d306ab" title=" " alt="" coords="204,5,355,47"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,13,156,39"/>
+<area shape="rect" id="Node000001" title="get solution of classical ising system" alt="" coords="401,29,540,74"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#a9426be96d5a84f7b1ec4fa5269d306ab" title=" " alt="" coords="204,29,353,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,52,353,54,353,49,388,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="308,13,297,10,278,8,261,10,250,15,245,21,246,30,242,27,240,19,246,10,259,5,278,3,299,5,313,14"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="185,52,156,54,156,49,191,51"/>
 </map>

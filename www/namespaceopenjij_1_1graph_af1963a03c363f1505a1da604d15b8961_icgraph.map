@@ -1,0 +1,9 @@
+<map id="openjij::graph::json_parse_polynomial" name="openjij::graph::json_parse_polynomial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,117,444,162"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a72afa131611e74c968a2b4cd411c2364" title="Constructor of ClassicalIsingPolynomial." alt="" coords="17,5,239,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,111,231,87,231,82,300,110"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a3c8d5395b86dcf8024755520bec2f6fb" title="Constructor of KLocalPolynomial system class." alt="" coords="5,108,251,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,140,252,142,251,137,286,139"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Polynomial.html#a01a110186907279f6293000e2725fabe" title="Constructor of Polynomial class to initialize num_variables, and interactions from json." alt="" coords="32,194,224,239"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,167,251,185,213,196,212,191,250,179,292,168"/>
+</map>

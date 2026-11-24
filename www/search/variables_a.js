@@ -6,6 +6,6 @@ var searchData=
   ['linear_5fcoeff_5f_3',['linear_coeff_',['../classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerQuadraticModel_00_01RandType_01_4.html#a7aefb92652148a0b7caa9bc5d30fed0a',1,'openjij::system::IntegerSASystem&lt; graph::IntegerQuadraticModel, RandType &gt;']]],
   ['log_5ftable_5fsize_4',['LOG_TABLE_SIZE',['../namespacefmath_1_1local.html#a3b151e66012caa9b107c68c8995ed078',1,'fmath::local']]],
   ['logger_5',['logger',['../namespaceopenjij_1_1utils_1_1benchmark.html#ab321df4b5801c43d13f2781728792009',1,'openjij::utils::benchmark']]],
-  ['logvar_6',['logVar',['../structfmath_1_1local_1_1C.html#ae28e2b75d0d0eb48d56832eac7bf44c8',1,'fmath::local::C']]],
+  ['logvar_6',['logVar',['../structfmath_1_1local_1_1C.html#a6ed90bdf46a6283346b0759638e37e79',1,'fmath::local::C']]],
   ['lower_5fbound_7',['lower_bound',['../structopenjij_1_1utility_1_1IntegerVariable.html#a9a6a1a07836e06ef57709f3509008340',1,'openjij::utility::IntegerVariable']]]
 ];

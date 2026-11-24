@@ -63,16 +63,16 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "____init_____8py.html",
-"classopenjij_1_1graph_1_1Dense.html#af0ef5ba424979b16d2b5476f1beb0955",
-"classopenjij_1_1graph_1_1Square.html#aaf030ae938e4afc7bc1ef57bd146545f",
-"classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#aa8bde7995f5f3e5950813ed16b6f46b0",
-"classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a9b0468bda27a5812486db1fb33626071",
-"functions_vars.html",
-"namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04",
-"sampler_2____init_____8py.html",
-"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a560d18fbc4dcf03064063af12753027d",
-"structopenjij_1_1updater_1_1SuwaTodoUpdater.html"
+"classopenjij_1_1graph_1_1IntegerQuadraticModel.html#a0ed93b59bffdbb15340532f364e4582f",
+"classopenjij_1_1sampler_1_1SASampler.html#a5da7eda799489c04e96791df3f6075c9",
+"classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a673bad5a09f3c7c76e45aaa8eacc1d80",
+"classopenjij_1_1utility_1_1Xorshift.html#a1b8104784f3da54448c4ac2b18270c79",
+"namespacemembers_d.html",
+"namespaceopenjij_1_1utils_1_1benchmark.html#a8fe9bc377ca78ae3f8dfdf2f7a117b44",
+"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html",
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#a75d42209c690bba40898a9bf8d8eef14"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

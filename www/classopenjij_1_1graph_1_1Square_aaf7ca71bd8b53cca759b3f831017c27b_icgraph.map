@@ -1,0 +1,9 @@
+<map id="openjij::graph::Square::Square" name="openjij::graph::Square::Square">
+<area shape="rect" id="Node000001" title="square lattice graph constructor" alt="" coords="217,75,380,119"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)." alt="" coords="5,5,169,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,70,158,53,157,48,217,69"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Square.html#acb0d4171904e0958f8d0980fa01d898d" title="square lattice graph copy constructor" alt="" coords="5,75,169,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,98,170,100,169,94,204,96"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Square.html#a890998a38612ec2e1325f0f90155528d" title="square lattice graph move constructor" alt="" coords="5,144,169,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,124,158,146,157,141,211,125"/>
+</map>

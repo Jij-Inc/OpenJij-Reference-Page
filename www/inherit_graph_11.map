@@ -1,3 +1,17 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classfmath_1_1PowGenerator.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000000" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="5,152,163,180"/>
+<area shape="rect" id="Node000001" href="$classopenjij_1_1graph_1_1Sparse.html" title=" " alt="" coords="225,5,388,50"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="108,140,153,100,209,60,236,49,232,52,212,65,156,104,112,144"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1CSRSparse.html" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="212,75,400,119"/>
+<area shape="poly" id="edge8_Node000000_Node000003" title=" " alt="" coords="144,145,234,118,230,122,146,150"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Dense.html" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="227,144,386,189"/>
+<area shape="poly" id="edge9_Node000000_Node000004" title=" " alt="" coords="177,164,228,165,224,168,179,169"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Polynomial.html" title="Polynomial graph class, which can treat many&#45;body interactions. The Hamiltonian is like." alt="" coords="211,213,402,258"/>
+<area shape="poly" id="edge10_Node000000_Node000005" title=" " alt="" coords="145,183,235,211,230,214,145,188"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Sparse.html" title="Sparse graph: two&#45;body intereactions with O(1) connectivity The Hamiltonian is like." alt="" coords="225,283,388,327"/>
+<area shape="poly" id="edge11_Node000000_Node000006" title=" " alt="" coords="110,188,156,229,212,268,237,282,232,282,209,273,153,233,109,194"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Chimera.html" title="chimera lattice graph" alt="" coords="450,5,623,50"/>
+<area shape="poly" id="edge7_Node000001_Node000002" title=" " alt="" coords="402,25,452,27,447,29,404,30"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Square.html" title="square lattice graph" alt="" coords="455,283,618,327"/>
+<area shape="poly" id="edge12_Node000006_Node000007" title=" " alt="" coords="403,302,457,305,452,305,403,308"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="openjij::system::ClassicalIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::ClassicalIsing" name="openjij::system::ClassicalIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::ClassicalIsing">
-<area shape="rect" id="Node000001" title="Constructor to initialize spin and interaction." alt="" coords="5,5,237,60"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="285,13,444,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,30,272,30,272,35,237,35"/>
+<area shape="rect" id="Node000001" title="Constructor to initialize spin and interaction." alt="" coords="5,36,237,97"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="322,5,479,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,48,309,40,303,41,238,53"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a179c7535cdcf1bff5afb18c5e6bf981a" title="reset dE" alt="" coords="285,74,516,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,80,272,87,267,87,237,85"/>
 </map>

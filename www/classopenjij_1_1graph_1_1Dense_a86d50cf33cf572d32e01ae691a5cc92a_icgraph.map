@@ -1,0 +1,7 @@
+<map id="openjij::graph::Dense::set_interaction_matrix" name="openjij::graph::Dense::set_interaction_matrix">
+<area shape="rect" id="Node000001" title="set interaction matrix from Eigen Matrix." alt="" coords="421,5,597,50"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#a40295df4719a63a4544e69a4a51de429" title=" " alt="" coords="204,14,373,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,28,374,30,374,25,408,28"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,14,156,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,28,156,30,156,25,191,27"/>
+</map>

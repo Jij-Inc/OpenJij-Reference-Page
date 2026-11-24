@@ -1,20 +1,29 @@
 <map id="openjij::graph::Square::to_ind" name="openjij::graph::Square::to_ind">
-<area shape="rect" id="Node000001" title="convert from (row x column) index to global index" alt="" coords="456,146,620,186"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Square.html#a8bc329c94444b988db27e03a059d7f1f" title="access h(row, colum) (local field)" alt="" coords="228,5,408,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,137,465,89,437,65,407,44,381,33,383,28,409,40,440,61,469,85,514,133"/>
-<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Square.html#a1454a0553577ffccbd925c2b2ddbb402" title="access h(row, colum) (local field)" alt="" coords="228,55,408,80"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="494,141,453,116,407,94,375,83,376,78,409,89,455,112,497,136"/>
-<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Square.html#a9a280119b93706eb84e84f02544fb09a" title="access J(row, colum, direction)" alt="" coords="230,104,406,129"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="442,147,375,132,376,127,443,142"/>
-<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Square.html#a327fd8943e3ad83158107b58b2be92cc" title="access J(row, colum, direction)" alt="" coords="230,153,406,179"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="442,169,406,169,406,163,442,163"/>
-<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Square.html#aaf030ae938e4afc7bc1ef57bd146545f" title="derive spin value at the index (row x column)" alt="" coords="236,203,400,243"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="448,192,396,206,395,201,447,187"/>
-<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Square.html#ac1a8e022a00f7ee219f87d6887033784" title="derive spin value at the index (row x column)" alt="" coords="236,267,400,307"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="503,197,459,228,409,258,382,270,380,265,407,253,456,223,499,192"/>
-<area shape="rect" id="Node000009" href="$classopenjij_1_1graph_1_1Square.html#aaf7ca71bd8b53cca759b3f831017c27b" title="square lattice graph constructor" alt="" coords="236,331,400,371"/>
-<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="520,199,474,261,444,293,410,322,388,334,386,329,406,317,440,289,470,257,515,196"/>
-<area shape="rect" id="Node000003" href="$namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04" title=" " alt="" coords="5,55,180,80"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,36,152,57,151,52,246,31"/>
-<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="246,104,151,83,152,77,247,98"/>
+<area shape="rect" id="Node000001" title="convert from (row x column) index to global index" alt="" coords="652,160,816,205"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04" title=" " alt="" coords="204,38,377,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="712,146,694,117,669,83,639,52,603,29,568,16,531,10,493,8,455,11,385,23,330,40,327,35,384,18,454,5,493,3,531,4,569,11,606,24,642,48,673,80,699,114,718,147"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Square.html#a8bc329c94444b988db27e03a059d7f1f" title="access h(row, colum) (local field)" alt="" coords="425,38,604,66"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="696,149,654,115,603,81,575,69,575,64,606,76,657,110,702,149"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Square.html#a1454a0553577ffccbd925c2b2ddbb402" title="access h(row, colum) (local field)" alt="" coords="425,90,604,118"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="663,154,603,133,567,121,566,116,605,128,668,154"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Square.html#a9a280119b93706eb84e84f02544fb09a" title="access J(row, colum, direction)" alt="" coords="427,142,602,170"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="634,171,603,169,602,164,639,170"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Square.html#a327fd8943e3ad83158107b58b2be92cc" title="access J(row, colum, direction)" alt="" coords="427,194,602,222"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="634,195,604,200,602,195,639,193"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Square.html#aaf030ae938e4afc7bc1ef57bd146545f" title="derive spin value at the index (row x column)" alt="" coords="433,246,596,290"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="658,212,605,236,575,248,573,243,603,231,663,210"/>
+<area shape="rect" id="Node000009" href="$classopenjij_1_1graph_1_1Square.html#ac1a8e022a00f7ee219f87d6887033784" title="derive spin value at the index (row x column)" alt="" coords="433,315,596,360"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="705,215,661,263,606,305,584,317,581,312,603,300,657,259,701,218"/>
+<area shape="rect" id="Node000010" href="$classopenjij_1_1graph_1_1Square.html#aaf7ca71bd8b53cca759b3f831017c27b" title="square lattice graph constructor" alt="" coords="433,384,596,429"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="719,217,675,297,643,338,606,374,587,386,585,381,603,370,639,335,670,294,714,220"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,54,157,54,154,50,190,50"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="407,53,378,54,376,50,412,51"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="441,137,424,132,362,100,313,69,313,64,364,95,426,127,447,136"/>
+<area shape="rect" id="Node000011" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)." alt="" coords="209,315,372,360"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="423,380,365,363,365,358,428,379"/>
+<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Square.html#acb0d4171904e0958f8d0980fa01d898d" title="square lattice graph copy constructor" alt="" coords="209,384,372,429"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="415,407,373,409,372,404,420,406"/>
+<area shape="rect" id="Node000013" href="$classopenjij_1_1graph_1_1Square.html#a890998a38612ec2e1325f0f90155528d" title="square lattice graph move constructor" alt="" coords="209,454,372,498"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="428,434,366,456,365,450,423,435"/>
 </map>

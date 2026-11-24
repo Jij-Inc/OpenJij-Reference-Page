@@ -1,0 +1,11 @@
+<map id="openjij::system::TransverseIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::reset_dE" name="openjij::system::TransverseIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::reset_dE">
+<area shape="rect" id="Node000001" title="reset dE" alt="" coords="285,133,516,195"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#ad8b283cedb6af09b788643c0363facad" title="reset spins with trotter spins" alt="" coords="5,5,237,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,126,236,81,211,70,210,65,238,76,333,125"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#ad64e95df4cbf2f25e0a5300766e5bd6a" title="reset spins with trotter spins" alt="" coords="5,91,237,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,145,237,142,236,137,272,143"/>
+<area shape="rect" id="Node000004" href="$structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a00984b95c4f68234a2122faf9bc32b5d" title="TransverseIsing Constuctor with initial classical spins." alt="" coords="5,176,237,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,185,238,192,236,187,271,183"/>
+<area shape="rect" id="Node000005" href="$structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a91a17265adc9e90fd0e949cadbcdb9ee" title="TransverseIsing Constructor." alt="" coords="5,261,237,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="333,202,238,252,211,263,209,258,236,247,328,204"/>
+</map>

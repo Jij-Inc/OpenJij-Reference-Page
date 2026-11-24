@@ -1,0 +1,7 @@
+<map id="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::SetInteractions" name="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::SetInteractions">
+<area shape="rect" id="Node000001" title="Set interactions from Polynomial graph." alt="" coords="275,57,462,136"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a141db16fc1a1abef68c910466b68883b" title="Constructor of ClassicalIsingPolynomial." alt="" coords="5,5,227,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,75,227,70,227,65,262,74"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#ab4603140fe9eb653323aaccdaaca48f9" title="Constructor of ClassicalIsingPolynomial." alt="" coords="5,108,227,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,119,228,128,227,122,262,118"/>
+</map>

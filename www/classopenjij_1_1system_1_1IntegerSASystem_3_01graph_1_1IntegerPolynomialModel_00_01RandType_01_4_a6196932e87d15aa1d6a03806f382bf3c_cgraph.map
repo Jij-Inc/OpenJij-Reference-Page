@@ -1,0 +1,9 @@
+<map id="openjij::system::IntegerSASystem&lt; graph::IntegerPolynomialModel, RandType &gt;::CanOptMove" name="openjij::system::IntegerSASystem&lt; graph::IntegerPolynomialModel, RandType &gt;::CanOptMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,273,152"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a52b1d9493927018943fc1a05cf08c929" title=" " alt="" coords="333,5,600,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,88,333,70,328,73,261,93"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#ae184cc7ef79531d51dd8f2af34da9d7d" title=" " alt="" coords="333,91,600,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,119,320,121,314,122,274,124"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a31b7e25ccaccf40259d49b3156f079e6" title=" " alt="" coords="321,176,612,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,150,333,171,328,172,260,156"/>
+</map>

@@ -1,7 +1,11 @@
 <map id="openjij::graph::Polynomial::get_values" name="openjij::graph::Polynomial::get_values">
-<area shape="rect" id="Node000001" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="300,57,492,97"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a41227b8570f49b60eb15340a2e3c58f6" title="Constructor of KLocalPolynomial system class." alt="" coords="5,5,252,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,61,252,56,253,50,287,56"/>
-<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a9daf45643185f8d31b5c421b5a2a0b75" title="Set interactions from Polynomial graph." alt="" coords="35,85,223,154"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,97,223,107,222,102,286,92"/>
+<area shape="rect" id="Node000001" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="568,62,759,106"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a41227b8570f49b60eb15340a2e3c58f6" title="Constructor of KLocalPolynomial system class." alt="" coords="275,5,520,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,64,521,61,521,56,555,64"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a9daf45643185f8d31b5c421b5a2a0b75" title="Set interactions from Polynomial graph." alt="" coords="304,92,491,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="550,104,492,117,491,112,555,103"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a141db16fc1a1abef68c910466b68883b" title="Constructor of ClassicalIsingPolynomial." alt="" coords="5,40,227,118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,111,227,102,227,97,291,110"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#ab4603140fe9eb653323aaccdaaca48f9" title="Constructor of ClassicalIsingPolynomial." alt="" coords="5,142,227,221"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="286,151,228,164,227,159,291,150"/>
 </map>

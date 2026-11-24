@@ -1,0 +1,7 @@
+<map id="openjij::graph::Sparse::Sparse" name="openjij::graph::Sparse::Sparse">
+<area shape="rect" id="Node000001" title="Sparse delegate constructor." alt="" coords="5,5,168,50"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#af685a8171ab5337e9ac9a669474ffb41" title="Sparse constructor." alt="" coords="216,5,378,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,25,203,27,197,28,168,30"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a1c08b369a388fad86df1915762b82597" title="Graph constructor." alt="" coords="426,5,583,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,25,413,28,407,28,379,30"/>
+</map>

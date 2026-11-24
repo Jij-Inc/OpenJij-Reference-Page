@@ -1,0 +1,23 @@
+<map id="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::ClassicalIsingPolynomial" name="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::ClassicalIsingPolynomial">
+<area shape="rect" id="Node000001" title="Constructor of ClassicalIsingPolynomial." alt="" coords="5,365,227,444"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a892bb507c084f78f23f4232c3245b707" title="Convert vartype from std::string to cimod::Vartype." alt="" coords="275,5,462,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,364,147,306,178,235,220,161,245,126,273,94,277,92,274,97,277,97,249,129,224,164,183,237,152,308,132,366"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a1067b1e323a6b02154ea52186ebd0c98" title="Return the key and value of the absolute maximum interaction." alt="" coords="275,108,462,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,364,194,281,232,237,273,196,278,194,275,198,276,200,235,240,199,285,143,366"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a98fd603467ee5be33339c0c2af503a3d" title="Return the key and value of the absolute minimum interaction." alt="" coords="275,211,462,289"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,363,273,298,282,295,278,299,276,303,177,367"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a2c9f8069876ec1613784bd5d4afbafde" title="Reset energy differences (dE), which is used to determine whether to flip the spin/binary or not." alt="" coords="275,313,462,392"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="226,380,261,373,257,377,229,384"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a5ba9c5f06154394d7ae37b6d673abe27" title="Set sign_key_." alt="" coords="275,416,462,495"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="226,424,262,432,257,435,228,429"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a5e2f18848e6c2aeeac6f7369f0fcaecf" title="Set zero_count_." alt="" coords="275,519,462,597"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="177,442,276,504,285,510,280,511,273,508,177,447"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a045a59a91f4ba303335ae38a4a02cb9a" title="Set adjacency list." alt="" coords="275,621,462,700"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="142,442,199,523,236,567,276,607,281,612,276,612,273,611,232,571,195,527,141,447"/>
+<area shape="rect" id="Node000009" href="$classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a9daf45643185f8d31b5c421b5a2a0b75" title="Set interactions from Polynomial graph." alt="" coords="275,724,462,803"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="130,442,153,501,184,571,225,644,249,678,277,710,280,714,274,713,273,713,245,681,220,646,179,573,148,503,129,447"/>
+<area shape="rect" id="Node000010" href="$classopenjij_1_1graph_1_1Polynomial.html#a2d388878c1804ebe9aa58c780358f039" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="510,706,701,751"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="462,747,497,744,492,745,463,752"/>
+<area shape="rect" id="Node000011" href="$classopenjij_1_1graph_1_1Polynomial.html#a789e9c1015defdd950dd46d7975c62d9" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="510,776,701,820"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="463,774,497,782,492,782,462,780"/>
+</map>

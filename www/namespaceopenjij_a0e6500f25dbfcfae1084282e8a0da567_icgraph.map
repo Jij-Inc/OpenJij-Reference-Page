@@ -1,6 +1,6 @@
 <map id="openjij::declare_ClassicalConstraintUpdaterParameter" name="openjij::declare_ClassicalConstraintUpdaterParameter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,412,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="346,18,333,11,308,8,286,10,273,15,268,21,271,28,266,30,263,20,270,10,285,5,308,3,334,6,349,13"/>
-<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,37,156,62"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="190,52,156,52,156,47,190,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,411,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="343,14,331,10,307,8,286,10,273,15,268,21,269,30,264,27,263,19,270,10,285,5,307,3,332,5,348,14"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="185,52,156,54,156,49,190,51"/>
 </map>

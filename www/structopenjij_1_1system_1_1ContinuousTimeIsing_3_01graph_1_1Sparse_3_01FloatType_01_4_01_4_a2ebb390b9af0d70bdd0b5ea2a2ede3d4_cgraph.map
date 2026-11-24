@@ -1,0 +1,5 @@
+<map id="openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::get_slice_at" name="openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::get_slice_at">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,221,76"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a11acb1b54588471d54e3f49eb6df76fe" title="return time&#45;direction index which exists just before time_point at &quot;site_index&quot;th site." alt="" coords="269,5,493,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,42,256,44,250,45,221,47"/>
+</map>

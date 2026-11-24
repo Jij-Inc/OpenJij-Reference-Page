@@ -1,7 +1,7 @@
 <map id="openjij::declare_TransverseFieldUpdaterParameter" name="openjij::declare_TransverseFieldUpdaterParameter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,204,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="65,30,62,20,69,10,83,5,105,3,130,6,143,13,141,18,128,11,105,8,84,10,72,15,67,21,70,28"/>
-<area shape="rect" id="Node000002" href="$namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9" title=" " alt="" coords="252,37,388,62"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="204,47,238,47,238,52,204,52"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="285,38,278,28,281,18,296,12,320,10,350,14,361,23,358,27,348,19,320,15,297,17,285,22,283,28,289,35"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,204,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="63,28,62,19,69,10,83,5,105,3,128,5,143,14,138,14,126,10,104,8,85,10,72,15,67,21,68,30"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9" title=" " alt="" coords="252,38,387,66"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="204,49,239,51,233,52,204,54"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="282,36,276,29,281,19,296,13,319,11,345,14,360,23,354,22,343,19,319,16,297,18,285,23,282,29,287,38"/>
 </map>

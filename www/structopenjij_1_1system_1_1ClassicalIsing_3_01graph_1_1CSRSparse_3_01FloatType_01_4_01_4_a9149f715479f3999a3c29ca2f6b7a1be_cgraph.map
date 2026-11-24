@@ -1,0 +1,7 @@
+<map id="openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::reset_spins" name="openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::reset_spins">
+<area shape="rect" id="Node000001" title="reset spins" alt="" coords="5,36,217,97"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1utility.html#a1905530c3f947b6c65a6bbd43c550ade" title="generate Eigen Vector from std::vector" alt="" coords="270,5,452,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,47,257,43,252,45,218,53"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a351772ffd0a1170394065c19b084d78e" title="reset dE" alt="" coords="265,74,458,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,80,252,88,247,88,217,85"/>
+</map>

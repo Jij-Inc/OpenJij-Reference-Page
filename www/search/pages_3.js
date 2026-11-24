@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['for_20the_20ising_20model_20and_20qubo_0',['OpenJij : Framework for the Ising model and QUBO.',['../index.html',1,'']]],
-  ['framework_20for_20the_20ising_20model_20and_20qubo_1',['OpenJij : Framework for the Ising model and QUBO.',['../index.html',1,'']]]
+  ['dependency_20groups_0',['Dependency Groups',['../index.html#autotoc_md11',1,'']]],
+  ['deprecated_20list_1',['Deprecated List',['../deprecated.html',1,'']]],
+  ['development_20install_20recommended_20for_20contributors_2',['Development Install (Recommended for Contributors)',['../index.html#autotoc_md10',1,'']]]
 ];

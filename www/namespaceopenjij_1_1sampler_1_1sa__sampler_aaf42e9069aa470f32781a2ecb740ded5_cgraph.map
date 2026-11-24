@@ -1,0 +1,10 @@
+<map id="openjij.sampler.sa_sampler.geometric_ising_beta_schedule" name="openjij.sampler.sa_sampler.geometric_ising_beta_schedule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,98,194,160"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler_1_1sa__sampler.html#ace00ca0ab4f9dbac577a15e0a3dd3f19" title=" " alt="" coords="242,29,471,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,98,268,77,263,80,195,103"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1sampler_1_1sa__sampler.html#a0e3d6ce6f1397b9435b3678685ce4ef4" title=" " alt="" coords="278,98,435,160"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="194,126,265,128,260,130,194,132"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1sampler_1_1sa__sampler.html#a36a05f2768bd6b9db7ab548ab6ea0886" title=" " alt="" coords="277,184,436,245"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="194,158,265,183,260,184,194,163"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="308,28,306,19,314,10,331,5,356,3,384,5,402,14,397,14,383,10,356,8,332,10,317,15,311,21,313,30"/>
+</map>

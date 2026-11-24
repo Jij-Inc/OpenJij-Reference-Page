@@ -1,0 +1,8 @@
+<map id="openjij::sampler::SampleByIntegerSA" name="openjij::sampler::SampleByIntegerSA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="446,29,629,74"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#abbb1d1d614e3500ca4ec5f03a694059a" title=" " alt="" coords="204,29,398,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,52,398,54,398,49,433,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="335,14,323,10,301,8,280,10,268,15,262,21,263,30,259,27,257,19,265,10,279,5,301,3,325,5,340,14"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="186,52,156,54,156,49,191,51"/>
+</map>

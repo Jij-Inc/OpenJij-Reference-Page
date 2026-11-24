@@ -1,0 +1,9 @@
+<map id="openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing" name="openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing">
+<area shape="rect" id="Node000001" title="ContinuousTimeIsing constructor." alt="" coords="5,53,280,115"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a148f43d6d2405a80ad4cf70e30119ebf" title="ContinuousTimeIsing constructor." alt="" coords="328,5,602,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,61,315,58,310,60,281,66"/>
+<area shape="rect" id="Node000004" href="$structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a871a6e85c47d794438855be4e46379ad" title="convert classical spins to spin configuration; each site has only one cut with given spin state at ti..." alt="" coords="364,92,566,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,101,351,114,346,114,280,107"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="650,14,807,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,34,637,36,631,36,603,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="openjij::system::TransverseIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::reset_spins" name="openjij::system::TransverseIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::reset_spins">
+<area shape="rect" id="Node000001" title="reset spins with trotter spins" alt="" coords="5,36,240,97"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1utility.html#add44181330cd7d73111db7e7408ff097" title="generate Eigen Matrix from TrotterSpins" alt="" coords="306,5,504,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,48,293,43,287,44,241,53"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a544f820bd6ce18924771596f7db24e23" title="reset dE" alt="" coords="288,74,522,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,80,275,87,269,87,240,85"/>
+</map>

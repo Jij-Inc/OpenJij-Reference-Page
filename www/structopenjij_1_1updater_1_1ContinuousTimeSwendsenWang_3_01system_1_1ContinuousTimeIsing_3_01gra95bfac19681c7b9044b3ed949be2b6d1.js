@@ -1,6 +1,6 @@
 var structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1 =
 [
-    [ "CTIsing", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ab6a0e8e9e309e9ae39aa15ce9b3e4292", null ],
+    [ "CTIsing", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a36b538aefdb97ec32085699fa091c83f", null ],
     [ "CutPoint", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ab4a27fa14c226711fd76bc7553f67aff", null ],
     [ "GraphType", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aa904a90190bf10f515c5bfc0998d1122", null ],
     [ "TimeType", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ace6721f3a4e0978354a41f6cb9db8945", null ],

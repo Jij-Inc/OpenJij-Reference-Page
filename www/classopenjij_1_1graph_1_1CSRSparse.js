@@ -1,6 +1,6 @@
 var classopenjij_1_1graph_1_1CSRSparse =
 [
-    [ "Interactions", "classopenjij_1_1graph_1_1CSRSparse.html#ad9118606637f94981fa7a91d59f72530", null ],
+    [ "Interactions", "classopenjij_1_1graph_1_1CSRSparse.html#a2a2d2b057bc18c1177e207b46e6a63d0", null ],
     [ "value_type", "classopenjij_1_1graph_1_1CSRSparse.html#af752fefda39a2dd9b8c978ae0ffa0171", null ],
     [ "CSRSparse", "classopenjij_1_1graph_1_1CSRSparse.html#a623f2eaf13fe91d45941faa09c0fe4b0", null ],
     [ "CSRSparse", "classopenjij_1_1graph_1_1CSRSparse.html#a75a19418a798bac99cc18b3657967b6b", null ],

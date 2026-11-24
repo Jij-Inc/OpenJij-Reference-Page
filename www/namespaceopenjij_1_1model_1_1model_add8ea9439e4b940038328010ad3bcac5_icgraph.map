@@ -1,0 +1,13 @@
+<map id="openjij.model.model.make_BinaryQuadraticModel" name="openjij.model.model.make_BinaryQuadraticModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="304,144,499,189"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1model_1_1model.html#a1cd131b157b6eb13f1d35684f25d8274" title=" " alt="" coords="30,5,231,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,134,312,99,254,65,228,53,227,48,257,60,315,94,365,134"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1model_1_1model.html#aafe94e5d3ed78dc326627bc1bfe95ec7" title=" " alt="" coords="36,75,225,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,141,221,123,220,117,299,139"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1model_1_1model.html#a565082404ac9b92b644106b3cd50fd82" title=" " alt="" coords="36,144,225,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,167,225,169,224,164,291,165"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1model_1_1model.html#a969fe7848a2a857d3c9f2cc30d5a038a" title=" " alt="" coords="36,213,225,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="294,194,221,215,220,210,299,192"/>
+<area shape="rect" id="Node000006" href="$namespaceopenjij_1_1model_1_1model.html#a7431cc41c7da13eea819146b6685c39d" title=" " alt="" coords="5,283,256,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="365,198,315,238,257,273,228,285,226,280,254,268,312,234,360,200"/>
+</map>

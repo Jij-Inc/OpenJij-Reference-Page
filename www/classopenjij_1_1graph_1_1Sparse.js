@@ -1,6 +1,6 @@
 var classopenjij_1_1graph_1_1Sparse =
 [
-    [ "Interactions", "classopenjij_1_1graph_1_1Sparse.html#a45ade16ac5b26dc6dd4f21ce2a8604d5", null ],
+    [ "Interactions", "classopenjij_1_1graph_1_1Sparse.html#a980ef2c791e383395343ec5736a4988d", null ],
     [ "value_type", "classopenjij_1_1graph_1_1Sparse.html#a927ae967268c33e258c50e2434cecfc6", null ],
     [ "Sparse", "classopenjij_1_1graph_1_1Sparse.html#af685a8171ab5337e9ac9a669474ffb41", null ],
     [ "Sparse", "classopenjij_1_1graph_1_1Sparse.html#a743933adc96494a3a20cd65e6268369c", null ],

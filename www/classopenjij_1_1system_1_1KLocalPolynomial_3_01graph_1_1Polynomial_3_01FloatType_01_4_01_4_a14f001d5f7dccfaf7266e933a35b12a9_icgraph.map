@@ -1,0 +1,5 @@
+<map id="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::virtual_update_system_single" name="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::virtual_update_system_single">
+<area shape="rect" id="Node000001" title="Virtually flip specified binary by single spin flip." alt="" coords="299,5,553,67"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a54f892bdf5bc8806ec077de3d53a9fd2" title="Return the energy difference of k&#45;local update." alt="" coords="5,5,251,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,36,251,39,251,34,285,36"/>
+</map>

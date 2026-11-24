@@ -1,6 +1,9 @@
 <map id="openjij::graph::Dense::Dense" name="openjij::graph::Dense::Dense">
-<area shape="rect" id="Node000001" title="Dense constructor (from nlohmann::json)" alt="" coords="5,29,165,69"/>
-<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="213,29,360,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,47,199,47,199,52,166,52"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="249,30,247,20,253,11,266,5,287,3,310,6,323,13,320,18,308,11,287,8,268,10,256,15,252,21,254,28"/>
+<area shape="rect" id="Node000001" title="Dense constructor (from nlohmann::json)." alt="" coords="5,40,165,85"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Dense.html#ad9142d79b6dbce42b751cfb743ba799e" title="Dense constructor." alt="" coords="213,5,372,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,46,200,43,195,44,166,52"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="220,75,365,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,73,207,82,201,83,165,78"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a1c08b369a388fad86df1915762b82597" title="Graph constructor." alt="" coords="420,5,577,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,25,407,27,402,28,373,30"/>
 </map>

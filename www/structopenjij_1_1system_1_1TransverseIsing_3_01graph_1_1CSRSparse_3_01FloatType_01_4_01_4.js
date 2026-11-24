@@ -2,7 +2,7 @@ var structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatT
 [
     [ "SparseMatrixXx", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a4387ebee43f447cc7628127e669938b5", null ],
     [ "system_type", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#aae7f051e8e0ac1fc29d051cb60ed59a5", null ],
-    [ "TrotterMatrix", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#ab5f6d097d7d0ec27a6e396424f2b1f07", null ],
+    [ "TrotterMatrix", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#ae2f5833441ab7cf226f433910da41a2f", null ],
     [ "TransverseIsing", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a0a336afe8548ec0f88aa22362c75ef88", null ],
     [ "TransverseIsing", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#ac9d2036c4ee3febe303e5c4d64e04a65", null ],
     [ "mod_t", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a2a97d99c174320d9875adb78bcb97b3d", null ],

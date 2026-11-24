@@ -1,0 +1,5 @@
+<map id="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::update_system_single" name="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::update_system_single">
+<area shape="rect" id="Node000001" title="Flip specified binary by single spin flip." alt="" coords="299,5,544,67"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#aaec71b3cb40ab6d8fc01dacff37ea43f" title="Reset KLocalPolynomial system with new binary configurations." alt="" coords="5,5,251,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,36,251,39,251,34,286,36"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="openjij::graph::Chimera::Chimera" name="openjij::graph::Chimera::Chimera">
+<area shape="rect" id="Node000001" title="chimera lattice graph constructor" alt="" coords="227,75,400,119"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Chimera.html#aa7107fa32116334c7d555861fdaee954" title="chimera lattice graph move constructor" alt="" coords="5,5,179,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,71,166,53,166,48,228,69"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Chimera.html#adf1048261b0a410bf0669fed526b8fbb" title="chimera lattice graph copy constructor" alt="" coords="5,75,179,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,98,180,100,179,94,214,96"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Chimera.html#a27fb8ff6e7e62287f191a72cda452d59" title="Square constructor (from nlohmann::json)." alt="" coords="5,144,179,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,124,167,146,165,141,223,125"/>
+</map>

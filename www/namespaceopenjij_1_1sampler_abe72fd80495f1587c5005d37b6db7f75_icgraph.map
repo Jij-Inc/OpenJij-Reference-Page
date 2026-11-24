@@ -1,4 +1,10 @@
 <map id="openjij::sampler::make_sa_sampler" name="openjij::sampler::make_sa_sampler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,176,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="119,17,109,11,91,8,75,10,65,15,61,21,63,28,58,30,56,20,61,11,73,5,91,3,111,6,122,13"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="452,60,622,105"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a5c56a512992e279666c7a831518e4442" title=" " alt="" coords="218,5,390,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,63,391,56,391,51,440,63"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij.html#ae6980a95f2f481b126c61d37ca8e6269" title=" " alt="" coords="204,116,404,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="440,102,377,118,376,112,435,103"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="340,100,329,97,304,94,281,96,268,101,265,106,270,116,265,114,259,107,264,97,279,91,304,89,330,92,346,101"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,116,156,143"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="185,130,156,132,156,127,191,129"/>
 </map>

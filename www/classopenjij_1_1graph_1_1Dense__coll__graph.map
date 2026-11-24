@@ -1,5 +1,5 @@
 <map id="openjij::graph::Dense&lt; FloatType &gt;" name="openjij::graph::Dense&lt; FloatType &gt;">
-<area shape="rect" id="Node000001" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="5,79,165,119"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="6,5,165,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,44,88,79,83,79,83,44"/>
+<area shape="rect" id="Node000001" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="5,81,165,126"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="6,5,164,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,47,88,81,82,80,83,51"/>
 </map>

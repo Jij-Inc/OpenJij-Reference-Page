@@ -1,0 +1,11 @@
+<map id="openjij::system::SASystem&lt; graph::BinaryPolynomialModel&lt; FloatType &gt;, RandType &gt;::SASystem" name="openjij::system::SASystem&lt; graph::BinaryPolynomialModel&lt; FloatType &gt;, RandType &gt;::SASystem">
+<area shape="rect" id="Node000001" title="Constructor of SASystem for BinaryPolynomialModel." alt="" coords="5,152,281,214"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#afcc85a505ead72a38dae3b65b666caa5" title="Get the system size." alt="" coords="329,5,636,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,149,255,112,328,76,347,71,342,74,330,81,257,117,194,154"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a321c193fa781cf9609dda6b8c353b9fa" title=" " alt="" coords="329,92,636,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,159,316,156,311,158,282,164"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a2ecb1155f29c5a8400376378916ba5c0" title="Set initial binary variables." alt="" coords="341,194,624,273"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,201,328,210,323,211,282,206"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a9b0468bda27a5812486db1fb33626071" title=" " alt="" coords="334,297,631,359"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,211,258,248,330,282,351,292,346,292,328,287,256,252,194,217"/>
+</map>
