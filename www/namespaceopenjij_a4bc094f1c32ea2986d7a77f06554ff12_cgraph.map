@@ -1,0 +1,6 @@
+<map id="openjij::run_systems_in_parallel" name="openjij::run_systems_in_parallel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,162,74"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="46,28,45,19,51,10,64,5,84,3,104,5,118,13,113,14,103,10,83,8,66,10,55,15,50,21,51,29"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3" title=" " alt="" coords="210,29,346,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,49,197,51,191,52,162,54"/>
+</map>

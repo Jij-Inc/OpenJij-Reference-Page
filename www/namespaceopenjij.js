@@ -32,6 +32,7 @@ var namespaceopenjij =
     [ "FloatType", "namespaceopenjij.html#a77091ed493e407cadb835d3ea47ec0ec", null ],
     [ "RandomEngine", "namespaceopenjij.html#a956b85fc8d21f3d70263c3d4797f4e87", null ],
     [ "declare_Algorithm_run", "namespaceopenjij.html#a4666aedd08c4bfc4e9796e7d73415cbc", null ],
+    [ "declare_Algorithm_run_parallel", "namespaceopenjij.html#a390a8a892803ee49a1489740b00a8f4f", null ],
     [ "declare_BinaryPolynomialModel", "namespaceopenjij.html#a8ac9bc51d91afe05f6f80bb23fe5e0d3", null ],
     [ "declare_Chimera", "namespaceopenjij.html#a066af23b2c3cfd9fc71a1c9570e4767f", null ],
     [ "declare_ChimeraDir", "namespaceopenjij.html#aa9f55dd713a196b5b966c06b31431eca", null ],
@@ -65,6 +66,7 @@ var namespaceopenjij =
     [ "repr_impl", "namespaceopenjij.html#a5887c310e065daa60d78b1ace9f50e56", null ],
     [ "repr_impl", "namespaceopenjij.html#ae430c106f42c4a4912f24e5e3644bb5d", null ],
     [ "repr_impl", "namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9", null ],
+    [ "run_systems_in_parallel", "namespaceopenjij.html#a4bc094f1c32ea2986d7a77f06554ff12", null ],
     [ "__all__", "namespaceopenjij.html#ad0ec6fc32b9760eeabc53c3d3a3bf6c0", null ],
     [ "__path__", "namespaceopenjij.html#a369b1cb423f80c7a36aba109a6877a34", null ]
 ];

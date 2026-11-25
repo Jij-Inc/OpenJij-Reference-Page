@@ -1,9 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,78,123,106"/>
-<area shape="rect" id="Node000001" href="$structopenjij_1_1utility_1_1is__same__template_3_01T_00_01T_01_4.html" title="check if two template template parameters are the same." alt="" coords="171,5,355,50"/>
-<area shape="poly" id="edge19_Node000000_Node000001" title=" " alt="" coords="123,70,193,49,189,52,124,75"/>
-<area shape="rect" id="Node000003" href="$structopenjij_1_1utility_1_1is__same__template.html" title="check if two template template parameters are the same." alt="" coords="172,74,354,136"/>
-<area shape="poly" id="edge20_Node000000_Node000003" title=" " alt="" coords="138,94,174,98,169,99,138,99"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="8,14,120,42"/>
-<area shape="poly" id="edge21_Node000002_Node000001" title=" " alt="" coords="134,25,173,27,168,29,136,30"/>
+<area shape="rect" id="Node000000" href="$structopenjij_1_1utility_1_1VectorHash.html" title="Hash struct of std::vector&lt;T&gt;." alt="" coords="5,5,198,33"/>
 </map>

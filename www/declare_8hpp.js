@@ -1,6 +1,7 @@
 var declare_8hpp =
 [
     [ "openjij::declare_Algorithm_run", "namespaceopenjij.html#a4666aedd08c4bfc4e9796e7d73415cbc", null ],
+    [ "openjij::declare_Algorithm_run_parallel", "namespaceopenjij.html#a390a8a892803ee49a1489740b00a8f4f", null ],
     [ "openjij::declare_BinaryPolynomialModel", "namespaceopenjij.html#a8ac9bc51d91afe05f6f80bb23fe5e0d3", null ],
     [ "openjij::declare_Chimera", "namespaceopenjij.html#a066af23b2c3cfd9fc71a1c9570e4767f", null ],
     [ "openjij::declare_ChimeraDir", "namespaceopenjij.html#aa9f55dd713a196b5b966c06b31431eca", null ],
@@ -33,5 +34,6 @@ var declare_8hpp =
     [ "openjij::repr_impl", "namespaceopenjij.html#add15fb46504fc8e8ee03542775710448", null ],
     [ "openjij::repr_impl", "namespaceopenjij.html#a5887c310e065daa60d78b1ace9f50e56", null ],
     [ "openjij::repr_impl", "namespaceopenjij.html#ae430c106f42c4a4912f24e5e3644bb5d", null ],
-    [ "openjij::repr_impl", "namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9", null ]
+    [ "openjij::repr_impl", "namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9", null ],
+    [ "openjij::run_systems_in_parallel", "namespaceopenjij.html#a4bc094f1c32ea2986d7a77f06554ff12", null ]
 ];

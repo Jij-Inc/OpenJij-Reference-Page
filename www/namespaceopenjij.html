@@ -149,6 +149,10 @@ Functions</h2></td></tr>
 <tr class="memitem:a5a57502db0bc86471cc676c43d8bc74e template"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5a57502db0bc86471cc676c43d8bc74e">declare_ContinuousTimeIsing</a> (py::module &amp;m, const std::string &amp;gtype_str)</td></tr>
 <tr class="memitem:a4666aedd08c4bfc4e9796e7d73415cbc" id="r_a4666aedd08c4bfc4e9796e7d73415cbc"><td class="memTemplParams" colspan="2">template&lt;template&lt; typename &gt; class Updater, typename System, typename RandomNumberEngine&gt; </td></tr>
 <tr class="memitem:a4666aedd08c4bfc4e9796e7d73415cbc template"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4666aedd08c4bfc4e9796e7d73415cbc">declare_Algorithm_run</a> (py::module &amp;m, const std::string &amp;updater_str)</td></tr>
+<tr class="memitem:a4bc094f1c32ea2986d7a77f06554ff12" id="r_a4bc094f1c32ea2986d7a77f06554ff12"><td class="memTemplParams" colspan="2">template&lt;template&lt; typename &gt; class Updater, typename System, typename RandomNumberEngine, typename ScheduleListType&gt; </td></tr>
+<tr class="memitem:a4bc094f1c32ea2986d7a77f06554ff12 template"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4bc094f1c32ea2986d7a77f06554ff12">run_systems_in_parallel</a> (const std::vector&lt; System * &gt; &amp;systems, const std::vector&lt; std::size_t &gt; &amp;seeds, const ScheduleListType &amp;schedule_list, const int num_threads)</td></tr>
+<tr class="memitem:a390a8a892803ee49a1489740b00a8f4f" id="r_a390a8a892803ee49a1489740b00a8f4f"><td class="memTemplParams" colspan="2">template&lt;template&lt; typename &gt; class Updater, typename System, typename RandomNumberEngine&gt; </td></tr>
+<tr class="memitem:a390a8a892803ee49a1489740b00a8f4f template"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a390a8a892803ee49a1489740b00a8f4f">declare_Algorithm_run_parallel</a> (py::module &amp;m, const std::string &amp;updater_str)</td></tr>
 <tr class="memitem:ae0fa314e3fbb4dc1dabe07a43b5881e9" id="r_ae0fa314e3fbb4dc1dabe07a43b5881e9"><td class="memTemplParams" colspan="2">template&lt;typename SystemType&gt; </td></tr>
 <tr class="memitem:ae0fa314e3fbb4dc1dabe07a43b5881e9 template"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae0fa314e3fbb4dc1dabe07a43b5881e9">repr_impl</a> (const <a class="el" href="structopenjij_1_1utility_1_1UpdaterParameter.html">utility::UpdaterParameter</a>&lt; SystemType &gt; &amp;)</td></tr>
 <tr class="memitem:a5887c310e065daa60d78b1ace9f50e56" id="r_a5887c310e065daa60d78b1ace9f50e56"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
@@ -255,6 +259,61 @@ Here is the caller graph for this function:</div>
 <area shape="rect" title=" " alt="" coords="204,5,424,33"/>
 <area shape="rect" href="main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,5,156,33"/>
 <area shape="poly" title=" " alt="" coords="186,19,156,22,156,17,191,19"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a390a8a892803ee49a1489740b00a8f4f" name="a390a8a892803ee49a1489740b00a8f4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a390a8a892803ee49a1489740b00a8f4f">&#9670;&#160;</a></span>declare_Algorithm_run_parallel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;template&lt; typename &gt; class Updater, typename System, typename RandomNumberEngine&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void openjij::declare_Algorithm_run_parallel </td>
+          <td>(</td>
+          <td class="paramtype">py::module &amp;</td>          <td class="paramname"><span class="paramname"><em>m</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;</td>          <td class="paramname"><span class="paramname"><em>updater_str</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="#a390a8a892803ee49a1489740b00a8f4f">declare_Algorithm_run_parallel()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="#a390a8a892803ee49a1489740b00a8f4f">declare_Algorithm_run_parallel()</a>, and <a class="el" href="main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c">PYBIND11_MODULE()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_cgraph.png" border="0" usemap="#anamespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_cgraph" loading="lazy" alt=""/></div>
+<map name="anamespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_cgraph" id="anamespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_cgraph">
+<area shape="rect" title=" " alt="" coords="5,29,198,74"/>
+<area shape="poly" title=" " alt="" coords="64,28,63,19,69,10,82,5,102,3,122,5,136,14,131,14,121,10,101,8,84,10,73,15,68,21,69,30"/>
+</map>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_icgraph.png" border="0" usemap="#anamespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_icgraph" loading="lazy" alt=""/></div>
+<map name="anamespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_icgraph" id="anamespaceopenjij_a390a8a892803ee49a1489740b00a8f4f_icgraph">
+<area shape="rect" title=" " alt="" coords="204,29,396,74"/>
+<area shape="poly" title=" " alt="" coords="334,14,322,10,300,8,279,10,267,15,262,21,263,30,258,27,257,19,264,10,278,5,300,3,324,5,339,14"/>
+<area shape="rect" href="main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,38,156,66"/>
+<area shape="poly" title=" " alt="" coords="186,52,156,54,156,49,191,51"/>
 </map>
 </div>
 
@@ -1913,6 +1972,71 @@ Here is the caller graph for this function:</div>
 <area shape="poly" title=" " alt="" coords="343,200,332,196,307,194,285,196,272,201,269,206,275,215,269,214,264,206,268,197,283,191,307,189,333,191,349,199"/>
 <area shape="poly" title=" " alt="" coords="250,284,107,205,108,199,254,281"/>
 <area shape="poly" title=" " alt="" coords="342,276,330,272,307,269,287,271,274,276,269,282,270,291,265,289,264,281,271,272,286,266,307,264,331,267,347,275"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a4bc094f1c32ea2986d7a77f06554ff12" name="a4bc094f1c32ea2986d7a77f06554ff12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4bc094f1c32ea2986d7a77f06554ff12">&#9670;&#160;</a></span>run_systems_in_parallel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;template&lt; typename &gt; class Updater, typename System, typename RandomNumberEngine, typename ScheduleListType&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void openjij::run_systems_in_parallel </td>
+          <td>(</td>
+          <td class="paramtype">const std::vector&lt; System * &gt; &amp;</td>          <td class="paramname"><span class="paramname"><em>systems</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; std::size_t &gt; &amp;</td>          <td class="paramname"><span class="paramname"><em>seeds</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const ScheduleListType &amp;</td>          <td class="paramname"><span class="paramname"><em>schedule_list</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const int</td>          <td class="paramname"><span class="paramname"><em>num_threads</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">openjij::algorithm::Algorithm&lt; Updater &gt;::run()</a>, and <a class="el" href="#a4bc094f1c32ea2986d7a77f06554ff12">run_systems_in_parallel()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="#a4bc094f1c32ea2986d7a77f06554ff12">run_systems_in_parallel()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_cgraph.png" border="0" usemap="#anamespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_cgraph" loading="lazy" alt=""/></div>
+<map name="anamespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_cgraph" id="anamespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_cgraph">
+<area shape="rect" title=" " alt="" coords="5,29,162,74"/>
+<area shape="poly" title=" " alt="" coords="46,28,45,19,51,10,64,5,84,3,104,5,118,13,113,14,103,10,83,8,66,10,55,15,50,21,51,29"/>
+<area shape="rect" href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3" title=" " alt="" coords="210,29,346,74"/>
+<area shape="poly" title=" " alt="" coords="162,49,197,51,191,52,162,54"/>
+</map>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_icgraph.png" border="0" usemap="#anamespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_icgraph" loading="lazy" alt=""/></div>
+<map name="anamespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_icgraph" id="anamespaceopenjij_a4bc094f1c32ea2986d7a77f06554ff12_icgraph">
+<area shape="rect" title=" " alt="" coords="5,29,162,74"/>
+<area shape="poly" title=" " alt="" coords="107,14,99,10,83,8,69,10,61,14,57,21,58,30,53,28,52,19,57,11,68,5,84,3,101,5,112,14"/>
 </map>
 </div>
 

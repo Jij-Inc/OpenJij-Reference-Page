@@ -1,7 +1,5 @@
 <map id="openjij.sampler.sqa_sampler.SQASampler._annealing_schedule_setting" name="openjij.sampler.sqa_sampler.SQASampler._annealing_schedule_setting">
-<area shape="rect" id="Node000001" title=" " alt="" coords="317,32,526,93"/>
-<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793" title=" " alt="" coords="29,5,245,50"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,48,246,44,245,38,304,47"/>
-<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="5,75,269,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,77,269,84,269,78,304,77"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="317,5,526,67"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="5,14,269,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,36,269,39,269,34,304,36"/>
 </map>

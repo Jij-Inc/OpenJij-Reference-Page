@@ -1,0 +1,9 @@
+<map id="openjij.sampler.sqa_sampler.SQASampler._parallel_sampling" name="openjij.sampler.sqa_sampler.SQASampler._parallel_sampling">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,174,152"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ae412ddda4adae9bb3c68c37f580066b3" title=" " alt="" coords="233,5,393,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,88,220,71,216,74,173,93"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a6d94f63edb4d4746be8ceb3e9dc5fca5" title=" " alt="" coords="224,91,402,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,119,211,121,206,122,175,124"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ac78fe80d5252a0dda91b969eda6ed2bc" title=" " alt="" coords="222,176,404,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,148,235,171,229,171,174,153"/>
+</map>

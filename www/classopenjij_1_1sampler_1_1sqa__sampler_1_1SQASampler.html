@@ -130,7 +130,7 @@ Collaboration diagram for openjij.sampler.sqa_sampler.SQASampler:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a4bd4185ae615010d04e4a5341b4bd27d" id="r_a4bd4185ae615010d04e4a5341b4bd27d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4bd4185ae615010d04e4a5341b4bd27d">parameters</a> (self)</td></tr>
 <tr class="memitem:a29c4382b28c2082ff331de2eba264da8" id="r_a29c4382b28c2082ff331de2eba264da8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a29c4382b28c2082ff331de2eba264da8">__init__</a> (self)</td></tr>
-<tr class="memitem:aa5cd16c3774036f5d322da427c872793" id="r_aa5cd16c3774036f5d322da427c872793"><td class="memItemLeft" align="right" valign="top">&quot;openjij.sampler.response.Response&quot;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa5cd16c3774036f5d322da427c872793">sample</a> (self, Union[&quot;openjij.model.model.BinaryQuadraticModel&quot;, dimod.BinaryQuadraticModel] bqm, Optional[float] beta=None, Optional[float] gamma=None, Optional[int] num_sweeps=None, Optional[list] schedule=None, Optional[int] trotter=None, Optional[int] num_reads=None, Optional[Union[list, dict]] initial_state=None, Optional[str] <a class="el" href="namespaceopenjij_1_1updater.html">updater</a>=None, Optional[bool] sparse=None, Optional[bool] reinitialize_state=None, Optional[int] seed=None)</td></tr>
+<tr class="memitem:a37de6dd968855173f4a20bc0df174a02" id="r_a37de6dd968855173f4a20bc0df174a02"><td class="memItemLeft" align="right" valign="top">&quot;openjij.sampler.response.Response&quot;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a37de6dd968855173f4a20bc0df174a02">sample</a> (self, Union[&quot;openjij.model.model.BinaryQuadraticModel&quot;, dimod.BinaryQuadraticModel] bqm, Optional[float] beta=None, Optional[float] gamma=None, Optional[int] num_sweeps=None, Optional[list] schedule=None, Optional[int] trotter=None, Optional[int] num_reads=None, Optional[Union[list, dict]] initial_state=None, Optional[str] <a class="el" href="namespaceopenjij_1_1updater.html">updater</a>=None, Optional[bool] sparse=None, Optional[bool] reinitialize_state=None, Optional[int] seed=None, *, Optional[float] beta_min=None, Optional[float] beta_max=None, Optional[float] coupling_min=None, Optional[float] coupling_max=None, Optional[int] num_threads=None)</td></tr>
 <tr class="inherit_header pub_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pub_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler')"><span class="dynarrow"><span class="arrowhead closed"></span></span>Public Member Functions inherited from <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html">openjij.sampler.sampler.BaseSampler</a></td></tr>
 <tr class="memitem:ae2054043eac5a3eb17895fd6094b661f inherit pub_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler" id="r_ae2054043eac5a3eb17895fd6094b661f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ae2054043eac5a3eb17895fd6094b661f">sample_ising</a> (self, h, J, **<a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3e447ee54bbe13a966d44e1ebcaa4fcd">parameters</a>)</td></tr>
 <tr class="memitem:a49ec158ed2d6fac524b6ad80163cd690 inherit pub_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler" id="r_a49ec158ed2d6fac524b6ad80163cd690"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a49ec158ed2d6fac524b6ad80163cd690">sample_qubo</a> (self, Q, **<a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3e447ee54bbe13a966d44e1ebcaa4fcd">parameters</a>)</td></tr>
@@ -146,6 +146,7 @@ Public Attributes</h2></td></tr>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:a756b20aca3799e889d88df14270fd99b" id="r_a756b20aca3799e889d88df14270fd99b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a756b20aca3799e889d88df14270fd99b">_convert_validation_schedule</a> (self, schedule, beta)</td></tr>
 <tr class="memitem:a41f053a3debace53960f0ff0ef483e0c" id="r_a41f053a3debace53960f0ff0ef483e0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a41f053a3debace53960f0ff0ef483e0c">_get_result</a> (self, <a class="el" href="namespaceopenjij_1_1system.html">system</a>, <a class="el" href="namespaceopenjij_1_1model.html">model</a>)</td></tr>
+<tr class="memitem:adc5431e038720e8266c896f33a46a908" id="r_adc5431e038720e8266c896f33a46a908"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#adc5431e038720e8266c896f33a46a908">_parallel_sampling</a> (self, <a class="el" href="namespaceopenjij_1_1model.html">model</a>, ising_graph, init_generator, make_system, <a class="el" href="namespaceopenjij_1_1algorithm.html">algorithm</a>, gamma, reinitialize_state, read_seeds, num_threads)</td></tr>
 <tr class="memitem:ab13d17ed681df57a5db66ecb37701ca0" id="r_ab13d17ed681df57a5db66ecb37701ca0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting</a> (self, <a class="el" href="namespaceopenjij_1_1model.html">model</a>, beta=None, gamma=None, num_sweeps=None, schedule=None)</td></tr>
 <tr class="inherit_header pro_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pro_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler')"><span class="dynarrow"><span class="arrowhead closed"></span></span>Protected Member Functions inherited from <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html">openjij.sampler.sampler.BaseSampler</a></td></tr>
 <tr class="memitem:a3a6f1d444e5ce26a0040ee9129a8b6aa inherit pro_methods_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler" id="r_a3a6f1d444e5ce26a0040ee9129a8b6aa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa">_set_params</a> (self, **kwargs)</td></tr>
@@ -154,8 +155,8 @@ Protected Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-pro-attribs" class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a33c14c629c72eaf80cb065fc52090b77" id="r_a33c14c629c72eaf80cb065fc52090b77"><td class="memItemLeft" align="right" valign="top">dict&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a33c14c629c72eaf80cb065fc52090b77">_params</a></td></tr>
-<tr class="memitem:ad909d3dba0fb3ae508afb329d540fd8c" id="r_ad909d3dba0fb3ae508afb329d540fd8c"><td class="memItemLeft" align="right" valign="top">dict&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad909d3dba0fb3ae508afb329d540fd8c">_make_system</a> = {&quot;singlespinflip&quot;: cxxjij.system.make_transverse_ising}</td></tr>
+<tr class="memitem:afbedc5c114d5b5f75ad596fd97cfce51" id="r_afbedc5c114d5b5f75ad596fd97cfce51"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#afbedc5c114d5b5f75ad596fd97cfce51">_params</a> = dict(self._default_params)</td></tr>
+<tr class="memitem:ad909d3dba0fb3ae508afb329d540fd8c" id="r_ad909d3dba0fb3ae508afb329d540fd8c"><td class="memItemLeft" align="right" valign="top">dict&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad909d3dba0fb3ae508afb329d540fd8c">_make_system</a></td></tr>
 <tr class="memitem:a0ed846d61f28ba7cc8e3e0f5cddedf7f" id="r_a0ed846d61f28ba7cc8e3e0f5cddedf7f"><td class="memItemLeft" align="right" valign="top">dict&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0ed846d61f28ba7cc8e3e0f5cddedf7f">_algorithm</a></td></tr>
 <tr class="inherit_header pro_attribs_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pro_attribs_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler')"><span class="dynarrow"><span class="arrowhead closed"></span></span>Protected Attributes inherited from <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html">openjij.sampler.sampler.BaseSampler</a></td></tr>
 <tr class="memitem:a61b011c8d10f05d6cef2a32ebc617d5f inherit pro_attribs_classopenjij_1_1sampler_1_1sampler_1_1BaseSampler" id="r_a61b011c8d10f05d6cef2a32ebc617d5f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a61b011c8d10f05d6cef2a32ebc617d5f">_default_params</a></td></tr>
@@ -176,10 +177,29 @@ Hamiltonian
     H(s) = s H_p + \\Gamma (1-s)\\sum_i \\sigma_i^x
 
 where :math:`H_p` is the problem Hamiltonian we want to solve.
+The quantum Monte Carlo simulation uses the Suzuki-Trotter
+decomposition with ``trotter`` slices. Every slice feels the problem
+Hamiltonian at inverse temperature :math:`s\\beta/M` and neighbouring
+slices are coupled ferromagnetically with
+:math:`J_\\perp = -\\frac12\\ln\\tanh(\\beta\\Gamma(1-s)/M)`.
+
+Unless ``schedule``, ``beta`` or ``gamma`` is given, the annealing
+schedule is generated by :func:`geometric_sqa_schedule`: the classical
+inverse temperature of every slice follows the automatic schedule of
+:class:`openjij.SASampler` (estimated from the coefficients of the
+problem), and the transverse field decreases such that
+:math:`J_\\perp` grows geometrically. Both ends of :math:`J_\\perp` are
+chosen from the energy landscape (:func:`trotter_coupling_range`): weak
+for frustrated spin glasses, where nearly independent replicas work
+best, and stronger for problems with rigid local structure or tall and
+narrow barriers such as global constraints. The transverse field stays
+finite at the end of the annealing.
+
+Reads run in parallel on ``num_threads`` threads.
 
 Args:
-    beta (float): Inverse temperature.
-    gamma (float): Amplitude of quantum fluctuation.
+    beta (float): Inverse temperature (legacy schedule).
+    gamma (float): Amplitude of quantum fluctuation (legacy schedule).
     trotter (int): Trotter number.
     num_sweeps (int): number of sweeps
     schedule (list): schedule list
@@ -255,20 +275,22 @@ Raises:
   </tr>
 </table>
 </div><div class="memdoc">
+<pre class="fragment">Set the legacy schedule (used by :class:`CSQASampler`).</pre> 
+<p class="reference">References <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14">openjij.sampler.sa_sampler.SASampler._convert_validation_schedule()</a>, <a class="el" href="#a756b20aca3799e889d88df14270fd99b">_convert_validation_schedule()</a>, <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html">openjij.sampler.csqa_sampler.CSQASampler._params</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#afb973acdbe0a3ef844d5d52983ee7215">openjij.sampler.sa_sampler.SASampler._params</a>, <a class="el" href="#afbedc5c114d5b5f75ad596fd97cfce51">_params</a>, <a class="el" href="namespaceopenjij_1_1sampler_1_1sqa__sampler.html#a59e16faf1010d7c66916775c30d0c281">openjij.sampler.sqa_sampler.quartic_ising_schedule()</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a9805a2323f23e22624d696971faa2c80">openjij.sampler.sa_sampler.SASampler.schedule_info</a>, and <a class="el" href="#aba60ef10daf401a903a364142fc50189">schedule_info</a>.</p>
 
-<p class="reference">References <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14">openjij.sampler.sa_sampler.SASampler._convert_validation_schedule()</a>, <a class="el" href="#a756b20aca3799e889d88df14270fd99b">_convert_validation_schedule()</a>, <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html">openjij.sampler.csqa_sampler.CSQASampler._params</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#afb973acdbe0a3ef844d5d52983ee7215">openjij.sampler.sa_sampler.SASampler._params</a>, and <a class="el" href="#a33c14c629c72eaf80cb065fc52090b77">_params</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="#aa5cd16c3774036f5d322da427c872793">sample()</a>, and <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c">openjij.sampler.csqa_sampler.CSQASampler.sample_ising()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c">openjij.sampler.csqa_sampler.CSQASampler.sample_ising()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_cgraph.png" border="0" usemap="#aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_cgraph" loading="lazy" alt=""/></div>
 <map name="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_cgraph" id="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_cgraph">
-<area shape="rect" title=" " alt="" coords="5,48,215,110"/>
+<area shape="rect" title=" " alt="" coords="5,91,215,152"/>
 <area shape="rect" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14" title=" " alt="" coords="263,5,477,67"/>
-<area shape="poly" title=" " alt="" coords="215,59,250,55,245,57,216,64"/>
+<area shape="poly" title=" " alt="" coords="205,88,262,71,257,74,207,93"/>
 <area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a756b20aca3799e889d88df14270fd99b" title=" " alt="" coords="263,91,477,152"/>
-<area shape="poly" title=" " alt="" coords="215,93,250,101,244,102,215,99"/>
+<area shape="poly" title=" " alt="" coords="215,119,250,121,245,122,216,124"/>
+<area shape="rect" href="namespaceopenjij_1_1sampler_1_1sqa__sampler.html#a59e16faf1010d7c66916775c30d0c281" title=" " alt="" coords="286,176,454,238"/>
+<area shape="poly" title=" " alt="" coords="206,150,275,174,269,175,206,156"/>
 </map>
 </div>
 <div class="dynheader">
@@ -276,11 +298,9 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_icgraph.png" border="0" usemap="#aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_icgraph" loading="lazy" alt=""/></div>
 <map name="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_icgraph" id="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_ab13d17ed681df57a5db66ecb37701ca0_icgraph">
-<area shape="rect" title=" " alt="" coords="317,32,526,93"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793" title=" " alt="" coords="29,5,245,50"/>
-<area shape="poly" title=" " alt="" coords="299,48,246,44,245,38,304,47"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="5,75,269,119"/>
-<area shape="poly" title=" " alt="" coords="299,77,269,84,269,78,304,77"/>
+<area shape="rect" title=" " alt="" coords="317,5,526,67"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="5,14,269,58"/>
+<area shape="poly" title=" " alt="" coords="298,36,269,39,269,34,304,36"/>
 </map>
 </div>
 
@@ -318,19 +338,19 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting()</a>, and <a class="el" href="#a37de6dd968855173f4a20bc0df174a02">sample()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a756b20aca3799e889d88df14270fd99b_icgraph.png" border="0" usemap="#aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a756b20aca3799e889d88df14270fd99b_icgraph" loading="lazy" alt=""/></div>
 <map name="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a756b20aca3799e889d88df14270fd99b_icgraph" id="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a756b20aca3799e889d88df14270fd99b_icgraph">
-<area shape="rect" title=" " alt="" coords="574,32,788,93"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#ab13d17ed681df57a5db66ecb37701ca0" title=" " alt="" coords="317,32,526,93"/>
-<area shape="poly" title=" " alt="" coords="555,62,527,65,526,60,561,62"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793" title=" " alt="" coords="29,5,245,50"/>
-<area shape="poly" title=" " alt="" coords="299,48,246,44,245,38,304,47"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="5,75,269,119"/>
-<area shape="poly" title=" " alt="" coords="299,77,269,84,269,78,304,77"/>
+<area shape="rect" title=" " alt="" coords="581,44,795,106"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#ab13d17ed681df57a5db66ecb37701ca0" title=" " alt="" coords="320,5,530,67"/>
+<area shape="poly" title=" " alt="" coords="563,57,530,54,530,49,568,57"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a37de6dd968855173f4a20bc0df174a02" title=" " alt="" coords="317,91,533,136"/>
+<area shape="poly" title=" " alt="" coords="568,93,534,100,533,95,563,93"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="5,14,269,58"/>
+<area shape="poly" title=" " alt="" coords="302,37,270,39,269,34,307,36"/>
 </map>
 </div>
 
@@ -396,6 +416,96 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a id="adc5431e038720e8266c896f33a46a908" name="adc5431e038720e8266c896f33a46a908"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc5431e038720e8266c896f33a46a908">&#9670;&#160;</a></span>_parallel_sampling()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">openjij.sampler.sqa_sampler.SQASampler._parallel_sampling </td>
+          <td>(</td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>self</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>model</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>ising_graph</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>init_generator</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>make_system</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>algorithm</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>gamma</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>reinitialize_state</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>read_seeds</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"></td>          <td class="paramname"><span class="paramname"><em>num_threads</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<pre class="fragment">Run the reads on concurrent systems and collect the results.
+
+Each read owns a random seed, so the samples do not depend on
+``num_threads``. With ``reinitialize_state=False`` every read continues
+from the final state of the previous one, so the reads run one by one.
+</pre> 
+<p class="reference">References <a class="el" href="namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ae412ddda4adae9bb3c68c37f580066b3">openjij.sampler.sqa_sampler._concurrent_systems()</a>, <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a6d94f63edb4d4746be8ceb3e9dc5fca5">openjij.sampler.csqa_sampler.CSQASampler._get_result()</a>, <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ac78fe80d5252a0dda91b969eda6ed2bc">openjij.sampler.sampler.BaseSampler._get_result()</a>, <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html">openjij.sampler.csqa_sampler.CSQASampler._params</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#afb973acdbe0a3ef844d5d52983ee7215">openjij.sampler.sa_sampler.SASampler._params</a>, and <a class="el" href="#afbedc5c114d5b5f75ad596fd97cfce51">_params</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_adc5431e038720e8266c896f33a46a908_cgraph.png" border="0" usemap="#aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_adc5431e038720e8266c896f33a46a908_cgraph" loading="lazy" alt=""/></div>
+<map name="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_adc5431e038720e8266c896f33a46a908_cgraph" id="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_adc5431e038720e8266c896f33a46a908_cgraph">
+<area shape="rect" title=" " alt="" coords="5,91,174,152"/>
+<area shape="rect" href="namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ae412ddda4adae9bb3c68c37f580066b3" title=" " alt="" coords="233,5,393,67"/>
+<area shape="poly" title=" " alt="" coords="171,88,220,71,216,74,173,93"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a6d94f63edb4d4746be8ceb3e9dc5fca5" title=" " alt="" coords="224,91,402,152"/>
+<area shape="poly" title=" " alt="" coords="174,119,211,121,206,122,175,124"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ac78fe80d5252a0dda91b969eda6ed2bc" title=" " alt="" coords="222,176,404,221"/>
+<area shape="poly" title=" " alt="" coords="175,148,235,171,229,171,174,153"/>
+</map>
+</div>
+
+</div>
+</div>
 <a id="a4bd4185ae615010d04e4a5341b4bd27d" name="a4bd4185ae615010d04e4a5341b4bd27d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4bd4185ae615010d04e4a5341b4bd27d">&#9670;&#160;</a></span>parameters()</h2>
 
@@ -415,8 +525,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="aa5cd16c3774036f5d322da427c872793" name="aa5cd16c3774036f5d322da427c872793"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5cd16c3774036f5d322da427c872793">&#9670;&#160;</a></span>sample()</h2>
+<a id="a37de6dd968855173f4a20bc0df174a02" name="a37de6dd968855173f4a20bc0df174a02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37de6dd968855173f4a20bc0df174a02">&#9670;&#160;</a></span>sample()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -486,25 +596,80 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Optional[int] </td>          <td class="paramname"><span class="paramname"><em>seed</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>&#160;)</td>
+          <td class="paramtype">Optional[int] </td>          <td class="paramname"><span class="paramname"><em>seed</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">*</td>          <td class="paramname"><span class="paramname"><em></em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[float] </td>          <td class="paramname"><span class="paramname"><em>beta_min</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[float] </td>          <td class="paramname"><span class="paramname"><em>beta_max</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[float] </td>          <td class="paramname"><span class="paramname"><em>coupling_min</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[float] </td>          <td class="paramname"><span class="paramname"><em>coupling_max</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[int] </td>          <td class="paramname"><span class="paramname"><em>num_threads</em></span><span class="paramdefsep"> = </span><span class="paramdefval">None</span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Sampling from the Ising model.
 
+The annealing schedule is chosen as follows.
+
+- ``schedule`` is given: the custom schedule.
+- ``beta`` or ``gamma`` is given: the legacy schedule, i.e. fixed
+  ``beta`` (default 5) and ``s`` following
+  :func:`quartic_ising_schedule` from 0 to 1.
+- otherwise: :func:`geometric_sqa_schedule`. ``beta_min`` and
+  ``beta_max`` override the estimated range of the classical inverse
+  temperature of each Trotter slice, and ``coupling_min`` and
+  ``coupling_max`` the range of the Trotter coupling chosen from the
+  energy landscape (:func:`trotter_coupling_range`).
+
 Args:
     bqm (openjij.BinaryQuadraticModel) binary quadratic model
-    beta (float, optional): inverse tempareture.
-    gamma (float, optional): strangth of transverse field. Defaults to None.
-    num_sweeps (int, optional): number of sweeps. Defaults to None.
+    beta (float, optional): inverse temperature of the legacy schedule.
+    gamma (float, optional): strength of transverse field. Defaults to 1 for custom and legacy schedules.
+    num_sweeps (int, optional): number of sweeps. Defaults to 1000.
     schedule (list[list[float, int]], optional): List of annealing parameter. Defaults to None.
-    trotter (int): Trotter number.
+    trotter (int): Trotter number. Defaults to 8.
     num_reads (int, optional): number of sampling. Defaults to 1.
     initial_state (list[int], optional): Initial state. Defaults to None.
-    updater (str, optional): update method. Defaults to 'single spin flip'.
+    updater (str, optional): update method, "single spin flip" (default)
+        or "trotter cluster flip". The latter flips segments of Trotter
+        copies at once and keeps the replicas moving when the Trotter
+        coupling is strong (e.g. near s = 1 in reverse annealing).
     sparse (bool): use sparse matrix or not.
     reinitialize_state (bool, optional): Re-initilization at each sampling. Defaults to True.
-    seed (int, optional): Sampling seed. Defaults to None.
+        If False, reads run sequentially, each starting from the previous final state.
+    seed (int, optional): seed for reproducible batches with a distinct random seed per read.
+    beta_min (float, optional): initial classical inverse temperature per Trotter slice
+        of the automatic schedule.
+    beta_max (float, optional): final classical inverse temperature per Trotter slice
+        of the automatic schedule.
+    coupling_min (float, optional): initial Trotter coupling of the automatic schedule.
+    coupling_max (float, optional): final Trotter coupling of the automatic schedule.
+    num_threads (int, optional): number of threads that run reads in parallel.
+        Defaults to ``OMP_NUM_THREADS`` if set, otherwise the number of CPUs.
+        Results do not depend on the number of threads.
 
 Raises:
     ValueError:
@@ -529,23 +694,21 @@ Examples:
 </pre> 
 <p>Reimplemented from <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ac75a71a869de4368e326a79dae7cb420">openjij.sampler.sampler.BaseSampler</a>.</p>
 
-<p class="reference">References <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a9f097bb43567e9d5af1f09dbd930e649">openjij.sampler.sa_sampler.SASampler._algorithm</a>, <a class="el" href="#a0ed846d61f28ba7cc8e3e0f5cddedf7f">_algorithm</a>, <a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting()</a>, <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a2b67f053babd477acb48cfb77a7da1cb">openjij.sampler.sampler.BaseSampler._cxxjij_sampling()</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a26b4d5bc79b1150fdd57e8fa32be59c3">openjij.sampler.sa_sampler.SASampler._make_system</a>, <a class="el" href="#ad909d3dba0fb3ae508afb329d540fd8c">_make_system</a>, <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html">openjij.sampler.csqa_sampler.CSQASampler._params</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#afb973acdbe0a3ef844d5d52983ee7215">openjij.sampler.sa_sampler.SASampler._params</a>, <a class="el" href="#a33c14c629c72eaf80cb065fc52090b77">_params</a>, <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa">openjij.sampler.sampler.BaseSampler._set_params()</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a9805a2323f23e22624d696971faa2c80">openjij.sampler.sa_sampler.SASampler.schedule_info</a>, and <a class="el" href="#aba60ef10daf401a903a364142fc50189">schedule_info</a>.</p>
+<p class="reference">References <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a9f097bb43567e9d5af1f09dbd930e649">openjij.sampler.sa_sampler.SASampler._algorithm</a>, <a class="el" href="#a0ed846d61f28ba7cc8e3e0f5cddedf7f">_algorithm</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14">openjij.sampler.sa_sampler.SASampler._convert_validation_schedule()</a>, <a class="el" href="#a756b20aca3799e889d88df14270fd99b">_convert_validation_schedule()</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a26b4d5bc79b1150fdd57e8fa32be59c3">openjij.sampler.sa_sampler.SASampler._make_system</a>, <a class="el" href="#ad909d3dba0fb3ae508afb329d540fd8c">_make_system</a>, <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html">openjij.sampler.csqa_sampler.CSQASampler._params</a>, <a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#afb973acdbe0a3ef844d5d52983ee7215">openjij.sampler.sa_sampler.SASampler._params</a>, <a class="el" href="#afbedc5c114d5b5f75ad596fd97cfce51">_params</a>, <a class="el" href="namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ad3a4adc993cee956c879c385dd2696e1">openjij.sampler.sqa_sampler._resolve_num_threads()</a>, and <a class="el" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa">openjij.sampler.sampler.BaseSampler._set_params()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_aa5cd16c3774036f5d322da427c872793_cgraph.png" border="0" usemap="#aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_aa5cd16c3774036f5d322da427c872793_cgraph" loading="lazy" alt=""/></div>
-<map name="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_aa5cd16c3774036f5d322da427c872793_cgraph" id="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_aa5cd16c3774036f5d322da427c872793_cgraph">
-<area shape="rect" title=" " alt="" coords="5,134,222,178"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#ab13d17ed681df57a5db66ecb37701ca0" title=" " alt="" coords="275,48,484,110"/>
-<area shape="poly" title=" " alt="" coords="192,131,262,112,257,115,194,136"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a2b67f053babd477acb48cfb77a7da1cb" title=" " alt="" coords="270,134,489,178"/>
-<area shape="poly" title=" " alt="" coords="222,154,257,156,252,157,223,159"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa" title=" " alt="" coords="283,203,476,248"/>
-<area shape="poly" title=" " alt="" coords="202,177,279,198,274,199,202,182"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14" title=" " alt="" coords="537,5,751,67"/>
-<area shape="poly" title=" " alt="" coords="484,59,524,55,519,57,485,64"/>
-<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a756b20aca3799e889d88df14270fd99b" title=" " alt="" coords="537,91,751,152"/>
-<area shape="poly" title=" " alt="" coords="485,93,524,102,519,102,485,98"/>
+<div class="center"><img src="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a37de6dd968855173f4a20bc0df174a02_cgraph.png" border="0" usemap="#aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a37de6dd968855173f4a20bc0df174a02_cgraph" loading="lazy" alt=""/></div>
+<map name="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a37de6dd968855173f4a20bc0df174a02_cgraph" id="aclassopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler_a37de6dd968855173f4a20bc0df174a02_cgraph">
+<area shape="rect" title=" " alt="" coords="5,142,222,186"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14" title=" " alt="" coords="270,5,484,67"/>
+<area shape="poly" title=" " alt="" coords="152,139,268,76,283,72,279,75,271,81,154,144"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a756b20aca3799e889d88df14270fd99b" title=" " alt="" coords="270,91,484,152"/>
+<area shape="poly" title=" " alt="" coords="221,144,257,140,252,142,223,149"/>
+<area shape="rect" href="namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ad3a4adc993cee956c879c385dd2696e1" title=" " alt="" coords="289,176,464,238"/>
+<area shape="poly" title=" " alt="" coords="222,179,276,190,271,191,222,184"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa" title=" " alt="" coords="280,262,474,306"/>
+<area shape="poly" title=" " alt="" coords="152,184,208,216,271,247,288,256,283,256,269,252,205,221,151,190"/>
 </map>
 </div>
 
@@ -572,10 +735,11 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=  {</div>
-<div class="line">            <span class="stringliteral">&quot;singlespinflip&quot;</span>: cxxjij.algorithm.Algorithm_SingleSpinFlip_run</div>
+<div class="line">            <span class="stringliteral">&quot;singlespinflip&quot;</span>: cxxjij.algorithm.Algorithm_SingleSpinFlip_run_parallel,</div>
+<div class="line">            <span class="stringliteral">&quot;trotterclusterflip&quot;</span>: cxxjij.algorithm.Algorithm_TrotterClusterFlip_run_parallel,</div>
 <div class="line">        }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="#aa5cd16c3774036f5d322da427c872793">sample()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="#a37de6dd968855173f4a20bc0df174a02">sample()</a>.</p>
 
 </div>
 </div>
@@ -589,31 +753,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">dict openjij.sampler.sqa_sampler.SQASampler._make_system = {&quot;singlespinflip&quot;: cxxjij.system.make_transverse_ising}</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="#aa5cd16c3774036f5d322da427c872793">sample()</a>.</p>
-
-</div>
-</div>
-<a id="a33c14c629c72eaf80cb065fc52090b77" name="a33c14c629c72eaf80cb065fc52090b77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33c14c629c72eaf80cb065fc52090b77">&#9670;&#160;</a></span>_params</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">dict openjij.sampler.sqa_sampler.SQASampler._params</td>
+          <td class="memname">dict openjij.sampler.sqa_sampler.SQASampler._make_system</td>
         </tr>
       </table>
   </td>
@@ -623,15 +763,35 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=  {</div>
-<div class="line">            <span class="stringliteral">&quot;beta&quot;</span>: beta,</div>
-<div class="line">            <span class="stringliteral">&quot;gamma&quot;</span>: gamma,</div>
-<div class="line">            <span class="stringliteral">&quot;num_sweeps&quot;</span>: num_sweeps,</div>
-<div class="line">            <span class="stringliteral">&quot;schedule&quot;</span>: schedule,</div>
-<div class="line">            <span class="stringliteral">&quot;trotter&quot;</span>: trotter,</div>
-<div class="line">            <span class="stringliteral">&quot;num_reads&quot;</span>: num_reads,</div>
+<div class="line">            <span class="stringliteral">&quot;singlespinflip&quot;</span>: cxxjij.system.make_transverse_ising,</div>
+<div class="line">            <span class="stringliteral">&quot;trotterclusterflip&quot;</span>: cxxjij.system.make_transverse_ising,</div>
 <div class="line">        }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting()</a>, and <a class="el" href="#aa5cd16c3774036f5d322da427c872793">sample()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="#a37de6dd968855173f4a20bc0df174a02">sample()</a>.</p>
+
+</div>
+</div>
+<a id="afbedc5c114d5b5f75ad596fd97cfce51" name="afbedc5c114d5b5f75ad596fd97cfce51"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afbedc5c114d5b5f75ad596fd97cfce51">&#9670;&#160;</a></span>_params</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">openjij.sampler.sqa_sampler.SQASampler._params = dict(self._default_params)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting()</a>, <a class="el" href="#adc5431e038720e8266c896f33a46a908">_parallel_sampling()</a>, and <a class="el" href="#a37de6dd968855173f4a20bc0df174a02">sample()</a>.</p>
 
 </div>
 </div>
@@ -647,7 +807,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="#aa5cd16c3774036f5d322da427c872793">sample()</a>, and <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c">openjij.sampler.csqa_sampler.CSQASampler.sample_ising()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="#ab13d17ed681df57a5db66ecb37701ca0">_annealing_schedule_setting()</a>, and <a class="el" href="classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c">openjij.sampler.csqa_sampler.CSQASampler.sample_ising()</a>.</p>
 
 </div>
 </div>

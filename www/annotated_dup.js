@@ -98,7 +98,9 @@ var annotated_dup =
         [ "SingleSpinFlip&lt; system::ClassicalIsingPolynomial&lt; GraphType &gt; &gt;", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4" ],
         [ "SwendsenWang", "structopenjij_1_1updater_1_1SwendsenWang.html", null ],
         [ "SwendsenWang&lt; system::ClassicalIsing&lt; graph::Sparse&lt; FloatType &gt; &gt; &gt;", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4.html", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4" ],
-        [ "SwendsenWang&lt; system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt; &gt;", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4" ]
+        [ "SwendsenWang&lt; system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt; &gt;", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4" ],
+        [ "TrotterClusterFlip", "structopenjij_1_1updater_1_1TrotterClusterFlip.html", null ],
+        [ "TrotterClusterFlip&lt; system::TransverseIsing&lt; GraphType &gt; &gt;", "structopenjij_1_1updater_1_1TrotterClusterFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1TrotterClusterFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4" ]
       ] ],
       [ "utility", "namespaceopenjij_1_1utility.html", [
         [ "get_eigen_matrix_type", "structopenjij_1_1utility_1_1get__eigen__matrix__type.html", null ],

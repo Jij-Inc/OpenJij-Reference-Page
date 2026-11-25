@@ -10,5 +10,6 @@ var searchData=
   ['resetsignkey_7',['ResetSignKey',['../classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a5ba9c5f06154394d7ae37b6d673abe27',1,'openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;']]],
   ['resetzerocount_8',['ResetZeroCount',['../classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a5e2f18848e6c2aeeac6f7369f0fcaecf',1,'openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::ResetZeroCount()'],['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a32fe1452e19ba4abc0fa02ecb3529081',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::ResetZeroCount()']]],
   ['residual_5fenergy_9',['residual_energy',['../namespaceopenjij_1_1utils_1_1benchmark.html#aec5f11ad440e59171de47ba84b5206a9',1,'openjij::utils::benchmark']]],
-  ['run_10',['run',['../structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3',1,'openjij::algorithm::Algorithm']]]
+  ['run_10',['run',['../structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3',1,'openjij::algorithm::Algorithm']]],
+  ['run_5fsystems_5fin_5fparallel_11',['run_systems_in_parallel',['../namespaceopenjij.html#a4bc094f1c32ea2986d7a77f06554ff12',1,'openjij']]]
 ];

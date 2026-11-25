@@ -4,5 +4,7 @@ var searchData=
   ['transverseising_1',['TransverseIsing',['../structopenjij_1_1system_1_1TransverseIsing.html',1,'openjij::system']]],
   ['transverseising_3c_20graph_3a_3acsrsparse_3c_20floattype_20_3e_20_3e_2',['TransverseIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;',['../structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html',1,'openjij::system']]],
   ['transverseising_3c_20graph_3a_3adense_3c_20floattype_20_3e_20_3e_3',['TransverseIsing&lt; graph::Dense&lt; FloatType &gt; &gt;',['../structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html',1,'openjij::system']]],
-  ['transverseising_3c_20graph_3a_3asparse_3c_20floattype_20_3e_20_3e_4',['TransverseIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;',['../structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html',1,'openjij::system']]]
+  ['transverseising_3c_20graph_3a_3asparse_3c_20floattype_20_3e_20_3e_4',['TransverseIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;',['../structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html',1,'openjij::system']]],
+  ['trotterclusterflip_5',['TrotterClusterFlip',['../structopenjij_1_1updater_1_1TrotterClusterFlip.html',1,'openjij::updater']]],
+  ['trotterclusterflip_3c_20system_3a_3atransverseising_3c_20graphtype_20_3e_20_3e_6',['TrotterClusterFlip&lt; system::TransverseIsing&lt; GraphType &gt; &gt;',['../structopenjij_1_1updater_1_1TrotterClusterFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html',1,'openjij::updater']]]
 ];

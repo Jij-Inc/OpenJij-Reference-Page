@@ -6,5 +6,6 @@ var dir_f1192baf3a82cf9d17fbfe6ba0cf2bee =
     [ "k_local.hpp", "k__local_8hpp.html", "k__local_8hpp" ],
     [ "single_integer_move.hpp", "single__integer__move_8hpp.html", "single__integer__move_8hpp" ],
     [ "single_spin_flip.hpp", "single__spin__flip_8hpp.html", "single__spin__flip_8hpp" ],
-    [ "swendsen_wang.hpp", "swendsen__wang_8hpp.html", "swendsen__wang_8hpp" ]
+    [ "swendsen_wang.hpp", "swendsen__wang_8hpp.html", "swendsen__wang_8hpp" ],
+    [ "trotter_cluster_flip.hpp", "trotter__cluster__flip_8hpp.html", "trotter__cluster__flip_8hpp" ]
 ];

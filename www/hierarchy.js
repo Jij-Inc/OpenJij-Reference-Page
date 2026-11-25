@@ -102,6 +102,8 @@ var hierarchy =
     [ "openjij::system::TransverseIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing&lt; graph::Dense&lt; FloatType &gt; &gt;", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", null ],
+    [ "openjij::updater::TrotterClusterFlip&lt; System &gt;", "structopenjij_1_1updater_1_1TrotterClusterFlip.html", null ],
+    [ "openjij::updater::TrotterClusterFlip&lt; system::TransverseIsing&lt; GraphType &gt; &gt;", "structopenjij_1_1updater_1_1TrotterClusterFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html", null ],
     [ "std::true_type", null, [
       [ "openjij::utility::is_same_template< T, T >", "structopenjij_1_1utility_1_1is__same__template_3_01T_00_01T_01_4.html", null ]
     ] ],

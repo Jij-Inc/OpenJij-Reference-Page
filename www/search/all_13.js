@@ -31,5 +31,6 @@ var searchData=
   ['result_5ftype_28',['result_type',['../classopenjij_1_1utility_1_1Xorshift.html#a9b227f8d3bb8247ed73c2ccc2e7b01e4',1,'openjij::utility::Xorshift']]],
   ['rev_29',['rev',['../structfmath_1_1local_1_1LogVar.html#a51a7f4a654aec35c99c4bfed90047b5a',1,'fmath::local::LogVar::rev'],['../classfmath_1_1PowGenerator.html#a85204d83fc9a179cb7426b2df2825cbd',1,'fmath::PowGenerator::rev']]],
   ['rowcolumn_30',['RowColumn',['../namespaceopenjij_1_1graph.html#aadac114e7da61e10821a5c02cb05d722',1,'openjij::graph']]],
-  ['run_31',['run',['../structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3',1,'openjij::algorithm::Algorithm']]]
+  ['run_31',['run',['../structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3',1,'openjij::algorithm::Algorithm']]],
+  ['run_5fsystems_5fin_5fparallel_32',['run_systems_in_parallel',['../namespaceopenjij.html#a4bc094f1c32ea2986d7a77f06554ff12',1,'openjij']]]
 ];

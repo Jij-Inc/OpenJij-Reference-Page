@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a61b2f7cc10d83323ca613167444386ff":[3,0,1,3,10,20],
+"classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a673bad5a09f3c7c76e45aaa8eacc1d80":[2,0,1,4,10,3],
 "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a673bad5a09f3c7c76e45aaa8eacc1d80":[3,0,1,3,10,3],
 "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a70a1dc9c369acb33defb1c4ee49be082":[2,0,1,4,10,8],
 "classopenjij_1_1system_1_1IntegerSASystem_3_01graph_1_1IntegerPolynomialModel_00_01RandType_01_4.html#a70a1dc9c369acb33defb1c4ee49be082":[3,0,1,3,10,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#afc9e5f7234cb39c27292188f1ed22a58":[3,0,1,3,12,8],
 "classopenjij_1_1utility_1_1Xorshift.html":[2,0,1,6,8],
 "classopenjij_1_1utility_1_1Xorshift.html":[3,0,1,5,8],
-"classopenjij_1_1utility_1_1Xorshift.html#a177fe617226be46f8964e355950cde91":[2,0,1,6,8,5],
-"classopenjij_1_1utility_1_1Xorshift.html#a177fe617226be46f8964e355950cde91":[3,0,1,5,8,5],
-"classopenjij_1_1utility_1_1Xorshift.html#a1b8104784f3da54448c4ac2b18270c79":[2,0,1,6,8,4]
+"classopenjij_1_1utility_1_1Xorshift.html#a177fe617226be46f8964e355950cde91":[2,0,1,6,8,5]
 };

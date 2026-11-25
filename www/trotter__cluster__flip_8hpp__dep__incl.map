@@ -1,0 +1,15 @@
+<map id="trotter_cluster_flip.hpp" name="trotter_cluster_flip.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,5,194,33"/>
+<area shape="rect" id="Node000002" href="$updater_2all_8hpp.html" title=" " alt="" coords="77,81,143,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,46,113,81,107,80,109,51"/>
+<area shape="rect" id="Node000003" href="$declare_8hpp.html" title=" " alt="" coords="61,232,159,260"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="62,115,35,132,12,158,8,169,9,179,23,199,47,216,76,230,71,233,44,221,19,203,4,181,3,168,8,155,32,128,65,110"/>
+<area shape="rect" id="Node000005" href="$integer__sa__sampler_8hpp.html" title=" " alt="" coords="22,157,198,184"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="111,122,112,157,107,156,109,127"/>
+<area shape="rect" id="Node000006" href="$sa__sampler_8hpp.html" title=" " alt="" coords="222,157,345,184"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="155,112,255,155,250,157,155,118"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html" title=" " alt="" coords="69,308,151,336"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,274,112,309,107,306,108,278"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="111,198,112,233,107,231,109,203"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="236,192,142,234,139,230,240,189"/>
+</map>
